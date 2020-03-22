@@ -1,0 +1,54 @@
+#container {
+    background-image: url(../resources/images/quisom/pascuetEntradaBg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    padding: 2rem;
+    min-height: 400px;
+    position: relative;
+}
+
+#container * {
+    color: #fff;
+    max-width: 50%;
+    text-align: justify;
+    position: relative;
+    z-index: 1;
+    line-height: 1.8rem;
+}
+
+#container h1 {
+    font-size: 2.2rem;
+    margin: 2.2rem 0;
+}
+
+#mask {
+    position: absolute;
+    background: url(../resources/images/quisom/quisomMaskBg.png) repeat-y;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+#logoColor {
+    text-align: center;
+    margin: 5rem 0;
+    position: relative;
+    z-index: 2;
+}
+
+#logoColor img {
+    max-width: 40%;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 768px) {
+    #container * {
+        max-width: 100%;
+    }
+
+    #container {
+        background-size: auto;
+    }
+}

@@ -1,0 +1,1070 @@
+/* MAIN MENU */
+#mainMenu {
+    width: 221px;
+    top: 41px;
+    left: 0;
+    position: absolute;
+    overflow: hidden;
+    z-index: 10001;
+    border-bottom-right-radius: 3px;
+    background: #f9f9f9;
+    border-right: 1px solid #d0d0d0;
+    border-bottom: 1px solid #d0d0d0;
+}
+
+#mainMenu li {
+    width: 110px;
+    height: 95px;
+    float: left;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+#mainMenu li:HOVER {
+    background-color: #f0f0f0;
+}
+
+#mainMenu li p {
+    width: 100%;
+    margin-top: 65px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+/* TOP BAR GENERAL */
+#topBar {
+    height: 41px;
+    overflow: hidden;
+}
+
+#topBarLeft {
+    margin-right: 20px;
+    height: 100%;
+    float: left;
+}
+
+#topBarMiddle {
+    height: 100%;
+    float: left;
+}
+
+#topBarRight {
+    height: 100%;
+    float: right;
+}
+
+#topBarUserIcon {
+    width: 14px;
+    height: 16px;
+    float: left;
+    margin-top: 13px;
+    background-position: -180px 0;
+}
+
+#topBarUser {
+    margin-top: 11px;
+    padding: 0 5px 0 5px;
+    float: left;
+    font-size: 12px;
+    color: #fff;
+    overflow: hidden;
+}
+
+#topBar a.topBarBtn {
+    margin: 5px 8px 0 8px;
+    width: 30px;
+    height: 30px;
+    float: left;
+    cursor: pointer;
+}
+
+#topBarMenuBtn {
+    background-position: 0 0;
+}
+
+#topBarMenuBtn:ACTIVE {
+    background-position: -30px 0;
+}
+
+#topBarHomeBtn {
+    background-position: -60px 0;
+}
+
+#topBarHomeBtn:ACTIVE {
+    background-position: -90px 0;
+}
+
+#topBarCssBtn {
+    background-position: 0 -150px;
+}
+
+#topBarCssBtn:ACTIVE {
+    background-position: -30px -150px;
+}
+
+#topBarVarBtn {
+    background-position: -60px -150px;
+}
+
+#topBarVarBtn:ACTIVE {
+    background-position: -90px -150px;
+}
+
+#topBarConfigureBtn {
+    background-position: -160px -70px;
+}
+
+#topBarConfigureBtn:ACTIVE {
+    background-position: -160px -100px;
+}
+
+#topBarLogoutBtn {
+    background-position: -120px 0;
+}
+
+#topBarLogoutBtn:ACTIVE {
+    background-position: -150px 0;
+}
+
+/* TOP BAR TABS COMPONENT */
+#topBarTabs {
+    height: 100%;
+}
+
+#topBarTabs li {
+    height: 30px;
+    margin: 5px 3px 5px 2px;
+    float: left;
+    cursor: pointer;
+    background: rgba(255, 255, 255, 0.5);
+    border-right: 1px solid #676767;
+    border-radius: 3px;
+}
+
+#topBarTabs li.selected {
+    background: rgba(255, 255, 255, 1);
+}
+
+#topBarTabs p {
+    font-size: 12px;
+    line-height: 28px;
+    padding: 0 10px 0 20px;
+}
+
+#topBarTabs div.closeTabBtn {
+    position: absolute;
+    margin: 2px;
+    width: 10px;
+    height: 10px;
+    background-position: -180px -20px;
+}
+
+#topBarTabs div.closeTabBtn:ACTIVE {
+    width: 8px;
+    height: 8px;
+    background-position: -190px -20px;
+}
+
+/* MODULE GLOBAL */
+#moduleContainer {
+    height: calc(100% - 40px);
+}
+
+div.module {
+    width: 100%;
+    height: 100%;
+    display: none;
+    position: relative;
+}
+
+div.bar {
+    height: 31px;
+}
+
+/* HOME VIEW */
+#homeViewContainer {
+    height: 100%;
+    position: relative;
+}
+
+#customLogoContainer {
+    width: 500px;
+    height: 200px;
+    position: absolute;
+    left: 50%;
+    top: 50px;
+    margin-left: -250px;
+    text-align: center;
+}
+
+#customLogoContainer img {
+    max-width: 500px;
+    max-height: 100px;
+}
+
+#componentUsedSpace {
+    width: 500px;
+    position: absolute;
+    left: 50%;
+    margin-left: -250px;
+    top: 200px;
+}
+
+#componentUsedSpaceTopContainer {
+    text-align: right;
+}
+
+#componentUsedSpaceTopContainer * {
+    font-size: 11px;
+}
+
+#componentUsedSpaceBarContainer {
+    border-radius: 2px;
+    background-color: #fff;
+    margin-top: 5px;
+    overflow: hidden;
+}
+
+#componentUsedSpace div.componentUsedSpaceBar {
+    height: 20px;
+    float: left;
+}
+
+#componentUsedSpaceBarPictures {
+    background-color: #eb5a00;
+}
+
+#componentUsedSpaceBarFiles {
+    background-color: #fcbc32;
+}
+
+#componentUsedSpaceLegendContainer {
+    margin-top: 5px;
+}
+
+#componentUsedSpaceLegendContainer p {
+    float: left;
+    font-size: 11px;
+}
+
+#componentUsedSpaceLegendContainer span {
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    margin-right: 5px;
+    border-radius: 2px;
+}
+
+#componentUsedSpaceLegendPictures span {
+    background-color: #eb5a00;
+}
+
+#componentUsedSpaceLegendFiles {
+    margin-left: 40px;
+}
+
+#componentUsedSpaceLegendFiles span {
+    background-color: #fcbc32;
+}
+
+#componentUsedSpaceBarRequest {
+    float: right !important;
+    cursor: pointer;
+    font-style: italic;
+}
+
+#componentSkinChanger {
+    width: 100%;
+    position: absolute;
+    bottom: 220px;
+    text-align: center;
+}
+
+#componentSkinChanger p {
+    cursor: pointer;
+}
+
+#componentSkinChangerOptionsContainer {
+    display: none;
+    margin-top: 10px;
+}
+
+#componentSkinChanger div.componentSkinChangerOption {
+    width: 30px;
+    height: 30px;
+    margin: 0 10px 0 10px;
+    display: inline-block;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+#componentSkinChanger div.componentSkinChangerOption:HOVER {
+    opacity: 0.5;
+}
+
+#componentSkinChangerOrange {
+    border: 1px solid #bb5e20;
+    background-color: #ee8a39;
+}
+
+#componentSkinChangerRed {
+    border: 1px solid #8b1513;
+    background-color: #ee3a31;
+}
+
+#componentSkinChangerGreen {
+    border: 1px solid #51920b;
+    background-color: #72c717;
+}
+
+#componentSkinChangerBlue {
+    border: 1px solid #15508c;
+    background-color: #3685d6;
+}
+
+#componentSkinChangerPurple {
+    border: 1px solid #551b7e;
+    background-color: #a74de5;
+}
+
+#componentSkinChangerBlack {
+    border: 1px solid #212121;
+    background-color: #656565;
+}
+
+#homeViewContainer #literalContainer {
+    width: 100%;
+    position: absolute;
+    bottom: 180px;
+    text-align: center;
+}
+
+#homeViewContainer p.literal {
+    margin: 0 10px 0 10px;
+    display: inline-block;
+    font-size: 11px;
+    cursor: pointer;
+    color: #777;
+    text-transform: uppercase;
+}
+
+#flareDropLogo {
+    width: 300px;
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    margin-left: -150px;
+    text-align: center;
+}
+
+#flareDropLogo span {
+    font-size: 10px;
+    color: #aaa;
+    display: block;
+}
+
+/** MODULE BUTTONS */
+.optionBtn {
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    float: left;
+}
+
+.optionBtnEnabled {
+    cursor: pointer;
+}
+
+.addObjectBtn {
+    background-position: -100px -70px;
+}
+
+.addObjectBtn.optionBtnEnabled {
+    background-position: -20px -70px;
+}
+
+.addObjectBtn.optionBtnEnabled:ACTIVE {
+    background-position: -20px -90px;
+}
+
+.remObjectBtn {
+    background-position: -120px -70px;
+}
+
+.remObjectBtn.optionBtnEnabled {
+    background-position: -40px -70px;
+}
+
+.remObjectBtn.optionBtnEnabled:ACTIVE {
+    background-position: -40px -90px;
+}
+
+.copyObjectBtn {
+    background-position: -80px -130px;
+}
+
+.copyObjectBtn.optionBtnEnabled {
+    background-position: 0 -130px;
+}
+
+.copyObjectBtn.optionBtnEnabled:ACTIVE {
+    background-position: -40px -130px;
+}
+
+.pasteObjectBtn {
+    background-position: -100px -130px;
+}
+
+.pasteObjectBtn.optionBtnEnabled {
+    background-position: -20px -130px;
+}
+
+.pasteObjectBtn.optionBtnEnabled:ACTIVE {
+    background-position: -60px -130px;
+}
+
+.selectAllObjectBtn {
+    background-position: -120px -110px;
+}
+
+.selectAllObjectBtn:ACTIVE {
+    background-position: -120px -130px;
+}
+
+.unselectAllObjectBtn {
+    background-position: -140px -110px;
+}
+
+.unselectAllObjectBtn:ACTIVE {
+    background-position: -140px -130px;
+}
+
+.editObjectBtn {
+    background-position: -80px -70px;
+    margin-left: 20px;
+}
+
+.editObjectBtn.optionBtnEnabled {
+    background-position: 0 -70px;
+}
+
+.editObjectBtn.optionBtnEnabled:ACTIVE {
+    background-position: 0 -90px;
+}
+
+.attachObjectBtn {
+    background-position: -140px -70px;
+}
+
+.attachObjectBtn.optionBtnEnabled {
+    background-position: -60px -70px;
+}
+
+.attachObjectBtn.optionBtnEnabled:ACTIVE {
+    background-position: -60px -90px;
+}
+
+.expObjectBtn {
+    margin-left: 20px;
+    background-position: -100px -110px;
+}
+
+.expObjectBtn.optionBtnEnabled {
+    background-position: -120px -90px;
+}
+
+.expObjectBtn.optionBtnEnabled:ACTIVE {
+    background-position: -140px -90px;
+}
+
+.addFolderBtn {
+    background-position: -100px -30px;
+}
+
+.addFolderBtn.optionBtnEnabled {
+    background-position: -20px -30px;
+}
+
+.addFolderBtn.optionBtnEnabled:ACTIVE {
+    background-position: -20px -50px;
+}
+
+.remFolderBtn {
+    background-position: -120px -30px;
+}
+
+.remFolderBtn.optionBtnEnabled {
+    background-position: -40px -30px;
+}
+
+.remFolderBtn.optionBtnEnabled:ACTIVE {
+    background-position: -40px -50px;
+}
+
+.editFolderBtn {
+    background-position: -80px -30px;
+}
+
+.editFolderBtn.optionBtnEnabled {
+    background-position: 0 -30px;
+}
+
+.editFolderBtn.optionBtnEnabled:ACTIVE {
+    background-position: 0 -50px;
+}
+
+.attachFolderBtn {
+    background-position: -140px -30px;
+}
+
+.attachFolderBtn.optionBtnEnabled {
+    background-position: -60px -30px;
+}
+
+.attachFolderBtn.optionBtnEnabled:ACTIVE {
+    background-position: -60px -50px;
+}
+
+.expandFoldersBtn {
+    background-position: -80px -50px;
+    float: right;
+}
+
+.expandFoldersBtn:ACTIVE {
+    background-position: -120px -50px;
+}
+
+.collapseFoldersBtn {
+    background-position: -100px -50px;
+    float: right;
+}
+
+.collapseFoldersBtn:ACTIVE {
+    background-position: -140px -50px;
+}
+
+.periodBtn {
+    background-position: 0 -110px;
+}
+
+/* PAGINATOR */
+p.paginationContainer {
+    float: right;
+    margin: 6px 5px 0 0;
+}
+
+p.paginationContainer span.paginationPrev {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    cursor: pointer;
+    background-position: -160px -129px;
+}
+
+p.paginationContainer span.paginationPrev:ACTIVE {
+    background-position: -170px -129px;
+}
+
+p.paginationContainer span.paginationNext {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    cursor: pointer;
+    background-position: -160px -139px;
+}
+
+p.paginationContainer span.paginationNext:ACTIVE {
+    background-position: -170px -139px;
+}
+
+p.paginationContainer span.paginationIndicator {
+    margin: 0 5px;
+}
+
+/* COMPONENT FOLDERS */
+div.componentFolders {
+    height: 100%;
+    background-color: #fff;
+    position: relative;
+}
+
+div.componentFolders div.folderTreeContainer {
+    height: calc(100% - 30px);
+    border-right: 1px solid #d0d0d0;
+    overflow: auto;
+}
+
+/* COMPONENT TREE */
+div.folderTreeContainer {
+    padding: 5px;
+}
+
+ul.componentTree div.componentTreeNodeLabel p.componentTreeNodeP {
+    font-size: 12px;
+    line-height: 20px;
+}
+
+ul.componentTree li.componentTreePlaceholder {
+    height: 10px;
+    opacity: 0.5;
+}
+
+/* COMPONENT OBJECTS */
+div.componentObjects {
+    height: calc(100% - 30px);
+    position: relative;
+}
+
+div.componentObjects div.objectOptionsContainer ul.componentOptionBar {
+    height: 20px;
+    margin: 5px 0 0 20px;
+    background-color: #fff;
+}
+
+div.componentObjects div.objectOptionsContainer ul.componentOptionBar li p {
+    font-size: 11px;
+    line-height: 17px;
+}
+
+div.componentObjects .dataGridFilterText {
+    width: 180px;
+    float: left;
+    height: 20px;
+    margin: 5px 0 0 20px;
+    padding: 0 10px 0 22px;
+    font-size: 11px;
+    background: url(../resources/images/_manager/search.svg) no-repeat 4px #fff;
+}
+
+div.componentObjects div.datagridContainer {
+    height: 100%;
+    overflow: auto;
+}
+
+div.componentObjects div.componentDataGrid {
+    border-bottom: 1px solid #d0d0d0;
+    background: #fff;
+
+}
+
+div.componentObjects div.componentDataGrid li.componentDataGridRow p.checkEnabled {
+    background: url(../resources/images/_manager/checkEnabled.svg) no-repeat center;
+}
+
+div.componentObjects div.componentDataGrid li.componentDataGridRow p.checkDisabled {
+    background: url(../resources/images/_manager/checkDisabled.svg) no-repeat center;
+}
+
+/* COMPONENT PERIOD CHOOSER */
+div.componentPeriodChooser {
+    height: 30px;
+}
+
+div.componentPeriodChooser:HOVER .periodBtn {
+    background-position: -20px -110px;
+}
+
+div.componentPeriodChooser .periodBtn {
+    width: 20px;
+    height: 20px;
+    margin: 5px 0 5px 0;
+    cursor: pointer;
+    float: left;
+}
+
+p.componentPeriodChooserLabel {
+    height: 30px;
+    cursor: pointer;
+    font-size: 11px;
+    line-height: 32px;
+    float: left;
+    padding-left: 5px;
+}
+
+ul.componentPeriodChooserDropDown {
+    width: 150px;
+    overflow: hidden;
+    position: absolute;
+    top: 30px;
+    z-index: 10001;
+}
+
+ul.componentPeriodChooserDropDown li {
+    padding: 5px 10px 5px 10px;
+    font-size: 11px;
+    cursor: pointer;
+}
+
+ul.componentPeriodChooserDropDown li:HOVER {
+    background-color: #fff;
+}
+
+.dataGridFilterPeriod {
+    margin-left: 13px;
+    float: left;
+}
+
+/* EDIT POPUP */
+form.editPopUp input[type=text], form.editPopUp input[type=password], form.editPopUp textarea {
+    width: 100%;
+    float: left;
+    margin-bottom: 10px;
+}
+
+form.editPopUp textarea {
+    height: 150px;
+}
+
+form.editPopUp input[type="submit"] {
+    float: right;
+    margin-left: 10px;
+}
+
+form.editPopUp div.row {
+    margin-bottom: 10px;
+}
+
+form.editPopUp div.editFormCheckContainer {
+    width: 100%;
+    float: left;
+    margin-bottom: 10px;
+}
+
+form.editPopUp ul.componentOptionBar {
+    float: right;
+}
+
+/* ATTACH POPUP */
+div.attachPopUpTopSelectorContainer ul.componentOptionBar {
+    float: right;
+}
+
+form.attachPopUp input[type="submit"] {
+    float: right;
+}
+
+input.attachPopUpCancelBtn {
+    display: none;
+    float: right;
+}
+
+form.attachPopUp input.componentFormFileSelector {
+    margin-bottom: 15px;
+}
+
+form.attachPopUp div.filesContainer {
+    float: left;
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 0 0 10px 10px;
+    background-color: #f5f5f5;
+    border-radius: 3px;
+    border: 1px solid #e7e7e7;
+    position: relative;
+}
+
+form.attachPopUp div.filesContainer p.noFiles {
+    margin-top: 10px;
+}
+
+form.attachPopUp div.componentFormFilesPreview p {
+    width: 100%;
+    float: left;
+}
+
+form.attachPopUp div.componentFormFilesPreview span {
+    font-size: 13px;
+    display: inline;
+    margin: 10px 8px 0 0;
+    float: left;
+}
+
+form.attachPopUp span.componentFormPreviewRemove {
+    width: 10px;
+    height: 10px;
+    cursor: pointer;
+    margin-top: 14px !important;
+    background-position: -180px -20px;
+}
+
+form.attachPopUp span.componentFormPreviewRemove:ACTIVE {
+    width: 8px;
+    height: 8px;
+    background-position: -190px -20px;
+}
+
+form.attachPopUp div.componentFormProgressBar {
+    width: 100%;
+    height: 20px;
+    text-align: center;
+    border-radius: 3px;
+    position: relative;
+    margin-bottom: 15px;
+    display: none;
+}
+
+form.attachPopUp div.componentFormProgressBar div {
+    height: 100%;
+    position: absolute;
+}
+
+form.attachPopUp div.componentFormProgressBar p {
+    width: 100%;
+    font-size: 13px;
+    position: absolute;
+}
+
+form.attachPopUp p.componentFormFileSelectorMessage {
+    display: none;
+    margin-bottom: 10px;
+}
+
+form.attachPopUp div.filesContainer {
+    text-align: center;
+}
+
+form.attachPopUp div.attachThumb {
+    width: 100px;
+    margin: 10px 10px 0 0;
+    height: 100px;
+    background-color: #e7e7e7;
+    display: inline-block;
+    text-align: center;
+    overflow: hidden;
+    border-radius: 3px;
+    cursor: pointer;
+    position: relative;
+}
+
+form.attachPopUp div.attachThumb:HOVER img {
+    opacity: 0.4;
+}
+
+form.attachPopUp div.attachThumb:HOVER div.attachThumbIcon {
+    opacity: 0.4;
+}
+
+form.attachPopUp div.attachThumb p {
+    font-size: 11px;
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    line-height: 14px;
+}
+
+form.attachPopUp div.attachThumb img {
+    width: 100%;
+    height: 100%;
+}
+
+form.attachPopUp div.attachThumbIcon {
+    width: 24px;
+    height: 34px;
+    margin: 20px auto;
+    background-position: -160px -30px;
+}
+
+form.attachPopUp div.attachThumb span.attachThumbRemove {
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    background-position: -180px -20px;
+}
+
+form.attachPopUp div.attachThumb span.attachThumbRemove:ACTIVE {
+    width: 8px;
+    height: 8px;
+    background-position: -190px -20px;
+}
+
+form.attachPopUp div.attachThumb span.attachThumbPrivate {
+    width: 10px;
+    height: 12px;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    background-position: -188px -42px;
+}
+
+form.attachPopUp div.attachThumb span.attachThumbPrivate.locked {
+    width: 10px;
+    height: 12px;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    background-position: -188px -30px;
+}
+
+/* EXPORT POPUP */
+#exportPopUpWindow .exportPopUpRow {
+    margin-top: 10px;
+}
+
+#exportPopUpWindow .exportPopUpRow p {
+    float: left;
+    margin-right: 20px;
+}
+
+#exportPopUpWindow div.componentSwitch {
+    float: right;
+}
+
+#exportSubmitBtn {
+    float: right;
+    margin-top: 20px;
+}
+
+/* CSS CONFIGURATION POPUP */
+#cssPopUpContainer li {
+    margin-top: 10px;
+}
+
+#cssPopUpContainer p {
+    cursor: pointer;
+}
+
+#cssPopUpContainer textarea {
+    margin: 5px 0 10px 0;
+}
+
+#cssPopUpContainer input[type=submit] {
+    float: right;
+    margin-bottom: 20px;
+}
+
+/* GLOBAL VARIABLES CONFIGURATION POPUP */
+#varPopUpContainer li {
+    margin-top: 10px;
+}
+
+#varPopUpContainer p {
+    cursor: pointer;
+}
+
+#varPopUpContainer textarea {
+    margin: 5px 0 10px 0;
+}
+
+#varPopUpContainer input[type=submit] {
+    float: right;
+    margin-bottom: 20px;
+}
+
+/* PayPal payment button */
+form.payPalBuyNowButton {
+    margin: 20px 50px 50px 0;
+    float: left;
+}
+
+a.paymentMail {
+    float: left;
+    margin-top: 26px;
+}
+
+/* Configuration PopUp */
+#configurationPopUpWindow ul.componentOptionBar {
+    float: right;
+}
+
+#configurationPopUpWindow form {
+    margin-top: 20px;
+}
+
+#configurationPopUpWindow p {
+    overflow: hidden;
+    float: left;
+}
+
+#configurationPopUpWindow p.remove {
+    width: auto;
+    cursor: pointer;
+    color: #eb5a00;
+    float: right;
+}
+
+#configurationPopUpWindow p.defined {
+    font-size: 10px;
+    height: 14px;
+    line-height: 14px;
+}
+
+#configurationPopUpWindow input {
+    margin-right: 3%;
+    margin-top: 20px;
+}
+
+#configurationPopUpWindow input[type=submit] {
+    width: auto;
+    float: right;
+    margin-right: 0;
+}
+
+#configurationMenu p {
+    width: 28%;
+}
+
+#configurationMenu input {
+    width: 25%;
+}
+
+#configurationObjects p {
+    width: 8%;
+    font-size: 7px !important;
+    line-height: 9px;
+}
+
+#configurationObjects input {
+    width: 5%;
+    font-size: 8px;
+}
+
+#configurationFilters p {
+    width: 18%;
+}
+
+#configurationFilters input {
+    width: 15%;
+}
+
+#configurationProperties p {
+    width: 8%;
+    font-size: 8px !important;
+    line-height: 10px;
+}
+
+#configurationProperties input {
+    width: 5%;
+    font-size: 8px;
+}
+
+#configurationLists p {
+    width: 15%;
+}
+
+#configurationLists input {
+    width: 12%;
+}
+
+#configurationCss p {
+    width: 28%;
+}
+
+#configurationCss input {
+    width: 25%;
+}
+
+#configurationVar p {
+    width: 28%;
+}
+
+#configurationVar input {
+    width: 25%;
+}
+
+/* MISC */
+.skinIcon, form.attachPopUp span.componentFormPreviewRemove {
+    background-size: 198px 180px;
+}

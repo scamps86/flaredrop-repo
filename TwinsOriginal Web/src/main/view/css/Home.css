@@ -1,0 +1,184 @@
+#bottomHeader {
+    background-color: transparent;
+}
+
+section.section {
+    margin-top: -5rem;
+}
+
+/* SLIDER */
+#slider {
+    width: 100%;
+}
+
+#slider .owl-controls.clickable {
+    top: -5rem;
+    position: relative;
+}
+
+#slider .owl-pagination .owl-page span {
+    background-color: #000;
+}
+
+#slider .owl-pagination .owl-page.active span {
+    background-color: #fff;
+}
+
+#slider div.slide {
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 45rem;
+    background-size: cover;
+}
+
+#slider div.slide.s1 {
+    background-image: url(../resources/images/home/bg1.jpg);
+}
+
+#slider div.slide.s2 {
+    background-image: url(../resources/images/home/bg2.jpg);
+}
+
+#slider div.slide.s3 {
+    background-image: url(../resources/images/home/bg3.jpg);
+}
+
+#slider div.slide.s4 {
+    background-image: url(../resources/images/home/bg1.jpg);
+}
+
+#slider div.slide.s5 {
+    background-image: url(../resources/images/home/bg2.jpg);
+}
+
+.slideTitle {
+    margin-top: 12rem;
+    text-align: center;
+}
+
+#slider .slide h2 {
+    font-family: 'Caveat', cursive;
+    font-size: 5rem;
+    line-height: 5rem;
+    color: #fff;
+}
+
+#slider .slideDescription {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+#slider .slide h3 {
+    font-size: 1.4rem;
+    line-height: 4rem;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+#slider .slideButton {
+    text-align: center;
+    margin-top: 4rem;
+}
+
+#slider .slideButton a {
+    display: inline-block;
+    background-color: #7a584e;
+    padding: 1.5rem 4rem;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1.4rem;
+    font-weight: 900;
+}
+
+.mainDescription, .mainDescription * {
+    font-size: 1.3rem;
+    line-height: 1.6rem;
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.mainDescription .caveat {
+    font-family: 'Caveat', cursive;
+    font-size: 1.6rem;
+    line-height: 1.8rem;
+}
+
+.mainDescription .highlight {
+    color: #7a584e;
+}
+
+#homeOptions {
+    margin-bottom: 3rem;
+}
+
+.bannerOption * {
+    color: #fff;
+}
+
+.bannerOption h4 {
+    font-family: 'Caveat', cursive;
+    font-size: 2rem;
+    line-height: 2.2rem;
+    margin-bottom: 2rem;
+}
+
+.bannerOption p {
+    text-align: justify;
+}
+
+.bannerOption {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bannerOption .centered {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 3rem;
+}
+
+#op1 {
+    background-image: url(../resources/images/home/op1.jpg);
+}
+
+#op2 {
+    background-image: url(../resources/images/home/op2.jpg);
+}
+
+#op3 {
+    background-image: url(../resources/images/home/op3.jpg);
+}
+
+#op4 {
+    background-image: url(../resources/images/home/op4.jpg);
+}
+
+#op5 {
+    background-image: url(../resources/images/home/op5.jpg);
+}
+
+.welcome {
+    font-family: 'Caveat', cursive;
+    font-size: 3rem;
+    line-height: 3rem;
+    margin-top: 3rem;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+#socials {
+    text-align: center;
+    margin-bottom: 3rem;
+    margin-top: 1rem;
+}
+
+@media (max-width: 700px) {
+    #slider div.slide {
+        height: 50rem;
+    }
+
+    #slider .slide h3 {
+        line-height: 2rem;
+    }
+}

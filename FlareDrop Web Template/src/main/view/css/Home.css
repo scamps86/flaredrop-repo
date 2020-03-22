@@ -1,0 +1,9 @@
+/* SLIDER */
+#slider {
+    width: 100%;
+}
+
+#slider div.slide {
+    width: 100%;
+    text-align: center;
+}

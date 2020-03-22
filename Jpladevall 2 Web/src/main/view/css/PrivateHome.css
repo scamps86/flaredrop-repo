@@ -1,0 +1,222 @@
+#privateHomeSlider .slide {
+    width: 100%;
+    position: relative;
+}
+
+#privateHomeSlider .slide img {
+    width: 100%;
+}
+
+#privateHomeSlider .slide .sliderContent {
+    width: 100%;
+    opacity: 0;
+    z-index: 10;
+    overflow: hidden;
+    padding: 5rem 0;
+    position: absolute;
+    top: 0;
+    transform: translateX(-10rem);
+}
+
+#privateHomeSlider .slide .sliderContent .centered {
+    overflow: initial;
+}
+
+#privateHomeSlider .slide .sliderContent.show {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+#privateHomeSlider .slide h2 {
+    color: #fff;
+    font-size: 4rem;
+    font-family: helvetivaInserat;
+    text-transform: uppercase;
+}
+
+#privateHomeSlider .slide p {
+    color: #fff;
+    font-size: 1.3rem;
+    line-height: 1.7rem;
+    margin-top: 3rem;
+}
+
+#privateHomeSlider .owl-pagination {
+    top: -4rem;
+    z-index: 12;
+    position: relative;
+}
+
+#newProducts {
+    display: flex;
+    flex-flow: row nowrap;
+    margin-bottom: 2rem;
+}
+
+#shuffleProducts {
+    display: flex;
+    flex-flow: row nowrap;
+    margin-bottom: 2rem;
+}
+
+#newProductsLeft {
+    background: #0093dd url(../resources/images/shared/white_arrow.png) no-repeat scroll 100% 50%;
+    padding: 1.2rem 2rem 1.2rem 1.2rem;
+    width: 25%;
+}
+
+#shuffleProductsRight {
+    background: #0093dd url(../resources/images/shared/white_arrow_reverse.png) no-repeat scroll 0 50%;
+    padding: 1.2rem 1.2rem 1.2rem 2rem;
+    width: 25%;
+}
+
+.productsBlueBox h2 {
+    margin-top: 0.5rem;
+}
+
+.productsBlueBox p {
+    color: #fff;
+    font-size: 0.9rem;
+    margin: 0.5rem 0 2rem 0;
+}
+
+.productsBlueBoxhr {
+    background-color: #fff;
+    height: 1px;
+    width: 100%;
+}
+
+#newProductsSlider {
+    margin-left: 2rem;
+    width: 70% !important;
+}
+
+#shuffleProductsSlider {
+    margin-right: 2rem;
+    width: 70% !important;
+}
+
+.productsSlider {
+    width: 80% !important;
+}
+
+.productsSlider .owl-wrapper-outer {
+    width: calc(100% - 100px) !important;
+    margin: 0 50px;
+}
+
+.productsSlider .slide {
+    width: 14rem;
+}
+
+.productsSlider .owl-prev {
+    text-indent: -9999px;
+    width: 23px;
+    height: 44px;
+    background: url(../resources/images/shared/arrowNav.png) no-repeat 0 0;
+    float: left;
+    margin-top: -148px;
+}
+
+.productsSlider .owl-controls {
+    margin: 0;
+}
+
+.productsSlider .owl-prev:hover {
+    background-position: 0 100%;
+}
+
+.productsSlider .owl-next {
+    width: 23px;
+    height: 44px;
+    background: url(../resources/images/shared/arrowNav.png) no-repeat 100% 0;
+    text-indent: -9999px;
+    float: right;
+    margin-top: -148px;
+}
+
+.productsSlider .owl-next:hover {
+    background-position: 100% 100%;
+}
+
+#privateHome3Blocks {
+    margin-bottom: 2rem;
+}
+
+#privateHome3Blocks nav {
+    border-top: 1px solid #dedede;
+    border-bottom: 1px solid #dedede;
+    display: flex;
+    flex-flow: row nowrap;
+    padding: 1.2rem 0 1rem 0;
+}
+
+#privateHome3Blocks a {
+    margin-left: 1rem;
+    cursor: pointer;
+}
+
+#privateHome3Blocks a:first-child {
+    margin-left: 0;
+}
+
+#privateHome3Blocks a:hover img {
+    opacity: 0.5;
+}
+
+#privateHome3Blocks img {
+    width: 100%;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 768px) {
+    .productsSlider {
+        width: 100% !important;
+    }
+
+    .productsSlider.slide div {
+        padding: 2rem 2rem;
+    }
+
+    .productsSlider .slide h2 {
+        font-size: 2rem;
+    }
+
+    .productsSlider .slide p {
+        font-size: 1rem;
+        line-height: 1.2rem;
+        margin-top: 2rem;
+    }
+
+    .productsBlueBox {
+        margin-bottom: 2rem;
+    }
+
+    #newProducts {
+        flex-flow: column;
+    }
+    #newProductsSlider {
+        margin-left: 0;
+        width: 100% !important;
+    }
+
+    #newProductsLeft {
+        width: 100%;
+    }
+
+    #shuffleProducts {
+        flex-flow: column;
+        flex-direction: column-reverse;
+    }
+
+    #shuffleProductsRight {
+        flex-flow: column;
+        margin-left: 0;
+        width: 100% !important;
+    }
+
+    #shuffleProductsRight {
+        width: 100%;
+    }
+}

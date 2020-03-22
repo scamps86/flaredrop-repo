@@ -1,0 +1,158 @@
+#page {
+    padding-top: 4rem;
+}
+
+#left {
+    width: 50%;
+    float: left;
+    padding-right: 3rem;
+}
+
+#left div.componentFormInputContainer {
+    float: left;
+}
+
+#left div.componentFormInputContainer input[type=submit] {
+    padding: 1rem 2rem;
+    font-size: 1.2rem;
+}
+
+#left div.componentFormInputContainer input[type=submit]:disabled {
+    background-color: #888;
+    color: #ccc;
+    cursor: default;
+}
+
+#payPalIcons {
+    float: right;
+    margin-top: 1rem;
+    width: 12rem;
+}
+
+#right {
+    float: left;
+    width: 50%;
+}
+
+#right h2.titleProduct {
+    margin-bottom: 1rem;
+}
+
+#checkoutForm {
+    margin-top: 3rem;
+}
+
+#cartContainer ul.componentShoppingCartItemsList {
+    width: 100%;
+    float: left;
+    background-color: #eee;
+    margin-bottom: 1rem;
+}
+
+#cartContainer li.componentShoppingCartItem {
+    width: 100%;
+    float: left;
+    padding: 1rem;
+}
+
+#cartContainer li.componentShoppingCartItem a.componentShoppingCartItemTitle {
+    font-family: 'fjalla';
+    width: 100%;
+    color: #000;
+    float: left;
+    margin-bottom: 0.5rem;
+}
+
+#cartContainer li.componentShoppingCartItem p.componentShoppingCartItemPrice {
+    float: left;
+    width: 100%;
+    margin-bottom: 0.5rem;
+}
+
+#cartContainer li.componentShoppingCartItem p.componentShoppingCartItemPrice span {
+    color: #89a730;
+    font-family: 'roboto_bold';
+}
+
+#cartContainer li.componentShoppingCartItem p.componentShoppingCartItemTaxes {
+    display: none;
+}
+
+#cartContainer li.componentShoppingCartItem p.componentShoppingCartItemUnits {
+    float: left;
+    width: 100%;
+    margin-right: 1rem;
+}
+
+#cartContainer li.componentShoppingCartItem input.componentShoppingCartItemInputUnits {
+    width: 3rem;
+    border-radius: 0;
+    height: 2rem;
+    margin-left: 1rem;
+    font-size: 0.8rem;
+}
+
+#cartContainer li.componentShoppingCartItem input.componentShoppingCartItemInputRemove {
+    background-color: #e72c2c;
+    border-radius: 0;
+    border: none;
+    color: #fff;
+    float: right;
+    padding: 0.2rem 0.5rem;
+    margin-top: -1.8rem;
+    font-size: 0.8rem;
+}
+
+#cartContainer p.componentShoppingCartShippingPrice {
+    float: left;
+    width: 100%;
+    text-transform: uppercase;
+    color: #000;
+    font-size: 1.2rem;
+    font-family: 'roboto_bold';
+}
+
+#cartContainer p.componentShoppingCartShippingPrice span {
+    color: #000;
+    font-family: 'roboto_bold';
+    margin-left: 1rem;
+    font-size: 1.2rem;
+}
+
+#cartContainer p.componentShoppingCartTotalPrice {
+    float: left;
+    width: 100%;
+    text-transform: uppercase;
+    color: #000;
+    margin-top: 0.5rem;
+    font-size: 1.2rem;
+    font-family: 'roboto_bold';
+}
+
+#cartContainer p.componentShoppingCartTotalPrice span {
+    color: #89a730;
+    font-family: 'roboto_bold';
+    margin-left: 1rem;
+    font-size: 1.2rem;
+}
+
+#cartContainer input.componentShoppingCartEmpty {
+    float: right;
+    border-radius: 0;
+    float: right;
+    margin-top: 1rem;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 480px) {
+    #left {
+        width: 100%;
+        padding-right: 0;
+    }
+
+    #right {
+        width: 100%;
+        margin-top: 3rem;
+    }
+
+}

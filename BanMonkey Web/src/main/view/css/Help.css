@@ -1,0 +1,169 @@
+.title {
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+#topContents {
+    margin: 30px 0;
+}
+#slider {
+    height: 220px;
+}
+
+#slider .slide {
+    height: 220px;
+}
+
+#page {
+    background-color: #fff;
+}
+
+#leftContents {
+    width: 65%;
+    float: left;
+    padding-right: 2rem;
+    margin-top: 30px;
+}
+
+#rightContents {
+    width: 35%;
+    float: left;
+    margin-top: 30px;
+}
+
+#leftContents .description {
+    text-align: justify;
+    margin: 20px 0;
+}
+
+#leftContents .description span {
+    color: #f88805;
+}
+
+#leftContents .textCenter {
+    text-align: center;
+}
+
+#banMonkeyLogo {
+    margin-top: 50px;
+}
+
+#signInFormContainer {
+    width: 100%;
+    float: left;
+    background-color: #eee;
+    border: 1px solid #50ae71;
+    border-radius: 5px;
+    padding: 10px;
+    position: relative;
+    margin-top: 30px;
+}
+
+#signInFormContainer h2 {
+    width: 280px;
+    background-color: #00913c;
+    border: 2px solid #037c33;
+    border-radius: 5px;
+    position: absolute;
+    border-radius: 5px;
+    left: 50%;
+    top: -30px;
+    margin-left: -140px;
+    padding: 15px;
+    color: #fff;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#signInForm {
+    width: 100%;
+    margin-top: 50px;
+}
+
+#signInForm input[type=text], #signInForm input[type=password] {
+    width: 100%;
+    margin: 0.6rem 0 1.2rem 0;
+}
+
+#signInForm input[type=submit] {
+    float: right;
+    background-color: #00913c;
+    border: 2px solid #037c33;
+    color: #fff;
+    font-size: 18px;
+}
+
+#frmShowUserConditions {
+    color: #037c33;
+    float: left;
+    cursor: pointer;
+    margin-left: 50px;
+    margin-bottom: 25px;
+    line-height: 14px;
+}
+
+#contactUsContainer {
+    width: 100%;
+    float: left;
+    margin-top: 70px;
+    background-color: #eee;
+    border: 1px solid #d2d2d2;
+    border-radius: 5px;
+    padding: 10px;
+    position: relative;
+}
+
+#contactUsContainer h2 {
+    width: 280px;
+    background-color: #ddd;
+    border: 2px solid #c5c5c5;
+    border-radius: 5px;
+    position: absolute;
+    border-radius: 5px;
+    left: 50%;
+    top: -30px;
+    margin-left: -140px;
+    padding: 15px;
+    color: #fe9e4a;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#contactUsContainer > ul {
+    margin-top: 30px;
+}
+
+#contactUsContainer > ul > li {
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    height: 55px;
+    padding-left: 42px;
+}
+
+.iconPhone {
+    background-image: url(../resources/images/help/contactPhone.png);
+}
+
+.iconEmail {
+    background-image: url(../resources/images/help/contactEmail.png);
+}
+
+.iconFacebook {
+    background-image: url(../resources/images/help/contactFacebook.png);
+}
+
+.iconFacebook * {
+    float: left;
+}
+
+#contactUsContainer div.fb-like {
+    margin: 5px 0 0 20px;
+}
+
+#contactUsContainer .highlight {
+    color: #00913c;
+    text-transform: uppercase;
+    font-size: 18px;
+    line-height: 30px;
+}

@@ -1,0 +1,99 @@
+html {
+    background-color: #387fc2;
+}
+
+h1 {
+    font-size: 2rem;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+p, span {
+    color: #fff;
+}
+
+.ticket-office {
+    display: flex;
+    justify-content: center;
+}
+
+.to-container {
+    padding: 2rem;
+    max-width: 30rem;
+    width: 100%;
+}
+
+#initial-options button {
+    width: 100%;
+    font-size: 1.5rem;
+    padding: 1rem;
+    margin-top: 3rem;
+}
+
+#generate-tickets {
+    display: none;
+}
+
+#validate-tickets {
+    display: none;
+}
+
+.componentFormInputContainer p {
+    margin-bottom: .5rem;
+}
+
+input, select {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+input[type=submit] {
+    padding: 2rem;
+    font-size: 1.5rem;
+}
+
+.go-back-btn {
+    width: 100%;
+}
+
+#loading-backdrop {
+    z-index: 1000;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: none;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+#input-file {
+    display: none;
+}
+
+#scan-ticket-btn {
+    padding: 2rem;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    width: 100%;
+}
+
+#ticket-img {
+    display: none;
+}
+
+#validate-tickets-result {
+    display: none;
+    margin-bottom: 2rem;
+}
+
+#validate-tickets-result b {
+    text-transform: uppercase;
+    color: #000;
+    font-weight: bold;
+}
+
+#validate-tickets-result span {
+    margin-left: 1rem;
+}

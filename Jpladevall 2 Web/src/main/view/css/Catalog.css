@@ -1,0 +1,74 @@
+#catalog {
+    display: flex;
+    flex-flow: row nowrap;
+    margin-bottom: 2rem;
+}
+
+#productsList {
+    width: 100%;
+    min-height: 10rem;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+#productsList .productCard {
+    width: 18rem;
+}
+
+#rightContainer {
+    flex-grow: 1;
+    width: 100%;
+}
+
+#leftContainer {
+    width: 24rem;
+    margin-left: 2rem;
+}
+
+#leftContainer .leftTitle {
+    border-bottom: 1px solid #0093dd;
+    float: left;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+#leftContainer h2 {
+    background-color: #0093dd;
+    padding: 0.5rem;
+    float: left;
+}
+
+#leftContainer .componentFolderMenuOption {
+    margin-top: 0.5rem;
+}
+
+#leftContainer .componentFolderMenu {
+    margin-bottom: 3rem;
+}
+
+#leftContainer .componentFolderMenuOption a:hover, #leftContainer .componentFolderMenuOptionSelected a {
+    color: #0093dd;
+}
+
+#leftContainer .componentFolderMenuOption a {
+    text-transform: uppercase;
+    padding: 0 15px 0 10px;
+    background: url(../resources/images/shared/li.png) 0 50% no-repeat;
+    font-size: 0.9rem;
+    line-height: 0.9rem;
+}
+
+#leftContainer .componentFolderSubMenu {
+    margin-left: 1rem;
+}
+
+#rightContainer .componentPagesNavigator {
+    float: right;
+    margin-top: 2rem;
+}
+
+#categoryPicture {
+    width: 100%;
+    max-width: 900px;
+    margin-bottom: 2rem;
+}

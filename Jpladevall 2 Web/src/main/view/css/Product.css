@@ -1,0 +1,138 @@
+#productColumns {
+    margin-bottom: 3rem;
+    margin-top: 1rem;
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+#productPictures {
+    margin-right: 2rem;
+    border: 1px solid #cacaca;
+    width: 24rem;
+}
+
+#productPictures .slide {
+    width: 100%;
+}
+
+#productPictures .slide img, #productPictures .productImage {
+    width: 100%;
+    padding: 1rem;
+}
+
+#productContents1 {
+    flex-grow: 1;
+}
+
+#productContents1 .productTitle {
+    font-size: 1.4rem;
+    line-height: 1.4rem;
+    margin-bottom: 2rem;
+}
+
+#productContents1 .productPrice {
+    color: #0093dd;
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    display: block;
+}
+
+#rightBanners {
+    width: 20rem;
+    margin-left: 2rem;
+}
+
+#productOptions {
+    margin-top: 3rem;
+}
+
+#productOptions .addToCartBtn {
+    width: 100%;
+    font-size: 0.9rem;
+    background-image: url(../resources/images/shared/cart.png);
+    background-repeat: no-repeat;
+    background-position-x: 0.5rem;
+    background-position-y: center;
+}
+
+#productOptions .addthis_inline_share_toolbox {
+    margin-top: 2rem;
+}
+
+#productDescription {
+    margin-bottom: 3rem;
+}
+
+#productDescription .title {
+    border-bottom: 1px solid #0093dd;
+}
+
+#productDescription .title h2 {
+    background-color: #0093dd;
+    padding: 0.5rem 1rem;
+    display: inline-block;
+}
+
+#productDescription p {
+    padding: 1rem;
+    border-left: 1px solid #cacaca;
+    border-right: 1px solid #cacaca;
+    border-bottom: 1px solid #cacaca;
+}
+
+#addToCartOptions {
+    border: 1px solid #cacaca;
+    padding: 1rem;
+}
+
+#addToCartOptions p {
+    line-height: 3rem;
+}
+
+#addToCartOptions .cartUnitSelector {
+    text-align: center;
+    width: 1.5rem;
+    background-color: #0093dd;
+    color: #fff;
+    padding: 0.2rem 0.5rem;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#addToCartOptions .cartUnitSelectorUnits {
+    padding: 0.2rem 0.5rem;
+}
+
+#addToCartOptions .cartUnitSelectorAdd {
+    margin-right: 1rem;
+}
+
+#addToCartOptions .addToCartBtn {
+    width: auto;
+    padding-left: 3rem;
+}
+
+.addthis_inline_share_toolbox .at_native_button {
+    float: right;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 768px) {
+    #productColumns {
+        flex-flow: column;
+    }
+
+    #productPictures {
+        margin-right: 0;
+        width: 100%;
+    }
+
+    #productContents1 {
+        width: 100%;
+        margin-top: 3rem;
+    }
+
+    #rightBanners {
+        display: none;
+    }
+}

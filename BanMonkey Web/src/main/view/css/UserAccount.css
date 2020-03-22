@@ -1,0 +1,24 @@
+#leftContainer {
+    width: 60%;
+    padding-right: 2rem;
+    float: left;
+}
+
+#rightContainer {
+    width: 40%;
+    float: left;
+}
+
+#userDataForm {
+    width: 100%;
+    max-width: 25rem;
+}
+
+#userDataForm input[type=text], #userDataForm input[type=password] {
+    width: 100%;
+    margin: 0.6rem 0 1.2rem 0;
+}
+
+#userDataForm input[type=submit] {
+    float: right;
+}

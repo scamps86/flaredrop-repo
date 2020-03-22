@@ -1,0 +1,98 @@
+#app {
+    min-width: 400px;
+}
+
+#viewLogin {
+    width: 400px;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    margin: -350px 0 0 -200px;
+    background: url(../resources/images/_manager/loginBg.svg) no-repeat;
+    display: none;
+}
+
+form input {
+    width: 210px;
+    margin-left: 95px;
+}
+
+form p {
+    margin: 20px 0 5px 95px;
+}
+
+form input[type=submit] {
+    margin-top: 20px;
+}
+
+#pUser {
+    padding-top: 190px;
+}
+
+#inputRemember {
+    margin-top: 20px;
+}
+
+#inputRemember p {
+    margin: 0 0 0 10px;
+    float: left;
+    line-height: 12px;
+}
+
+.componentSwitch {
+    float: left;
+    margin-left: 95px;
+}
+
+#flareDropLogo {
+    width: 300px;
+    display: block;
+    margin: 50px 0 0 50px;
+    text-align: center;
+}
+
+#flareDropLogo span {
+    font-size: 10px;
+    color: #aaa;
+    display: block;
+}
+
+#literalContainer {
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+p.literal {
+    margin: 0 10px 0 10px;
+    display: inline-block;
+    font-size: 11px;
+    cursor: pointer;
+    color: #777;
+    text-transform: uppercase;
+}
+
+/* DEFAULT SKIN LOGIN */
+/* INPUTS */
+input[type=submit] {
+    background-color: #656565;
+    color: #fff;
+    border: 1px solid #212121;
+}
+
+/* COMPONENT switch */
+div.componentSwitchOpened {
+    border: 1px solid #212121;
+    background-color: #656565;
+}
+
+div.componentSwitchOpened div.componentSwitchInnerBtn {
+    border: 1px solid #212121;
+    background-color: #fff;
+}
+
+/* POPUPS */
+div.managerPopUpWindow div.managerPopUpCloseBtn {
+    background: #656565;
+    border: 1px solid #212121;
+}

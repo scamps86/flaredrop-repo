@@ -1,0 +1,19 @@
+#banPacksList li {
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+#banPacksList li img {
+    width: 100%;
+}
+
+#banPacksList li p {
+    float: left;
+    width: 100%;
+    text-transform: uppercase;
+    color: #f50404;
+}
+
+#banPacksList li button {
+    float: right;
+}

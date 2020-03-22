@@ -1,0 +1,114 @@
+/* SLIDER */
+#slider {
+    width: 100%;
+    background-color: #e6e6e6;
+}
+#slider div.slide {
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-position: right;
+}
+
+#slider div.slide div {
+    width: 100%;
+    height: 100%;
+    padding: 4rem 2rem 2rem 2rem;
+}
+
+#slider div.slide h2 {
+    font-family: 'fjalla';
+    font-size: 4.5rem;
+    line-height: 5.5rem;
+    color: #e72c2c;
+    margin-bottom: 1.6rem;
+    text-transform: uppercase;
+}
+
+#slider div.slide h3 {
+    font-family: 'fjalla';
+    font-size: 3.2rem;
+    line-height: 3.8rem;
+    color: #2f2f2f;
+    margin-bottom: 4rem;
+}
+
+#slider div.slide h4 {
+    font-family: 'fjalla';
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+    color: #4b4b4b;
+}
+
+/* CONTENTS CONTAINER */
+#contentsContainer {
+    padding: 3rem 0;
+    background-image: url(../resources/images/home/contentsContainerBg.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 100%;
+}
+
+#titleDescriptionContainer {
+    width: 50%;
+    text-align: justify;
+}
+
+/* PRODUCTS CONTAINER */
+#productsContainer {
+    margin-top: 5rem;
+}
+
+/* PRODUCTS LIST */
+#productsContainer ul {
+    text-align: center;
+}
+
+#productsContainer ul li.productItem {
+    width: 22rem;
+    height: 10rem;
+    display: inline-block;
+    cursor: pointer;
+    margin: 1rem;
+}
+
+#productsContainer ul li.productItem:HOVER {
+    opacity: 0.7;
+}
+
+#productsContainer ul li.productItem img {
+    float: left;
+    width: 10rem;
+    margin-right: 1rem;
+}
+
+#productsContainer ul li.productItem div {
+    width: 11rem;
+    float: left;
+}
+
+#productsContainer ul li.productItem p, #productsContainer ul li.productItem h5, #productsContainer ul li.productItem span {
+    text-align: left;
+    margin-bottom: 0.3rem;
+}
+
+#productsContainer ul li.productItem p.productReference {
+    color: #000;
+    font-family: 'roboto_bold';
+}
+
+#productsContainer ul li.productItem p.productPrice {
+    color: #89a730;
+    font-family: 'roboto_bold';
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 480px) {
+    #slider div.slide div {
+        background-color: rgba(255, 255, 255, 0.8);
+
+    }
+    #titleDescriptionContainer {
+        width: 100%;
+    }
+}

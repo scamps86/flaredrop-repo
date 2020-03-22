@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="Deploy" basedir=".">
+
+    <!-- Import the tasks file -->
+    <import file="../../FlareDrop Library/deploy/Tasks.xml"/>
+
+    <!-- Deploy task -->
+    <target name="Deploy" description="Deploy the project">
+        <antcall target="deploy"/>
+    </target>
+
+    <!-- Clean task -->
+    <target name="Clean" description="Clean the project">
+        <antcall target="clean"/>
+    </target>
+
+    <!-- Reset task -->
+    <target name="Reset" description="Clean and deploy the project">
+        <antcall target="clean"/>
+        <antcall target="deploy"/>
+    </target>
+
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+
+    <!-- A customizable task executed before (ftp uploading / copy to localhost) the generated release folder -->
+    <target name="customAfterTask">
+        <!-- Add the masterserver configuration to the .htaccess file -->
+        <echo file="${releaseFolder}.htaccess" message="&#10;&#10;# Masterserver redirections" append="true"></echo>
+        <echo file="${releaseFolder}.htaccess" message="&#10;RewriteRule ^assets/(.*).txt$ view/masterserver/masterserver.php?p=$1 [L]" append="true"></echo>
+    </target>
+
+</project>

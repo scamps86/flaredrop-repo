@@ -1,0 +1,17 @@
+#homeContents h1 {
+    margin-top: 30px;
+}
+
+#homeText {
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+    margin-top: 50px;
+}
+
+#homeMedia {
+    width: 425px;
+    float: left;
+    margin-top: 50px;
+    padding-bottom: 10px;
+}

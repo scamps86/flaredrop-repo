@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="Deploy" basedir=".">
+
+    <!-- Import the tasks file -->
+    <import file="../../FlareDrop Library/deploy/Tasks.xml"/>
+
+    <!-- Deploy task -->
+    <target name="Deploy" description="Deploy the project">
+        <antcall target="deploy"/>
+    </target>
+
+    <!-- Clean task -->
+    <target name="Clean" description="Clean the project">
+        <antcall target="clean"/>
+    </target>
+
+    <!-- Reset task -->
+    <target name="Reset" description="Clean and deploy the project">
+        <antcall target="clean"/>
+        <antcall target="deploy"/>
+    </target>
+
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+
+    <!-- A customizable task executed before (ftp uploading / copy to localhost) the generated release folder -->
+    <target name="customAfterTask">
+    </target>
+
+</project>

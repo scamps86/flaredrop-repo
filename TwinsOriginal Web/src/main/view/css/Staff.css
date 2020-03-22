@@ -1,0 +1,98 @@
+#history .caveat {
+    font-family: 'Caveat', cursive;
+    font-size: 1.6rem;
+    line-height: 1.8rem;
+}
+
+#history {
+    margin-top: 2rem;
+}
+
+#history h1, #staff h1 {
+    font-family: 'Caveat', cursive;
+    font-size: 4rem;
+    line-height: 8rem;
+    color: #7a584e;
+    text-align: center;
+    display: block;
+}
+
+#history p {
+    font-size: 1.3rem;
+    line-height: 1.6rem;
+    width: 60%;
+    float: left;
+    text-align: justify;
+}
+
+#history p i {
+    font-size: 1.3rem;
+    line-height: 1.6rem;
+    color: #7a584e;
+}
+
+#history img {
+    width: 30%;
+    margin-left: 10%;
+    float: left;
+}
+
+#staff {
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+
+#staff .grid {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.staff {
+    width: 50%;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+.staff img {
+    width: 100%;
+}
+
+.staff h2 {
+    font-size: 1.3rem;
+    line-height: 3rem;
+    font-weight: 900;
+    color: #7a584e;
+}
+
+.staff p {
+    text-align: left;
+}
+
+@media (max-width: 480px) {
+    .staff {
+        width: 100%;
+        padding: 2rem 0;
+    }
+
+    #history p {
+        width: 100%;
+    }
+
+    #history img {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 2rem;
+    }
+
+    .section {
+        margin-top: 4rem !important;
+    }
+}
+
+@media (min-width: 900px) {
+    .staff {
+        width: 25%;
+    }
+}
+

@@ -1,0 +1,59 @@
+h1 {
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+}
+
+#myAccountContainer {
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+#userData {
+    width: 100%;
+}
+
+#rightOptions {
+    width: 20rem;
+}
+
+#userModifyForm {
+    width: 100%;
+    max-width: 40rem;
+    margin-bottom: 3rem;
+    float: left;
+}
+
+#userModifyForm .componentFormInputContainer {
+    float: left;
+    width: 100%;
+    margin-top: 1rem;
+}
+
+#userModifyForm .componentFormInputContainer p {
+    width: 40%;
+    padding-right: 1rem;
+    float: left;
+}
+
+#userModifyForm input[type=text], #userJoinForm input[type=password] {
+    width: 60%;
+    float: left;
+}
+
+#userModifyForm .componentFormSwitchComponentContainer {
+    float: left;
+    margin-top: 1.3rem;
+}
+
+#userModifyForm .formSection {
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    float: left;
+}
+
+#userUnregisterBtn {
+    margin-top: 1rem;
+}

@@ -1,0 +1,132 @@
+#containerLeft {
+    width: 60%;
+    padding-right: 50px;
+    float: left;
+}
+
+#containerRight {
+    width: 40%;
+    float: left;
+}
+
+#productContainer {
+    margin-top: 30px;
+    text-align: center;
+}
+
+#productContainer .title1 {
+    color: #70a83b;
+    text-decoration: underline;
+}
+
+#productContainer .productCurrentPrice {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+#productContainer .productRemainingTime {
+    background-position: 5px 0;
+    margin: 10px 0;
+}
+
+#productContainer .productRemainingTime * {
+    font-size: 40px;
+}
+
+#productContainer .productPlaceBid {
+    background-image: url(../resources/images/product/pujaBtnImg.png);
+}
+
+#productContainer .productBuyNow {
+    cursor: pointer;
+    margin-left: 20px;
+    padding: 5px;
+    background-color: #70a83b;
+    color: #fff;
+    border-radius: 3px;
+}
+
+/* TAB NAVIGATOR */
+#productLastBidsContainer {
+    margin-top: 20px;
+}
+
+#productLastBidsContainer .componentTabNavigatorTab {
+    width: 100%;
+    padding: 5px;
+}
+
+#productLastBidsContainer .componentTabNavigatorLabel {
+    font-size: 12px;
+}
+
+#productLastBidsContainer .componentTabNavigatorSelectedContainer {
+    padding: 0;
+}
+
+#bidHeader {
+    padding: 5px 10px;
+}
+
+#bidHeader .bidUserNickTitle {
+    float: left;
+}
+
+#bidHeader .bidUserNickQuantity {
+    float: right;
+}
+
+#productLastBidsList li {
+    padding: 5px 10px;
+}
+
+#productLastBidsList li.pair {
+    background-color: #e8e8e8;
+}
+
+#productLastBidsList .bidUserNick {
+    float: left;
+}
+
+#productLastBidsList .bidQuantity {
+    float: right;
+}
+
+/* SLIDER */
+#slider {
+    width: 100%;
+    float: left;
+    overflow: hidden;
+    margin: 85px 0 30px 0;
+}
+
+#slider .slide {
+    width: 100%;
+    border-radius: 3px;
+}
+
+#slider .slide img {
+    width: 100%;
+}
+
+/* PRODUCT INFO */
+#productInfo {
+    border-top: 1px solid #c7c7c7;
+    margin-top: 30px;
+}
+
+#productInfo .productInfo {
+    font-size: 18px;
+    line-height: 60px;
+}
+
+#productInfo .productTitle {
+    font-size: 22px;
+    line-height: 35px;
+    text-transform: uppercase;
+}
+
+#productInfo .productDescription {
+    text-align: justify;
+    margin-bottom: 40px;
+}

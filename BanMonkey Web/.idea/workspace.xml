@@ -1,0 +1,2448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../FlareDrop Library/src/main/view/webservices/SystemPayPalPlanRenew.php" line="24" mnemonic="7" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="823e3d28-eaf3-48c2-8f1b-bd0f20711e34" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_10.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_11.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_12.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_13.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_14.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_15.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_16.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_17.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_18.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_19.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_20.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_21.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_22.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_23.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_23.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_24.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_25.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_26.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_27.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_28.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_29.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_30.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_31.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_32.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_33.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_34.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_34.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_35.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_35.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_36.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_37.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_37.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_38.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_39.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_39.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_40.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_8.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_9.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/frame_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_101_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_105_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_109_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_113_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_117_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_121_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_125_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_129_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_133_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_137_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_141_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_145_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_149_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_153_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_157_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_161_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_165_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_169_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_173_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_177_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_21_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_25_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_29_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_33_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_37_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_41_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_45_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_49_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_53_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_57_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_61_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_65_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_69_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_73_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_77_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_81_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_85_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_89_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_93_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_0/mask_97_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_101_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_105_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_109_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_113_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_117_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_121_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_125_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_129_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_133_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_137_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_141_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_145_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_149_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_153_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_157_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_161_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_165_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_169_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_173_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_177_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_21_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_25_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_29_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_33_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_37_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_41_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_45_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_49_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_53_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_57_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_61_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_65_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_69_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_73_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_77_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_81_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_85_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_89_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_93_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_1/mask_97_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_101_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_105_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_109_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_113_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_117_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_121_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_125_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_129_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_133_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_137_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_141_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_145_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_149_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_153_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_157_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_161_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_165_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_169_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_173_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_177_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_21_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_25_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_29_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_33_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_37_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_41_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_45_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_49_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_53_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_57_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_61_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_65_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_69_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_73_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_77_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_81_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_85_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_89_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_93_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_2/mask_97_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_101_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_105_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_109_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_113_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_117_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_121_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_125_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_129_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_133_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_137_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_141_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_145_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_149_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_153_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_157_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_161_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_165_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_169_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_173_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_177_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_21_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_25_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_29_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_33_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_37_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_41_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_45_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_49_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_53_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_57_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_61_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_65_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_69_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_73_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_77_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_81_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_85_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_89_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_93_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_3/mask_97_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_101_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_105_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_109_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_113_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_117_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_121_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_125_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_129_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_133_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_137_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_141_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_145_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_149_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_153_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_157_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_161_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_165_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_169_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_173_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_177_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_21_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_25_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_29_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_33_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_37_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_41_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_45_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_49_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_53_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_57_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_61_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_65_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_69_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_73_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_77_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_81_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_85_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_89_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_93_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_4/mask_97_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_101_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_105_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_109_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_113_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_117_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_121_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_125_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_129_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_133_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_137_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_141_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_145_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_149_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_153_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_157_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_161_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_165_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_169_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_173_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_177_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_21_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_25_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_29_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_33_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_37_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_41_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_45_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_49_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_53_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_57_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_61_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_65_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_69_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_73_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_77_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_81_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_85_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_89_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_93_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_5/mask_97_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_101_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_105_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_109_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_113_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_117_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_121_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_125_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_129_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_133_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_137_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_141_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_145_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_149_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_153_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_157_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_161_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_165_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_169_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_173_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_177_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_21_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_25_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_29_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_33_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_37_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_41_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_45_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_49_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_53_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_57_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_61_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_65_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_69_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_73_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_77_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_81_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_85_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_89_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_93_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_6/mask_97_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_101_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_105_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_109_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_113_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_117_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_121_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_125_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_129_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_133_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_137_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_141_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_145_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_149_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_153_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_157_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_161_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_165_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_169_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_173_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_177_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_21_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_25_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_29_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_33_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_37_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_41_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_45_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_49_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_53_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_57_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_61_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_65_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_69_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_73_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_77_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_81_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_85_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_89_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_93_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/cache/mask_7/mask_97_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/CHANGELOG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/INSTALL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/VERSION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/bindings/tcpdf/qrcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/phpqrcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/qrbitstream.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/qrconfig.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/qrconst.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/qrencode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/qrimage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/qrinput.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/qrlib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/qrmask.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/qrrscode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/qrspec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/qrsplit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/qrtools.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/tools/merge.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/tools/merge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/tools/merge.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/tools/merged_config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/libraries/phpqrcode/tools/merged_header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils/UtilsFile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils/UtilsQr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MuccaFailate Web/src/main/view/js/libraries/qcode-decoder/qcode-decoder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MuccaFailate Web/src/main/view/js/libraries/qcode-decoder/qcode-decoder.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MuccaFailate Web/src/main/view/sections/ticketOffice/TicketOfficeInner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MuccaFailate Web/src/main/view/webservices/ValidateTicket.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FlareDrop Library/src/main/_manager/model/literals/ca_ES/ManagerTickets.ini" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/_manager/model/literals/ca_ES/ManagerTickets.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FlareDrop Library/src/main/_manager/model/literals/en_US/ManagerTickets.ini" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/_manager/model/literals/en_US/ManagerTickets.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FlareDrop Library/src/main/_manager/model/literals/es_ES/ManagerTickets.ini" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/_manager/model/literals/es_ES/ManagerTickets.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/system/SystemDisk.php" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/system/SystemDisk.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils/UtilsDiskObject.php" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils/UtilsDiskObject.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils/UtilsHttp.php" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils/UtilsHttp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils/UtilsPicture.php" afterPath="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils/UtilsPicture.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MuccaFailate Web/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../MuccaFailate Web/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MuccaFailate Web/deploy/Configuration.properties" afterPath="$PROJECT_DIR$/../MuccaFailate Web/deploy/Configuration.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MuccaFailate Web/src/main/model/literals/es_ES/TicketOffice.ini" afterPath="$PROJECT_DIR$/../MuccaFailate Web/src/main/model/literals/es_ES/TicketOffice.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MuccaFailate Web/src/main/model/web/WebConstants.php" afterPath="$PROJECT_DIR$/../MuccaFailate Web/src/main/model/web/WebConstants.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MuccaFailate Web/src/main/view/css/TicketOffice.css" afterPath="$PROJECT_DIR$/../MuccaFailate Web/src/main/view/css/TicketOffice.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MuccaFailate Web/src/main/view/js/view/sections/TicketOffice.js" afterPath="$PROJECT_DIR$/../MuccaFailate Web/src/main/view/js/view/sections/TicketOffice.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MuccaFailate Web/src/main/view/loaders/SectionLoader.php" afterPath="$PROJECT_DIR$/../MuccaFailate Web/src/main/view/loaders/SectionLoader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MuccaFailate Web/src/main/view/loaders/ServiceLoader.php" afterPath="$PROJECT_DIR$/../MuccaFailate Web/src/main/view/loaders/ServiceLoader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MuccaFailate Web/src/main/view/sections/ticketOffice/TicketOfficeAfter.php" afterPath="$PROJECT_DIR$/../MuccaFailate Web/src/main/view/sections/ticketOffice/TicketOfficeAfter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MuccaFailate Web/src/main/view/webservices/GenerateTicket.php" afterPath="$PROJECT_DIR$/../MuccaFailate Web/src/main/view/webservices/GenerateTicket.php" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target_release/" />
+    <ignored path="$PROJECT_DIR$/target_release_temp/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FlareDrop Web" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Configuration.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deploy/Configuration.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DoBid.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/view/webservices/DoBid.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SystemBids.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/controller/system/SystemBids.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2025">
+              <caret line="135" column="30" lean-forward="false" selection-start-line="135" selection-start-column="30" selection-end-line="135" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RefreshAuction.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/controller/crons/RefreshAuction.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="118" column="23" lean-forward="false" selection-start-line="118" selection-start-column="23" selection-end-line="118" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserBuyBansInner.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/view/sections/userBuyBans/UserBuyBansInner.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FoldersGet.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/view/webservices/FoldersGet.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoadBefore.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/view/sections/shared/LoadBefore.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserBuyBansBefore.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/view/sections/userBuyBans/UserBuyBansBefore.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/view/sections/shared/Header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1005">
+              <caret line="67" column="29" lean-forward="false" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>addSelector</find>
+      <find>foldersGet</find>
+      <find>$products</find>
+      <find>SystemDisk::foldersGet</find>
+      <find>SystemDisk::objectSet</find>
+      <find>-&gt;folderIds</find>
+      <find>getLogged</find>
+    </findStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/system/SystemManager.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/managers/ManagerErrors.php" />
+        <option value="$PROJECT_DIR$/src/main/view/loaders/SectionLoader.php" />
+        <option value="$PROJECT_DIR$/src/main/view/loaders/ServiceLoader.php" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/shared/UsersMenu.php" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/underConstruction/UnderConstruction.php" />
+        <option value="$PROJECT_DIR$/src/main/view/webservices/AccountCancel.php" />
+        <option value="$PROJECT_DIR$/src/main/view/webservices/RefreshAllBidding.php" />
+        <option value="$PROJECT_DIR$/src/main/view/webservices/RefreshProductBidding.php" />
+        <option value="$PROJECT_DIR$/src/main/view/webservices/RemoveSchedule.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/view/webservices/UserPasswordReset.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/view/webservices/UserValidate.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/view/loaders/ServiceLoaderBase.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/view/webservices/UserLogin.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils/UtilsHttp.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/system/SystemUsers.php" />
+        <option value="$PROJECT_DIR$/src/main/view/js/view/sections/Help.js" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/es_ES/Mailing.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/es_ES/Shared.ini" />
+        <option value="$PROJECT_DIR$/src/main/controller/system/SystemBids.php" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/product/ProductBefore.php" />
+        <option value="$PROJECT_DIR$/src/main/view/webservices/RefreshUserSchedules.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/system/SystemTesting.php" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/product/ProductAfter.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/model/vo/VoObject.php" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/es_ES/Home.ini" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/home/HomeBefore.php" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/home/HomeAfter.php" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/shared/Footer.php" />
+        <option value="$PROJECT_DIR$/src/main/view/webservices/SignInFormSend.php" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/es_ES/Help.ini" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/model/web/WebSection.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/_manager/view/sections/managerShared/ManagerJavascriptVarsDefine.php" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/help/HelpInner.php" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/home/HomeInner.php" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/product/ProductInner.php" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/userAccount/UserAccountInner.php" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/userBuyBans/UserBuyBansInner.php" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/userSchedule/UserScheduleInner.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/_root/robots.txt" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/shared/Header.php" />
+        <option value="$PROJECT_DIR$/src/main/view/css/Shared.css" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/deploy/Tasks.xml" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils/UtilsJavascript.php" />
+        <option value="$PROJECT_DIR$/src/main/view/js/view/sections/Home.js" />
+        <option value="$PROJECT_DIR$/src/main/model/web/WebConfiguration.php" />
+        <option value="$PROJECT_DIR$/src/main/controller/crons/RefreshAuction.php" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/userBuyBans/UserBuyBansAfter.php" />
+        <option value="$PROJECT_DIR$/src/main/model/web/WebConstants.php" />
+        <option value="$PROJECT_DIR$/deploy/Configuration.properties" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/shared/LoadBefore.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>JUnit issues</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Naming ConventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Pattern Validation</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+          <State>
+            <id>TestNG</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BanMonkey Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BanMonkey Web" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="BanMonkey Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BanMonkey Web" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="BanMonkey Web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BanMonkey Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BanMonkey Web" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="BanMonkey Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BanMonkey Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BanMonkey Web" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="BanMonkey Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BanMonkey Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BanMonkey Web" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="BanMonkey Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BanMonkey Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BanMonkey Web" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="BanMonkey Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="crons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BanMonkey Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BanMonkey Web" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="BanMonkey Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BanMonkey Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BanMonkey Web" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="BanMonkey Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="sections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BanMonkey Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BanMonkey Web" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="BanMonkey Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="sections" type="462c0819:PsiDirectoryNode" />
+              <item name="userBuyBans" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="options.lastSelected" value="preferences.editor" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="LayoutCode.rearrangeEntries" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJavaScript 1.5" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="276" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="305" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="306" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="981" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="299" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="297" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="299" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="973" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../FlareDrop Library/src/main/view/webservices" />
+      <recent name="C:\REPOSITORY\BanMonkey Web\src\main\view\resources\images\_manager" />
+      <recent name="C:\REPOSITORY\BanMonkey Web\src\main\model\literals\es_ES" />
+      <recent name="C:\REPOSITORY\BanMonkey Web\src\main\view\js\view\sections" />
+      <recent name="C:\REPOSITORY\BanMonkey Web\src\main\view\resources\images\shared" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/view/resources/images/shared" />
+      <recent name="C:\REPOSITORY\BanMonkey Web\src\main\view\resources\images\help" />
+      <recent name="C:\REPOSITORY\BanMonkey Web\src\main\view\resources\images\shared" />
+      <recent name="C:\REPOSITORY\FlareDrop Library\src\main\controller\managers" />
+      <recent name="C:\REPOSITORY\BanMonkey Web\src\main\view\sections\userAccount" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BanMonkey Web" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="MongoRunConfiguration" factoryName="Mongo">
+      <setting name="path" value="" />
+      <setting name="shellParams" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="823e3d28-eaf3-48c2-8f1b-bd0f20711e34" name="Default" comment="" />
+      <created>1405327867542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1405327867542</updated>
+      <workItem from="1405327870042" duration="1516000" />
+      <workItem from="1405443970336" duration="2225000" />
+      <workItem from="1405490551893" duration="2665000" />
+      <workItem from="1405521887061" duration="23000" />
+      <workItem from="1405577008345" duration="1432000" />
+      <workItem from="1405598322372" duration="89000" />
+      <workItem from="1405598428633" duration="3167000" />
+      <workItem from="1405606525511" duration="139000" />
+      <workItem from="1405606683241" duration="405000" />
+      <workItem from="1405607341522" duration="28000" />
+      <workItem from="1405662485825" duration="1812000" />
+      <workItem from="1405922531090" duration="2577000" />
+      <workItem from="1406009482902" duration="6169000" />
+      <workItem from="1406048803890" duration="7151000" />
+      <workItem from="1406095876432" duration="2378000" />
+      <workItem from="1406137937244" duration="161000" />
+      <workItem from="1406182309963" duration="1251000" />
+      <workItem from="1406224674322" duration="502000" />
+      <workItem from="1406225213582" duration="3042000" />
+      <workItem from="1406283496293" duration="7453000" />
+      <workItem from="1406389430327" duration="8625000" />
+      <workItem from="1406527697741" duration="4886000" />
+      <workItem from="1406569536031" duration="4325000" />
+      <workItem from="1406613017534" duration="2323000" />
+      <workItem from="1406706497095" duration="6398000" />
+      <workItem from="1406740310177" duration="3675000" />
+      <workItem from="1406787158443" duration="2682000" />
+      <workItem from="1406879762698" duration="10796000" />
+      <workItem from="1407132795689" duration="6014000" />
+      <workItem from="1407171794551" duration="7148000" />
+      <workItem from="1407218705011" duration="5687000" />
+      <workItem from="1407305107732" duration="12269000" />
+      <workItem from="1407391824377" duration="2638000" />
+      <workItem from="1407477028166" duration="591000" />
+      <workItem from="1407737524494" duration="3123000" />
+      <workItem from="1407760246588" duration="10000000" />
+      <workItem from="1407864692352" duration="1442000" />
+      <workItem from="1407910006286" duration="10772000" />
+      <workItem from="1407949419297" duration="2612000" />
+      <workItem from="1407995945788" duration="7643000" />
+      <workItem from="1408946632473" duration="2315000" />
+      <workItem from="1408979701744" duration="61000" />
+      <workItem from="1408979897025" duration="449000" />
+      <workItem from="1409158074519" duration="917000" />
+      <workItem from="1409206219347" duration="591000" />
+      <workItem from="1409551176138" duration="6555000" />
+      <workItem from="1409660161847" duration="5058000" />
+      <workItem from="1409724522177" duration="13898000" />
+      <workItem from="1410155762086" duration="7061000" />
+      <workItem from="1410242808288" duration="6083000" />
+      <workItem from="1410287498680" duration="1433000" />
+      <workItem from="1410290646377" duration="10671000" />
+      <workItem from="1410427752622" duration="4499000" />
+      <workItem from="1410500841354" duration="155000" />
+      <workItem from="1410501030048" duration="53000" />
+      <workItem from="1410506218917" duration="6612000" />
+      <workItem from="1410544677109" duration="573000" />
+      <workItem from="1411717129248" duration="13256000" />
+      <workItem from="1411733809466" duration="4056000" />
+      <workItem from="1411741499361" duration="283000" />
+      <workItem from="1411745092166" duration="978000" />
+      <workItem from="1411751251320" duration="692000" />
+      <workItem from="1412001154913" duration="567000" />
+      <workItem from="1412006145317" duration="4213000" />
+      <workItem from="1412087197391" duration="897000" />
+      <workItem from="1412166375822" duration="10414000" />
+      <workItem from="1413044461783" duration="6547000" />
+      <workItem from="1413180332458" duration="22062000" />
+      <workItem from="1413353247698" duration="8154000" />
+      <workItem from="1413566239824" duration="5026000" />
+      <workItem from="1413784551536" duration="16733000" />
+      <workItem from="1413871160166" duration="7134000" />
+      <workItem from="1413998494167" duration="14288000" />
+      <workItem from="1414228128739" duration="2574000" />
+      <workItem from="1414394136895" duration="38960000" />
+      <workItem from="1414565580552" duration="16396000" />
+      <workItem from="1414738497974" duration="12308000" />
+      <workItem from="1414998640901" duration="49145000" />
+      <workItem from="1415286524592" duration="3680000" />
+      <workItem from="1415357583867" duration="12984000" />
+      <workItem from="1415400834100" duration="2868000" />
+      <workItem from="1415608834478" duration="12057000" />
+      <workItem from="1415688597067" duration="8220000" />
+      <workItem from="1415775205980" duration="3909000" />
+      <workItem from="1415810922003" duration="3867000" />
+      <workItem from="1415862065949" duration="14812000" />
+      <workItem from="1415948501072" duration="11231000" />
+      <workItem from="1416071032219" duration="5094000" />
+      <workItem from="1416207627462" duration="15424000" />
+      <workItem from="1416250332336" duration="4002000" />
+      <workItem from="1416294174353" duration="10505000" />
+      <workItem from="1416379999898" duration="12945000" />
+      <workItem from="1416466767872" duration="19575000" />
+      <workItem from="1416511825431" duration="4127000" />
+      <workItem from="1416585067109" duration="8504000" />
+      <workItem from="1416593669739" duration="33000" />
+      <workItem from="1416728759374" duration="9045000" />
+      <workItem from="1416821214936" duration="108000" />
+      <workItem from="1416821341062" duration="10072000" />
+      <workItem from="1416861114015" duration="1170000" />
+      <workItem from="1416913983797" duration="13553000" />
+      <workItem from="1417352466035" duration="47000" />
+      <workItem from="1417416383035" duration="76000" />
+      <workItem from="1417426190194" duration="19000" />
+      <workItem from="1417462428781" duration="25000" />
+      <workItem from="1417464334452" duration="14000" />
+      <workItem from="1417465798808" duration="95000" />
+      <workItem from="1420637074123" duration="94000" />
+      <workItem from="1421089515419" duration="119000" />
+      <workItem from="1421150557068" duration="36000" />
+      <workItem from="1422362446256" duration="13000" />
+      <workItem from="1423647739232" duration="80000" />
+      <workItem from="1424069819078" duration="5040000" />
+      <workItem from="1427116863792" duration="199000" />
+      <workItem from="1427117145059" duration="442000" />
+      <workItem from="1427117694784" duration="75000" />
+      <workItem from="1427224463233" duration="22032000" />
+      <workItem from="1427694483103" duration="14358000" />
+      <workItem from="1427780815432" duration="5240000" />
+      <workItem from="1427970005016" duration="1838000" />
+      <workItem from="1428394409513" duration="10119000" />
+      <workItem from="1428482097796" duration="10769000" />
+      <workItem from="1428644621937" duration="1752000" />
+      <workItem from="1428738797426" duration="15154000" />
+      <workItem from="1428829395288" duration="8475000" />
+      <workItem from="1428904547966" duration="1631000" />
+      <workItem from="1428912009446" duration="5890000" />
+      <workItem from="1428920143775" duration="6770000" />
+      <workItem from="1428990591053" duration="41873000" />
+      <workItem from="1429170590483" duration="7541000" />
+      <workItem from="1429278330407" duration="2617000" />
+      <workItem from="1429519302369" duration="4505000" />
+      <workItem from="1429681611068" duration="20965000" />
+      <workItem from="1430114109429" duration="26511000" />
+      <workItem from="1430389838240" duration="15721000" />
+      <workItem from="1430727853220" duration="336000" />
+      <workItem from="1430730027715" duration="322000" />
+      <workItem from="1430730567382" duration="888000" />
+      <workItem from="1430731511542" duration="3201000" />
+      <workItem from="1430735389404" duration="10189000" />
+      <workItem from="1430750963876" duration="3552000" />
+      <workItem from="1430754607767" duration="555000" />
+      <workItem from="1430755214043" duration="681000" />
+      <workItem from="1430755917246" duration="58000" />
+      <workItem from="1430756252492" duration="373000" />
+      <workItem from="1430770005982" duration="1897000" />
+      <workItem from="1430774524152" duration="131000" />
+      <workItem from="1430774719714" duration="22000" />
+      <workItem from="1430815065278" duration="10839000" />
+      <workItem from="1430914611429" duration="4302000" />
+      <workItem from="1430999610929" duration="1630000" />
+      <workItem from="1431001660888" duration="5967000" />
+      <workItem from="1431070789289" duration="4423000" />
+      <workItem from="1431075773353" duration="4011000" />
+      <workItem from="1431167375878" duration="5817000" />
+      <workItem from="1431322955703" duration="31154000" />
+      <workItem from="1431408760853" duration="5411000" />
+      <workItem from="1431502794347" duration="20928000" />
+      <workItem from="1431681979355" duration="9407000" />
+      <workItem from="1431701177051" duration="549000" />
+      <workItem from="1431784959658" duration="10688000" />
+      <workItem from="1431953449242" duration="3048000" />
+      <workItem from="1431959848823" duration="135000" />
+      <workItem from="1431963243751" duration="872000" />
+      <workItem from="1432136037865" duration="2209000" />
+      <workItem from="1432138834178" duration="603000" />
+      <workItem from="1432210255626" duration="19255000" />
+      <workItem from="1432537774746" duration="16064000" />
+      <workItem from="1432619000637" duration="9733000" />
+      <workItem from="1432884367176" duration="13687000" />
+      <workItem from="1433064461840" duration="8064000" />
+      <workItem from="1433167984116" duration="1889000" />
+      <workItem from="1433171636612" duration="95000" />
+      <workItem from="1433178363524" duration="241000" />
+      <workItem from="1433222809654" duration="5217000" />
+      <workItem from="1433417027328" duration="3219000" />
+      <workItem from="1434958765692" duration="6587000" />
+      <workItem from="1435221769666" duration="1932000" />
+      <workItem from="1435556967154" duration="610000" />
+      <workItem from="1435650039984" duration="2128000" />
+      <workItem from="1435827672319" duration="13000" />
+      <workItem from="1435829202677" duration="12000" />
+      <workItem from="1435913615397" duration="11370000" />
+      <workItem from="1436162094467" duration="5840000" />
+      <workItem from="1436248310481" duration="12901000" />
+      <workItem from="1436295392419" duration="54000" />
+      <workItem from="1436334267797" duration="899000" />
+      <workItem from="1436518430198" duration="2200000" />
+      <workItem from="1437383766721" duration="133000" />
+      <workItem from="1437394074185" duration="593000" />
+      <workItem from="1437467287930" duration="641000" />
+      <workItem from="1438007250697" duration="161000" />
+      <workItem from="1438007846222" duration="10000" />
+      <workItem from="1438095474917" duration="1192000" />
+      <workItem from="1438096794956" duration="182000" />
+      <workItem from="1438149809388" duration="624000" />
+      <workItem from="1438259211933" duration="449000" />
+      <workItem from="1438261005689" duration="4287000" />
+      <workItem from="1438270221839" duration="83000" />
+      <workItem from="1438320616151" duration="4449000" />
+      <workItem from="1438687715687" duration="2498000" />
+      <workItem from="1438754160826" duration="155000" />
+      <workItem from="1438754418663" duration="28000" />
+      <workItem from="1438763236263" duration="454000" />
+      <workItem from="1438779019072" duration="504000" />
+      <workItem from="1438840153873" duration="4941000" />
+      <workItem from="1439553485009" duration="2670000" />
+      <workItem from="1439789813941" duration="520000" />
+      <workItem from="1449478910153" duration="13000" />
+      <workItem from="1450382237320" duration="9000" />
+      <workItem from="1453403241399" duration="1531000" />
+      <workItem from="1456246646468" duration="150000" />
+      <workItem from="1456768433890" duration="316000" />
+      <workItem from="1456850647242" duration="564000" />
+      <workItem from="1456852392971" duration="139000" />
+      <workItem from="1456852552461" duration="36000" />
+      <workItem from="1457282875944" duration="22000" />
+      <workItem from="1457283123403" duration="13000" />
+      <workItem from="1457455614919" duration="595000" />
+      <workItem from="1457542932251" duration="142000" />
+      <workItem from="1457594650159" duration="2277000" />
+      <workItem from="1458324447388" duration="48000" />
+      <workItem from="1460477674341" duration="373000" />
+      <workItem from="1460479540311" duration="188000" />
+      <workItem from="1460480073495" duration="62000" />
+      <workItem from="1460649725242" duration="2223000" />
+      <workItem from="1461086453895" duration="247000" />
+      <workItem from="1463502033606" duration="236000" />
+      <workItem from="1463591983477" duration="478000" />
+      <workItem from="1463637989342" duration="1337000" />
+      <workItem from="1466449892813" duration="17000" />
+      <workItem from="1470669478003" duration="1265000" />
+      <workItem from="1470671107103" duration="18000" />
+      <workItem from="1470672681884" duration="865000" />
+      <workItem from="1470675281749" duration="1800000" />
+      <workItem from="1470678033128" duration="585000" />
+      <workItem from="1470680048054" duration="583000" />
+      <workItem from="1470754602945" duration="398000" />
+      <workItem from="1470758054655" duration="1000" />
+      <workItem from="1470846818962" duration="833000" />
+      <workItem from="1470895372084" duration="111000" />
+      <workItem from="1475248867147" duration="541000" />
+      <workItem from="1475251788191" duration="480000" />
+      <workItem from="1475257016590" duration="291000" />
+      <workItem from="1476120233633" duration="274000" />
+      <workItem from="1476121479409" duration="1704000" />
+      <workItem from="1479927130178" duration="6390000" />
+      <workItem from="1480360254416" duration="8000" />
+    </task>
+    <task id="LOCAL-00096" summary="BanMonkey Web">
+      <created>1432556851586</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1432556851586</updated>
+    </task>
+    <task id="LOCAL-00097" summary="BanMonkey Web">
+      <created>1432578086179</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1432578086179</updated>
+    </task>
+    <task id="LOCAL-00098" summary="BanMonkey Web">
+      <created>1432717034351</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1432717034382</updated>
+    </task>
+    <task id="LOCAL-00099" summary="BanMonkey Web">
+      <created>1432825630966</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1432825630966</updated>
+    </task>
+    <task id="LOCAL-00100" summary="BanMonkey Web">
+      <created>1432902953794</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1432902953808</updated>
+    </task>
+    <task id="LOCAL-00101" summary="BanMonkey Web">
+      <created>1432903703207</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1432903703207</updated>
+    </task>
+    <task id="LOCAL-00102" summary="BanMonkey Web">
+      <created>1432917486447</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1432917486447</updated>
+    </task>
+    <task id="LOCAL-00103" summary="BanMonkey Web">
+      <created>1433072554775</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1433072554828</updated>
+    </task>
+    <task id="LOCAL-00104" summary="BanMonkey Web">
+      <created>1433171467946</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1433171467957</updated>
+    </task>
+    <task id="LOCAL-00105" summary="BanMonkey Web">
+      <created>1433171551065</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1433171551065</updated>
+    </task>
+    <task id="LOCAL-00106" summary="BanMonkey Web">
+      <created>1433178376389</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1433178376389</updated>
+    </task>
+    <task id="LOCAL-00107" summary="BanMonkey Web">
+      <created>1433495931136</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1433495931172</updated>
+    </task>
+    <task id="LOCAL-00108" summary="BanMonkey Web">
+      <created>1434961735561</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1434961735562</updated>
+    </task>
+    <task id="LOCAL-00109" summary="BanMonkey Web">
+      <created>1434966386488</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1434966386490</updated>
+    </task>
+    <task id="LOCAL-00110" summary="BanMonkey Web">
+      <created>1434966678126</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1434966678126</updated>
+    </task>
+    <task id="LOCAL-00111" summary="BanMonkey Web">
+      <created>1434982324290</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1434982324290</updated>
+    </task>
+    <task id="LOCAL-00112" summary="BanMonkey Web">
+      <created>1435258532145</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1435258532145</updated>
+    </task>
+    <task id="LOCAL-00113" summary="BanMonkey Web">
+      <created>1435919252831</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1435919252846</updated>
+    </task>
+    <task id="LOCAL-00114" summary="BanMonkey Web">
+      <created>1435943327795</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1435943327795</updated>
+    </task>
+    <task id="LOCAL-00115" summary="BanMonkey Web">
+      <created>1435943721400</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1435943721400</updated>
+    </task>
+    <task id="LOCAL-00116" summary="BanMonkey Web">
+      <created>1436192787660</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1436192787661</updated>
+    </task>
+    <task id="LOCAL-00117" summary="BanMonkey Web">
+      <created>1436265256073</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1436265256076</updated>
+    </task>
+    <task id="LOCAL-00118" summary="BanMonkey Web">
+      <created>1436277701979</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1436277701979</updated>
+    </task>
+    <task id="LOCAL-00119" summary="BanMonkey Web">
+      <created>1436285001582</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1436285001583</updated>
+    </task>
+    <task id="LOCAL-00120" summary="BanMonkey Web">
+      <created>1436292846148</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1436292846148</updated>
+    </task>
+    <task id="LOCAL-00121" summary="BanMonkey Web">
+      <created>1436295452216</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1436295452267</updated>
+    </task>
+    <task id="LOCAL-00122" summary="BanMonkey Web">
+      <created>1436335168468</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1436335168519</updated>
+    </task>
+    <task id="LOCAL-00123" summary="BanMonkey Web">
+      <created>1437383875676</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1437383875676</updated>
+    </task>
+    <task id="LOCAL-00124" summary="BanMonkey Web">
+      <created>1438096675661</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1438096675674</updated>
+    </task>
+    <task id="LOCAL-00125" summary="BanMonkey Web">
+      <created>1438261138719</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1438261138719</updated>
+    </task>
+    <task id="LOCAL-00126" summary="BanMonkey Web">
+      <created>1438269897268</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1438269897268</updated>
+    </task>
+    <task id="LOCAL-00127" summary="BanMonkey Web">
+      <created>1438270296870</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1438270296871</updated>
+    </task>
+    <task id="LOCAL-00128" summary="BanMonkey Web">
+      <created>1438332078902</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1438332078912</updated>
+    </task>
+    <task id="LOCAL-00129" summary="BanMonkey Web">
+      <created>1438754438062</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1438754438083</updated>
+    </task>
+    <task id="LOCAL-00130" summary="BanMonkey Web">
+      <created>1438763615587</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1438763615589</updated>
+    </task>
+    <task id="LOCAL-00131" summary="BanMonkey Web">
+      <created>1438779629087</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1438779629087</updated>
+    </task>
+    <task id="LOCAL-00132" summary="BanMonkey Web">
+      <created>1438851417610</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1438851417628</updated>
+    </task>
+    <task id="LOCAL-00133" summary="BanMonkey Web">
+      <created>1438851639382</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1438851639382</updated>
+    </task>
+    <task id="LOCAL-00134" summary="BanMonkey Web">
+      <created>1439556435714</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1439556435714</updated>
+    </task>
+    <task id="LOCAL-00135" summary="BanMonkey Web">
+      <created>1453405637096</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1453405637221</updated>
+    </task>
+    <task id="LOCAL-00136" summary="BanMonkey Web">
+      <created>1457638539659</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1457638539669</updated>
+    </task>
+    <task id="LOCAL-00137" summary="BanMonkey Web">
+      <created>1460478793271</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1460478793290</updated>
+    </task>
+    <task id="LOCAL-00138" summary="BanMonkey Web">
+      <created>1460479732684</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1460479732684</updated>
+    </task>
+    <task id="LOCAL-00139" summary="BanMonkey Web">
+      <created>1460654129783</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1460654129808</updated>
+    </task>
+    <task id="LOCAL-00140" summary="BanMonkey Web">
+      <created>1463502462171</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1463502462171</updated>
+    </task>
+    <task id="LOCAL-00141" summary="BanMonkey Web">
+      <created>1463639381854</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1463639381871</updated>
+    </task>
+    <task id="LOCAL-00142" summary="BanMonkey Web">
+      <created>1463639496837</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1463639496837</updated>
+    </task>
+    <task id="LOCAL-00143" summary="BanMonkey Web">
+      <created>1479931534017</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1479931534018</updated>
+    </task>
+    <task id="LOCAL-00144" summary="BanMonkey Web">
+      <created>1480012897515</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1480012897515</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1195366000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21496312" sideWeight="0.41397288" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18536071" sideWeight="0.5005203" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32870865" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792208" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23588924" sideWeight="0.4915758" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18536071" sideWeight="0.49804434" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23588924" sideWeight="0.50842416" order="1" side_tool="true" content_ui="combo" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18536071" sideWeight="0.5005203" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="left" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.3998935" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964718" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28458497" sideWeight="0.49893618" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22294372" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <MESSAGE value="commit&#10;initial&#10;" />
+    <MESSAGE value="commit&#10;commit&#10;" />
+    <MESSAGE value="commit&#10;commit&#10;commit&#10;commit&#10;" />
+    <MESSAGE value="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;" />
+    <MESSAGE value="Web template" />
+    <MESSAGE value="BanMonkey Web" />
+    <option name="LAST_COMMIT_MESSAGE" value="BanMonkey Web" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="true" />
+    <buildFile url="file://$PROJECT_DIR$/deploy/Deploy.xml">
+      <targetFilters>
+        <filter targetName="Deploy" isVisible="true" />
+        <filter targetName="Clean" isVisible="true" />
+        <filter targetName="Reset" isVisible="true" />
+        <filter targetName="deploy" isVisible="false" />
+        <filter targetName="copyNonProcessFiles" isVisible="false" />
+        <filter targetName="copyProcessFiles" isVisible="false" />
+        <filter targetName="includeLibrary" isVisible="false" />
+        <filter targetName="combineManagerJsCode" isVisible="false" />
+        <filter targetName="combineWebJsCode" isVisible="false" />
+        <filter targetName="minifyPHP" isVisible="false" />
+        <filter targetName="minifyHTML" isVisible="false" />
+        <filter targetName="minifyJS" isVisible="false" />
+        <filter targetName="minifyManagerJS" isVisible="false" />
+        <filter targetName="minifyCSS" isVisible="false" />
+        <filter targetName="copyToTargetRelease" isVisible="false" />
+        <filter targetName="ftpUpload" isVisible="false" />
+        <filter targetName="copyToLocalHost" isVisible="false" />
+        <filter targetName="deleteTargetReleaseTempFolder" isVisible="false" />
+        <filter targetName="clean" isVisible="false" />
+        <filter targetName="ftpClean" isVisible="false" />
+      </targetFilters>
+      <treeView value="false" />
+      <expanded value="true" />
+    </buildFile>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/model/vo/VoObject.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/model/literals/es_ES/Home.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/resources/images/shared/sn.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/shared/Footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/model/literals/es_ES/Help.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="30" column="39" lean-forward="false" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/home/HomeBefore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="24" column="38" lean-forward="false" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/model/web/WebSection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="241" column="36" lean-forward="false" selection-start-line="241" selection-start-column="36" selection-end-line="241" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/help/HelpInner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/userSchedule/UserScheduleInner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/product/ProductInner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/_manager/view/sections/managerShared/ManagerJavascriptVarsDefine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/_root/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/_root/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/controller/system/SystemTesting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="36" column="66" lean-forward="false" selection-start-line="36" selection-start-column="66" selection-end-line="36" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/model/web/WebConstantsBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="95" column="50" lean-forward="false" selection-start-line="95" selection-start-column="50" selection-end-line="95" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/css/Shared.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="173" column="55" lean-forward="false" selection-start-line="173" selection-start-column="55" selection-end-line="173" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/deploy/Tasks.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils/UtilsJavascript.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/js/view/sections/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="101" column="65" lean-forward="false" selection-start-line="101" selection-start-column="61" selection-end-line="101" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/js/view/sections/Help.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="11" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/help/HelpAfter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="75" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/webservices/SignInFormSend.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/home/HomeInner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="28" lean-forward="false" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/loaders/SectionLoader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/home/HomeAfter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/model/literals/es_ES/Shared.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="48" column="45" lean-forward="false" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/js/view/Shared.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="66" column="10" lean-forward="false" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/product/ProductBefore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="63" lean-forward="false" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/webservices/PayPalIPNValidateBuyNow.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/js/view/sections/UserBuyBans.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="3" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/loaders/ServiceLoader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="49" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/webservices/UserDataFormSend.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/js/view/sections/UserAccount.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="1" lean-forward="false" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/model/web/WebConfigurationBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="71" column="18" lean-forward="false" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/userBuyBans/UserBuyBansAfter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/webservices/PayPalIPNValidateBansPack.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="85" lean-forward="false" selection-start-line="39" selection-start-column="85" selection-end-line="39" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/model/web/WebConfiguration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="42" lean-forward="false" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/model/web/WebConstants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/userAccount/UserAccountInner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/userAccount/UserAccountAfter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="272" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/controller/managers/ManagerMySql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="174" column="20" lean-forward="false" selection-start-line="174" selection-start-column="20" selection-end-line="174" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy/Configuration.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/webservices/DoBid.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/controller/system/SystemBids.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="135" column="30" lean-forward="false" selection-start-line="135" selection-start-column="30" selection-end-line="135" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/view/webservices/FoldersGet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/shared/LoadBefore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/shared/Header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="29" lean-forward="false" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/webservices/RefreshUserSchedules.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/controller/crons/RefreshAuction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="118" column="23" lean-forward="false" selection-start-line="118" selection-start-column="23" selection-end-line="118" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/userBuyBans/UserBuyBansInner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/userBuyBans/UserBuyBansBefore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jdk1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BanMonkey Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jdk1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

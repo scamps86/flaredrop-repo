@@ -1,0 +1,90 @@
+/* CONTENTS */
+#leftContents {
+    width: 560px;
+    padding-right: 50px;
+    float: left;
+}
+
+#rightContents {
+    width: 360px;
+    float: left;
+}
+
+/* SLIDER */
+#slider {
+    margin-top: 35px;
+}
+
+#slider, #slider .slide {
+    width: 100%;
+    white-space: nowrap;
+}
+
+#slider img {
+    float: left;
+}
+
+#slider a {
+    float: left;
+    margin: 5px;
+}
+
+#slider a:HOVER {
+    opacity: 0.5;
+}
+
+/* SLIDER STATIC */
+#sliderStatic {
+    margin-top: 30px;
+    text-align: center;
+}
+
+#sliderStatic a {
+    margin: 5px;
+    display: inline-block;
+    line-height: 0;
+}
+
+/* OPTIONS */
+#homeOptions {
+    margin-top: 40px;
+}
+
+#homeOptions a {
+    margin-bottom: 20px;
+}
+
+#homeOptions span.option {
+    background-image: url(../resources/images/home/options.png);
+    background-repeat: no-repeat;
+    height: 30px;
+    float: right;
+}
+
+#homeOptions span.option.catalog {
+    width: 27px;
+    background-position: 0 0;
+}
+
+#homeOptions span.option.contact {
+    width: 25px;
+    background-position: -27px 0;
+}
+
+#homeOptions span.fontBold {
+    float: right;
+    margin-left: 1rem;
+    line-height: 2.2rem;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 1024px) {
+    #leftContents {
+        width: 100%;
+        padding-right: 0;
+    }
+
+    #rightContents {
+        width: 100%;
+    }
+}

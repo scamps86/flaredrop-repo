@@ -1,0 +1,42 @@
+#page {
+    padding-top: 4rem;
+}
+
+div.left {
+    width: 50%;
+    padding-right: 3rem;
+    float: left;
+}
+
+figure.right {
+    width: 50%;
+    height: 25rem;
+    float: right;
+}
+
+figure.right iframe {
+    width: 100%;
+    height: 100%;
+}
+
+p.description {
+    text-align: justify;
+}
+
+h2.titleProduct {
+    margin-top: 2.2rem;
+    margin-bottom: 0.2rem;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 480px) {
+    div.left {
+        width: 100%;
+        padding-right: 0;
+    }
+
+    figure.right {
+        width: 100%;
+        margin-top: 2rem;
+    }
+}

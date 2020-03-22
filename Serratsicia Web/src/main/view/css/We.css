@@ -1,0 +1,16 @@
+#weContent .centered {
+    background: url(../resources/images/we/weBg.jpg) #ebebe8 no-repeat right bottom;
+    background-size: 90%;
+    min-height: 50rem;
+}
+
+#weContent .row {
+    width: 60%;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 768px) {
+    #weContent .row {
+        width: 100%;
+    }
+}

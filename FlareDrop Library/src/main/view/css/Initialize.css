@@ -1,0 +1,865 @@
+/* Reset all settings */
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    -webkit-appearance: none;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    background: transparent;
+    text-transform: none;
+}
+
+*:FOCUS {
+    outline: 0;
+}
+
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    min-width: 200px;
+}
+
+p, a, span, li, h1, h2, h3, h4, h5, h6, textarea, input, select, button {
+    text-decoration: none;
+    font-weight: normal;
+}
+
+ul {
+    list-style-type: none;
+}
+
+/* Inputs */
+input[type=text], input[type=password], textarea, input[type=checkbox], select {
+    border: 1px solid #e8e8e8;
+    background: #fff;
+    border-radius: 3px;
+    display: inline-block;
+    padding: 5px;
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+textarea {
+    resize: none;
+    height: 100px;
+}
+
+input[type=submit], input[type=button], button {
+    border: 1px solid #bbb;
+    background: #ddd;
+    border-radius: 3px;
+    display: inline-block;
+    cursor: pointer;
+    color: #333;
+    padding: 5px;
+}
+
+input[type=submit]:ACTIVE, input[type=button]:ACTIVE, button:ACTIVE, input[type=text]:ACTIVE, input[type=password]:ACTIVE, textarea:ACTIVE, input[type=checkbox]:ACTIVE, select:ACTIVE {
+    box-shadow: inset 3px 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+button::-moz-focus-inner, input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+
+/* Misc */
+.unselectable {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+.hidden {
+    display: none;
+}
+
+/* Generate transitions */
+.transitionFast {
+    transition: All 0.2s ease;
+    -webkit-transition: All 0.2s ease;
+    -moz-transition: All 0.2s ease;
+    -o-transition: All 0.2s ease;
+}
+
+.transitionNormal {
+    transition: All 0.5s ease;
+    -webkit-transition: All 0.5s ease;
+    -moz-transition: All 0.5s ease;
+    -o-transition: All 0.5s ease;
+}
+
+.transitionSlow {
+    transition: All 1s ease;
+    -webkit-transition: All 1s ease;
+    -moz-transition: All 1s ease;
+    -o-transition: All 1s ease;
+}
+
+.boxShadow {
+    -moz-box-shadow: 0 0 25px #000;
+    -webkit-box-shadow: 0 0 25px #000;
+    box-shadow: 0 0 25px #000;
+}
+
+/* Generate layout */
+.container {
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+
+.centered {
+    margin: auto;
+    max-width: 1140px;
+    padding: 0 1rem;
+    overflow: auto;
+}
+
+.maximized {
+    width: 100%;
+}
+
+.row {
+    width: 100%;
+    float: left;
+    overflow: hidden;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 480px) {
+    .xsHide {
+        display: none;
+    }
+
+    .xsShow {
+        display: inherit;
+    }
+
+    .xsFixed {
+        position: fixed;
+    }
+}
+
+@media (max-width: 768px) {
+    .smHide {
+        display: none;
+    }
+
+    .smShow {
+        display: inherit;
+    }
+
+    .smFixed {
+        position: fixed;
+    }
+
+    * {
+        font-size: 11px;
+        line-height: 14px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .mdHide {
+        display: none;
+    }
+
+    .mdShow {
+        display: block;
+    }
+
+    .mdFixed {
+        position: fixed;
+    }
+}
+
+@media (max-width: 1200px) {
+    .lgHide {
+        display: none;
+    }
+
+    .lgShow {
+        display: inherit;
+    }
+
+    .lgFixed {
+        position: fixed;
+    }
+}
+
+@media (min-width: 480px) {
+    .xsHide {
+        display: inherit;
+    }
+
+    .xsShow {
+        display: none;
+    }
+
+    * {
+        font-size: 12px;
+        line-height: 16px;
+    }
+}
+
+@media (min-width: 768px) {
+    .smHide {
+        display: inherit;
+    }
+
+    .smShow {
+        display: none;
+    }
+
+    * {
+        font-size: 14px;
+        line-height: 18px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .mdHide {
+        display: inherit;
+    }
+
+    .mdShow {
+        display: none;
+    }
+}
+
+@media (min-width: 1200px) {
+    .lgHide {
+        display: inherit;
+    }
+
+    .lgShow {
+        display: none;
+    }
+}
+
+/* TOP BROWSER WARNING */
+#topBrowserWarning {
+    width: 100%;
+    background-color: #bb1919;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    text-align: center;
+}
+
+#topBrowserWarning p {
+    color: #fff;
+    padding: 10px;
+}
+
+/* MANAGER popups */
+div.managerPopUpBackground {
+    background: rgba(0, 0, 0, 0.8);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 10000;
+}
+
+div.managerPopUpCloseBtn {
+    width: 18px;
+    height: 10px;
+    border-radius: 3px;
+    float: right;
+    cursor: pointer;
+}
+
+div.managerPopUpCloseBtn:ACTIVE {
+    box-shadow: inset 3px 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+div.managerPopUpDialog {
+    border-radius: 3px;
+    padding: 15px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    box-shadow: 3px 3px 20px #000;
+    z-index: 10001;
+}
+
+div.managerPopUpTopContainer {
+    margin-bottom: 20px;
+}
+
+div.managerPopUpMessageContainer {
+    margin-bottom: 20px;
+    overflow: auto;
+}
+
+div.managerPopUpOptionsContainer button {
+    float: right;
+    margin-left: 10px;
+    min-width: 80px;
+}
+
+div.managerPopUpTopContainer p {
+    font-size: 1rem;
+    line-height: 1.2rem;
+}
+
+div.managerPopUpDialog.default {
+    background: #fff;
+}
+
+div.managerPopUpDialog.default div.managerPopUpCloseBtn {
+    border: 1px solid #bbb;
+    background: #ddd;
+}
+
+div.managerPopUpDialog.error {
+    background: #f2dede;
+}
+
+div.managerPopUpDialog.error p {
+    color: #b84442;
+}
+
+div.managerPopUpDialog.error div.managerPopUpCloseBtn {
+    background: #b84442;
+    border: 1px solid #992a28;
+}
+
+div.managerPopUpDialog.error button {
+    background: #b84442;
+    border: 1px solid #992a28;
+    color: #fff;
+}
+
+div.managerPopUpDialog.warning {
+    background: #fcf8f2;
+}
+
+div.managerPopUpDialog.warning p {
+    color: #975e0e;
+}
+
+div.managerPopUpDialog.warning div.managerPopUpCloseBtn {
+    background: #f0ad4e;
+    border: 1px solid #d89637;
+}
+
+div.managerPopUpDialog.warning button {
+    background: #f0ad4e;
+    border: 1px solid #d89637;
+    color: #fff;
+}
+
+div.managerPopUpDialog.success {
+    background: #dff0d8;
+}
+
+div.managerPopUpDialog.success p {
+    color: #377537;
+}
+
+div.managerPopUpDialog.success div.managerPopUpCloseBtn {
+    background: #468847;
+    border: 1px solid #377537;
+}
+
+div.managerPopUpDialog.success button {
+    background: #468847;
+    border: 1px solid #377537;
+    color: #fff;
+}
+
+div.managerPopUpDialog.info {
+    background: #e0e9f6;
+}
+
+div.managerPopUpDialog.info p {
+    color: #32608b;
+}
+
+div.managerPopUpDialog.info div.managerPopUpCloseBtn {
+    background: #4975b2;
+    border: 1px solid #32608b;
+}
+
+div.managerPopUpDialog.info button {
+    background: #4975b2;
+    border: 1px solid #32608b;
+    color: #fff;
+}
+
+div.managerPopUpWindow {
+    border-radius: 3px;
+    padding: 15px 5px 15px 15px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    box-shadow: 3px 3px 20px #000;
+    z-index: 10001;
+    background-color: #fff;
+}
+
+div.managerPopUpWindow div.managerPopUpCloseBtn {
+    background: #ddd;
+    border: 1px solid #bbb;
+    margin-right: 10px;
+}
+
+div.managerPopUpWindow div.managerPopUpContentHtmlContainer {
+    width: 100%;
+    overflow: auto;
+    padding-right: 10px;
+}
+
+div.managerPopUpWindow div.managerPopUpContentHtmlContainer img.managerPopUpContentImage {
+    max-width: 100%;
+}
+
+div.managerPopUpWaitContent {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+
+/* COMPONENT PHP language chooser */
+ul.componentLanguageChooser {
+    float: left;
+}
+
+ul.componentLanguageChooser li.componentLanguageChooserOption, ul.componentLanguageChooser li.componentLanguageChooserOptionGlue {
+    float: left;
+}
+
+ul.componentLanguageChooser li.componentLanguageChooserOptionGlue {
+    margin: 0 5px 0 5px;
+}
+
+/* COMPONENT JS switch */
+div.componentSwitch {
+    width: 30px;
+    height: 14px;
+    border-radius: 3px;
+    border: 1px solid #bbb;
+    background: #fff;
+    cursor: pointer;
+}
+
+div.componentSwitch div.componentSwitchInnerBtn {
+    width: 10px;
+    height: 10px;
+    margin: 1px;
+    border-radius: 2px;
+    border: 1px solid #bbb;
+    background: #ddd;
+}
+
+div.componentSwitchOpened div.componentSwitchInnerBtn {
+    margin: 1px 1px 1px 17px;
+}
+
+div.componentSwitch:ACTIVE {
+    box-shadow: inset 3px 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* COMPONENT JS option bar */
+ul.componentOptionBar {
+    float: left;
+    border-radius: 3px;
+    border: 1px solid #bbb;
+    background: #ddd;
+    white-space: nowrap;
+    line-height: 0;
+}
+
+ul.componentOptionBar li {
+    display: inline-block;
+    height: 100%;
+    padding: 0 10px 0 10px;
+    cursor: pointer;
+    border-left: 1px solid #bbb;
+}
+
+ul.componentOptionBar li:ACTIVE {
+    box-shadow: inset 3px 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+ul.componentOptionBar li p {
+    line-height: 2rem;
+    font-size: 1rem;
+}
+
+ul.componentOptionBar li.componentOptionBarSelected {
+    cursor: default;
+    border-left: 1px solid #bbb;
+    background: #eee;
+}
+
+ul.componentOptionBar li:FIRST-CHILD {
+    border: none;
+}
+
+/* COMPONENT JS tree */
+ul.componentTree {
+    width: 100%;
+}
+
+ul.componentTree li.componentTreeNodeLi {
+    margin-top: 5px;
+    width: 100%;
+}
+
+ul.componentTree li.componentTreeNodeLi.componentTreeHover {
+    background: #eee;
+}
+
+ul.componentTree li.componentTreePlaceholder {
+    width: 100%;
+    margin: 5px 0 5px 0;
+    height: 5px;
+    background: #888;
+    border-radius: 3px;
+}
+
+ul.componentTree li.componentTreeNodeLi.componentTreeNodeExpanded ul.componentTreeNodeExpanded {
+    height: inherit;
+    display: inherit;
+}
+
+ul.componentTree li.componentTreeNodeLi.componentTreeNodeExpanded.componentTreeHover ul.componentTreeNodeExpanded {
+    min-height: 15px;
+}
+
+ul.componentTree li.componentTreeNodeEmpty {
+    margin: 5px 0 5px 0;
+    height: 1px;
+    background-color: #888;
+}
+
+ul.componentTree ul.componentTreeNodeUl {
+    padding: 0 0 0 20px;
+    overflow: hidden;
+    display: none;
+}
+
+ul.componentTree div.componentTreeNodeLabel.nodeSelected {
+    background: #ddd;
+    padding: 0;
+    border: 1px solid #bbb;
+    border-radius: 3px;
+    position: relative;
+}
+
+ul.componentTree div.componentTreeNodeLabel {
+    height: 22px;
+    padding: 1px;
+    overflow: hidden;
+    position: relative;
+}
+
+ul.componentTree div.componentTreeNodeLabel div.componentTreeNodeIcon {
+    width: 20px;
+    height: 20px;
+    float: left;
+    cursor: pointer;
+    position: absolute;
+}
+
+ul.componentTree div.componentTreeNodeLabel p.componentTreeNodeP {
+    cursor: pointer;
+    margin-left: 25px;
+    float: left;
+    overflow: hidden;
+    width: 100%;
+}
+
+ul.componentTree div.componentTreeNodeLabel.componentTreeNodeLiDropHover {
+    background: #ddd;
+    padding: 0;
+    border: 1px solid #bbb;
+    border-radius: 3px;
+}
+
+/* COMPONENT JS datagrid */
+div.componentDataGrid {
+    width: 100%;
+}
+
+div.componentDataGrid li.componentDataGridRow {
+    height: 30px;
+    background-color: #f0f0f0;
+    border-left: 1px solid #c5c5c5;
+    padding: 5px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+div.componentDataGrid li.componentDataGridRow.componentDataGridRowPair {
+    background-color: #e4e4e4
+}
+
+div.componentDataGrid li.componentDataGridRowHeader {
+    background: #faf0e8;
+    border-left: 1px solid #999;
+    border-bottom: 1px solid #999;
+}
+
+div.componentDataGrid li.componentDataGridRow p {
+    width: 100%;
+    height: 100%;
+    font-size: 0.8rem;
+    line-height: 1.2rem;
+}
+
+div.componentDataGrid li.componentDataGridRowHeader p {
+    font-size: 1rem;
+    font-family: 'roboto_bold';
+}
+
+div.componentDataGrid li.componentDataGridRowSelected {
+    background: #fff;
+}
+
+div.componentDataGrid li.componentDataGridRowSelected.componentDataGridRowPair {
+    background: #fff;
+}
+
+div.componentDataGrid ul.componentDataGridCol0 li.componentDataGridRow {
+    border-left: none;
+}
+
+div.componentDataGrid ul.componentDataGridCol0 li.componentDataGridRowHeader {
+    border-left: none;
+}
+
+div.componentDataGridDragHelper {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 5px 10px 5px 10px;
+    border-radius: 3px;
+}
+
+div.componentDataGridDragHelper p {
+    font-size: 0.8rem;
+    color: #fff;
+}
+
+/* COMPONENT JS divided box */
+ul.componentDividedBox {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+ul.componentDividedBox li.componentDividedBoxItem {
+    height: 100%;
+    -webkit-overflow-scrolling: touch;
+    float: left;
+    overflow: hidden;
+}
+
+ul.componentDividedBox div.componentDividedBoxHelper {
+    width: 10px;
+    position: absolute;
+    background: #000;
+    cursor: ew-resize;
+    opacity: 0;
+    z-index: 10000;
+}
+
+ul.componentDividedBox div.componentDividedBoxHelper:HOVER {
+    opacity: 0.1;
+}
+
+ul.componentDividedBox div.componentDividedBoxHelper.componentDividedBoxHelperDown {
+    opacity: 0.2;
+}
+
+/* COMPONENT JS datepicker */
+.componentDatePickerInputBaseElement {
+    cursor: pointer;
+}
+
+li.componentDatePickerCell {
+    float: left;
+    width: 14.2%;
+    text-align: center;
+}
+
+.componentDatePickerDayLabelsList {
+    margin-bottom: 1rem;
+}
+
+.componentDatePickerMonthDayNumbersList li.componentDatePickerCell {
+    height: 2rem;
+}
+
+.componentDatePickerMonthDayNumbersList li.componentDatePickerCell.componentDatePickerCellSelectable {
+    cursor: pointer;
+}
+
+.componentDatePickerMonthDayNumbersList li.componentDatePickerCell.componentDatePickerCellWeekend {
+    background-color: #eee;
+}
+
+.componentDatePickerMonthDayNumbersList li.componentDatePickerCell.componentDatePickerCellSelected {
+    background-color: #444;
+}
+
+.componentDatePickerMonthDayNumbersList li.componentDatePickerCell.componentDatePickerCellSelected p {
+    color: #fff;
+}
+
+.componentDatePickerMonthDayNumbersList li.componentDatePickerCell.componentDatePickerCellSelectable:HOVER {
+    background-color: #ddd;
+}
+
+.componentDatePickerMonthDayNumbersList li.componentDatePickerCell p {
+    margin-top: 0.35rem;
+}
+
+.componentDatePickerYearRow {
+    text-align: center;
+}
+
+.componentDatePickerMonthRow {
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.componentDatePickerPreviousYearBtn {
+    cursor: pointer;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-top: 0.4rem solid transparent;
+    border-bottom: 0.4rem solid transparent;
+    border-right: 0.5rem solid #000;
+}
+
+.componentDatePickerPreviousYearBtn:HOVER {
+    border-right: 0.5rem solid #999;
+}
+
+.componentDatePickerNextYearBtn {
+    cursor: pointer;
+    display: inline-block;
+    border-top: 0.4rem solid transparent;
+    border-bottom: 0.4rem solid transparent;
+    border-left: 0.5rem solid #000;
+}
+
+.componentDatePickerNextYearBtn:HOVER {
+    border-left: 0.5rem solid #999;
+}
+
+.componentDatePickerPreviousMonthBtn {
+    cursor: pointer;
+    display: inline-block;
+    border-top: 0.4rem solid transparent;
+    border-bottom: 0.4rem solid transparent;
+    border-right: 0.5rem solid #000;
+}
+
+.componentDatePickerPreviousMonthBtn:HOVER {
+    border-right: 0.5rem solid #999;
+}
+
+.componentDatePickerNextMonthBtn {
+    cursor: pointer;
+    display: inline-block;
+    border-top: 0.4rem solid transparent;
+    border-bottom: 0.4rem solid transparent;
+    border-left: 0.5rem solid #000;
+}
+
+.componentDatePickerNextMonthBtn:HOVER {
+    border-left: 0.5rem solid #999;
+}
+
+.componentDatePickerCurrentYear {
+    display: inline-block;
+    width: 50%;
+    margin: 0 1rem;
+}
+
+.componentDatePickerCurrentMonth {
+    display: inline-block;
+    width: 50%;
+    margin: 0 1rem;
+    text-align: center;
+}
+
+.componentDatePickerHourContainer {
+    margin-bottom: 1rem;
+}
+
+.componentDatePickerHourContainer select, .componentDatePickerHourContainer p {
+    width: 31%;
+    margin-top: 0.5rem;
+    display: inline-block;
+}
+
+.componentDatePickerMinutesSelector, .componentDatePickerMinutesP {
+    margin-right: 3.5%;
+    margin-left: 3.5%;
+}
+
+.componentDatePickerSelectBtn {
+    float: right;
+}
+
+/* Component tab navigator */
+.componentTabNavigator {
+    width: 100%;
+    border: 1px solid #bbb;
+    background-color: #ddd;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.componentTabNavigator .componentTabNavigatorTab {
+    display: inline-block;
+    text-align: center;
+    padding: 0.8rem 2rem;
+    border-left: 1px solid #bbb;
+    cursor: pointer;
+}
+
+.componentTabNavigator .componentTabNavigatorTab:FIRST-CHILD {
+    border-left: none;
+}
+
+.componentTabNavigator .componentTabNavigatorTab:ACTIVE {
+    box-shadow: inset 3px 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+.componentTabNavigator .componentTabNavigatorTab .componentTabNavigatorContents {
+    display: none;
+}
+
+.componentTabNavigator .componentTabNavigatorTab.componentTabNavigatorTabSelected {
+    background-color: #bbb;
+}
+
+.componentTabNavigator .componentTabNavigatorTab.componentTabNavigatorTabSelected .componentTabNavigatorLabel {
+    color: #fff;
+}
+
+.componentTabNavigator .componentTabNavigatorSelectedContainer {
+    display: block;
+    border-top: 1px solid #bbb;
+    background-color: #eee;
+    padding: 1rem;
+}

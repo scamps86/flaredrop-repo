@@ -1,0 +1,23 @@
+#downloadsList {
+    margin-top: 30px;
+}
+
+#downloadsList a {
+    margin-top: 30px;
+    display: inline-block;
+}
+
+#downloadsList img {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+#downloadsList span {
+    display: inline-block;
+}
+
+#gAdsenseAd2 {
+    position: absolute;
+    width: 336px;
+    height: 240px;
+}

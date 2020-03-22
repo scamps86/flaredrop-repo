@@ -1,0 +1,36 @@
+#page {
+    padding-top: 4rem;
+}
+
+div.left {
+    width: 50%;
+    padding-right: 3rem;
+    float: left;
+}
+
+figure.right {
+    width: 50%;
+    max-width: 500px;
+    float: right;
+}
+
+figure.right img {
+    width: 100%;
+}
+
+p.description {
+    text-align: justify;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 480px) {
+    div.left {
+        width: 100%;
+        padding-right: 0;
+    }
+
+    figure.right {
+        width: 100%;
+        margin-top: 2rem;
+    }
+}

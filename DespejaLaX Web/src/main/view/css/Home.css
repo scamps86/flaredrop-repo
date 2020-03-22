@@ -1,0 +1,76 @@
+/* SLIDER */
+#slider {
+    width: 100%;
+}
+
+#slider div.slide {
+    width: 100%;
+    text-align: center;
+}
+
+/* GAMES LIST */
+#gamesList {
+    text-align: center;
+}
+
+#gamesList li {
+    display: inline-block;
+    border: 1px solid #ddd;
+    margin: 2rem;
+}
+
+#gamesList li a {
+    width: 10rem;
+    height: 10rem;
+    position: relative;
+    display: block;
+}
+
+#gamesList .gameSelectBg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: #fff;
+    opacity: 0;
+}
+
+#gamesList li:HOVER a.enabled .gameSelectBg {
+    opacity: 0.5;
+}
+
+/* TIME LEFT */
+#timeLeftContainer {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding-top: 1rem;
+}
+
+#timeLeftBar {
+    height: 1rem;
+    background-size: 2rem;
+    background-image: url(../resources/images/shared/progressBar.gif);
+}
+
+#timeLeftContainer > div {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#timeLeftContainer p {
+    margin-bottom: 1rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    display: inline-block;
+}
+
+#timeLeftContainer p * {
+    font-size: 3rem;
+    font-family: 'roboto_light';
+    color: #fff;
+}
+
+.timeLeftTimer {
+    margin-top: 0.3rem;
+    width: 2.6rem;
+    display: inline-block;
+    line-height: 2rem;
+}

@@ -1,0 +1,243 @@
+#contentContainer h1.title {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+li.productsListItem {
+    width: 100%;
+    float: left;
+    margin-bottom: 3rem;
+}
+
+div.itemLeft {
+    float: left;
+    width: 55%;
+    margin-right: 5%;
+}
+div.itemLeft img, div.productsListHeader img {
+    width: 4.28rem;
+    float: left;
+}
+
+div.itemLeft p.description {
+    text-align: justify;
+    margin-top: 1rem;
+}
+div.itemLeft h2, div.productsListHeader h2 {
+    float: left;
+    text-transform: uppercase;
+    font-size: 1.4rem;
+    margin-top: 1.35rem;
+    margin-left: 1rem;
+    line-height: 1.5rem;
+}
+
+div.itemRight {
+    float: left;
+    width: 40%;
+    background-color: #eee;
+    border: 1px solid #cacaca;
+    border-radius: 3px;
+    padding: 1rem;
+}
+div.itemRight h3 {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+}
+
+div.itemRight ul {
+    margin-bottom: 3rem;
+}
+div.itemRight ul p {
+    color: #a24f17;
+    font-size: 0.8rem;
+}
+div.itemRight p.price {
+    color: #719e1b;
+    margin-top: 3rem;
+}
+div.itemRight p.price span {
+    color: #fff;
+    background-color: #719e1b;
+    padding: 0.1rem 0.5rem;
+    border-radius: 3px;
+    margin-left: 1rem;
+}
+a.budgetRequest {
+    float: right;
+    padding: 0.5rem 1rem;
+    border-radius: 3px;
+    display: inline-block;
+    color: #fff;
+}
+
+a.budgetRequest.btnRed {
+    background-color: #c5372b;
+    border: 1px solid #7c2219;
+}
+
+a.budgetRequest.btnBlue {
+    background-color: #46638a;
+    border: 1px solid #264063;
+}
+
+a.budgetRequest.btnGreen {
+    background-color: #5c7233;
+    border: 1px solid #5e5623;
+}
+
+a.budgetRequest.btnYellow {
+    background-color: #8f7350;
+    border: 1px solid #544233;
+}
+a.contactUs i {
+    font-size: 0.9rem;
+    color: #f9a02a;
+}
+
+#domainsHostingsTable {
+    margin-top: 1rem;
+}
+
+#domainsHostingsTable div.dhCol {
+    width: 14%;
+    float: left;
+    text-align: center;
+}
+
+#domainsHostingsTable div.dhCol p {
+    padding: 1rem;
+}
+
+#domainsHostingsTable div.dhCol img {
+    margin-top: 1.2rem;
+    width: 1.2rem;
+}
+
+#domainsHostingsTable div.dhHeader div.dhCol:FIRST-CHILD {
+    width: 30%;
+    border-left: none;
+}
+
+#domainsHostingsTable div.dhHeader {
+    border: 1px solid #f47a24;
+    background-color: #f9a02a;
+    border-radius: 3px 3px 0 0;
+}
+
+#domainsHostingsTable div.dhHeader p {
+    color: #fff;
+}
+
+#domainsHostingsTable div.dhHeader div.dhCol {
+    border-left: 1px solid #f47a24;
+}
+
+#domainsHostingsTable div.dhContent {
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+#domainsHostingsTable div.dhContent p {
+    font-size: 0.9rem;
+}
+
+#domainsHostingsTable div.dhContent p span {
+    font-size: 0.9rem;
+    color: #f9a02a;
+}
+
+#domainsHostingsTable div.dhContent div.row.pair {
+    background-color: #fafafa;
+}
+
+#domainsHostingsTable div.dhContent div.row div.dhCol:FIRST-CHILD {
+    text-align: left;
+    width: 30%;
+    background-color: #fafafa;
+}
+
+#domainsHostingsTable div.dhContent div.row.pair div.dhCol:FIRST-CHILD {
+    background-color: #f0f0f0;
+}
+
+#domainsHostingsTable div.dhFooter div.dhCol:FIRST-CHILD {
+    width: 30%;
+    text-align: left;
+}
+
+#domainsHostingsTable div.dhFooter div.dhCol:FIRST-CHILD p {
+    color: #444;
+}
+
+#domainsHostingsTable div.dhFooter p {
+    color: #719e1b;
+    margin-top: 1rem;
+}
+
+#domainsHostingsTable a.budgetRequest {
+    margin-top: 2rem;
+}
+
+#managerContent {
+    margin: 2rem 0;
+}
+
+#managerContent .title {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+#managerContent ul {
+    width: 60%;
+    float: left;
+    padding-right: 2rem;
+}
+
+#managerContent ul li {
+    margin-bottom: 1rem;
+    background-image: url(../resources/images/products/tic2.svg);
+    background-repeat: no-repeat;
+    background-size: 1rem;
+    padding-left: 2rem;
+    text-align: justify;
+}
+
+#managerRight {
+    width: 40%;
+    float: left;
+}
+
+#managerRight img {
+    max-width: 100%;
+    float: right;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 768px) {
+    div.itemLeft {
+        width: 100%;
+    }
+    div.itemRight {
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+    #managerContent ul {
+        width: 100%;
+    }
+
+    #managerRight {
+        width: 100%;
+        text-align: center;
+        margin-left: 0;
+        margin-top: 2rem;
+    }
+
+    #managerRight img {
+        max-width: 300px;
+        width: 100%;
+        float: none;
+    }
+}

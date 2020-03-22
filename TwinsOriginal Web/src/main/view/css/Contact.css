@@ -1,0 +1,40 @@
+.section {
+    background-image: url(../resources/images/contact/bgwall.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#contactForm {
+    max-width: 30rem;
+    width: 100%;
+    display: inline-block;
+    text-align: left;
+    padding: 2rem;
+    margin: 4rem 0;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+#contactForm input, #contactForm textarea {
+    width: 100%;
+}
+
+#contactForm .componentFormInputContainer {
+    margin-top: 2rem;
+}
+
+#contactForm .componentFormInputContainer p {
+    line-height: 2rem;
+    color: #fff;
+}
+
+@media (max-width: 900px) {
+    .section {
+        background-size: auto 100%;
+    }
+}
+
+@media (max-width: 480px) {
+    .section {
+        margin-top: 4rem !important;
+    }
+}

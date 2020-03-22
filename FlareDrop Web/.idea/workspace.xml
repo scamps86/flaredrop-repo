@@ -1,0 +1,1866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../FlareDrop Library/src/main/view/webservices/SystemPayPalPlanRenew.php" line="29" mnemonic="7" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="823e3d28-eaf3-48c2-8f1b-bd0f20711e34" name="Default" comment="Web FlareDrop">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/resources/images/home/dogs.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/resources/images/home/canvit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/resources/images/home/cat1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/resources/images/home/cat2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/resources/images/home/list1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/resources/images/home/list2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/resources/images/home/list3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/resources/images/home/list4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/resources/images/home/list5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/resources/images/home/list6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/resources/images/home/nutrican.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/resources/images/shared/logo2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/resources/images/shared/logo3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/resources/images/shared/logo4.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BanMonkey Web/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../BanMonkey Web/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FlareDrop Web Template/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../FlareDrop Web Template/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Jpladevall 2 Web/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Jpladevall 2 Web/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/model/literals/es_ES/Home.ini" afterPath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/model/literals/es_ES/Home.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/css/Home.css" afterPath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/css/Home.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/css/Shared.css" afterPath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/css/Shared.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/loaders/SectionLoader.php" afterPath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/loaders/SectionLoader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/sections/home/HomeAfter.php" afterPath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/sections/home/HomeAfter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/sections/shared/Header.php" afterPath="$PROJECT_DIR$/../Jpladevall 2 Web/src/main/view/sections/shared/Header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Serratsicia Web/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Serratsicia Web/.idea/workspace.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target_release/" />
+    <ignored path="$PROJECT_DIR$/target_release_temp/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="FlareDrop Web" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="RequestAfter.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/view/sections/request/RequestAfter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="699">
+              <caret line="58" column="193" selection-start-line="58" selection-start-column="193" selection-end-line="59" selection-end-column="107" />
+              <folding>
+                <marker date="1438260259000" expanded="true" signature="2701:2714" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/model/literals/ca_ES/We.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/es_ES/We.ini" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/works/WorksAfter.php" />
+        <option value="$PROJECT_DIR$/src/main/view/css/Products.css" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/es_ES/Works.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/ca_ES/Works.ini" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/works/WorksBefore.php" />
+        <option value="$PROJECT_DIR$/src/main/view/css/Works.css" />
+        <option value="$PROJECT_DIR$/src/main/view/css/Home.css" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/ca_ES/Request.ini" />
+        <option value="$PROJECT_DIR$/src/main/view/css/We.css" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/we/WeAfter.php" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/es_ES/Home.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/ca_ES/Home.ini" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils/UtilsDate.php" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/es_ES/ManagerCustomers.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/ca_ES/ManagerCustomers.ini" />
+        <option value="$PROJECT_DIR$/src/main/view/webservices/CronCustomers.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/model/web/WebConstantsBase.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/system/SystemWebLoader.php" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/ca_ES/Mailing.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/es_ES/Mailing.ini" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/_manager/model/literals/ca_ES/ManagerApp.ini" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/_manager/model/literals/es_ES/ManagerApp.ini" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/_manager/model/literals/en_US/ManagerApp.ini" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/view/js/view/components/ComponentDatePicker.js" />
+        <option value="$PROJECT_DIR$/src/main/controller/crons/NotifyCustomers.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/model/web/WebSection.php" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/ca_ES/Contact.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/es_ES/Contact.ini" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/contact/ContactAfter.php" />
+        <option value="$PROJECT_DIR$/src/main/view/css/Contact.css" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/managers/ManagerErrors.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils/UtilsResult.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/system/SystemDisk.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/managers/ManagerMySql.php" />
+        <option value="$PROJECT_DIR$/deploy/Deploy.xml" />
+        <option value="$PROJECT_DIR$/deploy/Configuration.properties" />
+        <option value="$PROJECT_DIR$/src/main/model/web/WebConfiguration.php" />
+        <option value="$PROJECT_DIR$/src/main/view/loaders/SectionLoader.php" />
+        <option value="$PROJECT_DIR$/src/main/view/loaders/ServiceLoader.php" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/home/HomeBefore.php" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/request/RequestAfter.php" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/shared/Header.php" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/underConstruction/UnderConstruction.php" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/ca_ES/Products.ini" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/products/ProductsAfter.php" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/es_ES/Products.ini" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/contact/ContactInner.php" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/request/RequestInner.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/_root/robots.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1014" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Control flow issues</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Initialization issues</id>
+          </State>
+          <State>
+            <id>JUnit issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Naming ConventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventions</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Pattern Validation</id>
+          </State>
+          <State>
+            <id>Performance issues</id>
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="false" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlareDrop Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlareDrop Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlareDrop Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlareDrop Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlareDrop Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlareDrop Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlareDrop Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlareDrop Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlareDrop Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlareDrop Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlareDrop Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlareDrop Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlareDrop Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="request" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlareDrop Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlareDrop Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlareDrop Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlareDrop Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlareDrop Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Changed Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Tests" />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Jpladevall Web" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="options.lastSelected" value="preferences.editor" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="LayoutCode.rearrangeEntries" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\REPOSITORY\FlareDrop Web\src\main\view\resources\images\contact" />
+      <recent name="C:\REPOSITORY\FlareDrop Web\src\main\model\literals\es_ES" />
+      <recent name="C:\REPOSITORY\FlareDrop Web\src\main\model\literals\ca_ES" />
+      <recent name="C:\REPOSITORY\FlareDrop Web\src\main\view\webservices" />
+      <recent name="C:\REPOSITORY\FlareDrop Web\src\main\view\resources\images\products" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\REPOSITORY\FlareDrop Web\src\main\controller\crons" />
+      <recent name="C:\REPOSITORY\FlareDrop Web\src\main\view\resources\images\products" />
+      <recent name="C:\REPOSITORY\FlareDrop Web\src\main\view\resources\images\shared" />
+      <recent name="C:\REPOSITORY\FlareDrop Web\src\main\view\resources\images\home" />
+      <recent name="C:\REPOSITORY\FlareDrop Web\src\main\view\sections\request" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="FlareDrop Web" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="823e3d28-eaf3-48c2-8f1b-bd0f20711e34" name="Default" comment="" />
+      <created>1405327867542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1405327867542</updated>
+      <workItem from="1405327870042" duration="1516000" />
+      <workItem from="1405443970336" duration="2225000" />
+      <workItem from="1405490551893" duration="2665000" />
+      <workItem from="1405521887061" duration="23000" />
+      <workItem from="1405577008345" duration="1432000" />
+      <workItem from="1405598322372" duration="89000" />
+      <workItem from="1405598428633" duration="3167000" />
+      <workItem from="1405606525511" duration="139000" />
+      <workItem from="1405606683241" duration="405000" />
+      <workItem from="1405607341522" duration="28000" />
+      <workItem from="1405662485825" duration="1812000" />
+      <workItem from="1405922531090" duration="2577000" />
+      <workItem from="1406009482902" duration="6169000" />
+      <workItem from="1406048803890" duration="7151000" />
+      <workItem from="1406095876432" duration="2378000" />
+      <workItem from="1406137937244" duration="161000" />
+      <workItem from="1406182309963" duration="1251000" />
+      <workItem from="1406224674322" duration="502000" />
+      <workItem from="1406225213582" duration="3042000" />
+      <workItem from="1406283496293" duration="7453000" />
+      <workItem from="1406389430327" duration="8625000" />
+      <workItem from="1406527697741" duration="4886000" />
+      <workItem from="1406569536031" duration="4325000" />
+      <workItem from="1406613017534" duration="2323000" />
+      <workItem from="1406706497095" duration="6398000" />
+      <workItem from="1406740310177" duration="3675000" />
+      <workItem from="1406787158443" duration="2682000" />
+      <workItem from="1406879762698" duration="10796000" />
+      <workItem from="1407132795689" duration="6014000" />
+      <workItem from="1407171794551" duration="7148000" />
+      <workItem from="1407218705011" duration="5687000" />
+      <workItem from="1407305107732" duration="12269000" />
+      <workItem from="1407391824377" duration="2638000" />
+      <workItem from="1407477028166" duration="591000" />
+      <workItem from="1407737524494" duration="3123000" />
+      <workItem from="1407760246588" duration="10000000" />
+      <workItem from="1407864692352" duration="1442000" />
+      <workItem from="1407910006286" duration="10772000" />
+      <workItem from="1407949419297" duration="2612000" />
+      <workItem from="1407995945788" duration="7643000" />
+      <workItem from="1408946632473" duration="2315000" />
+      <workItem from="1408979701744" duration="61000" />
+      <workItem from="1408979897025" duration="449000" />
+      <workItem from="1409158074519" duration="917000" />
+      <workItem from="1409206219347" duration="591000" />
+      <workItem from="1409551176138" duration="6555000" />
+      <workItem from="1409660161847" duration="5058000" />
+      <workItem from="1409724522177" duration="13898000" />
+      <workItem from="1410155762086" duration="7061000" />
+      <workItem from="1410242808288" duration="6083000" />
+      <workItem from="1410287498680" duration="1433000" />
+      <workItem from="1410290646377" duration="10671000" />
+      <workItem from="1410427752622" duration="4499000" />
+      <workItem from="1410500841354" duration="155000" />
+      <workItem from="1410501030048" duration="53000" />
+      <workItem from="1410506218917" duration="6612000" />
+      <workItem from="1410544677109" duration="573000" />
+      <workItem from="1411717129248" duration="13256000" />
+      <workItem from="1411733809466" duration="4056000" />
+      <workItem from="1411741499361" duration="283000" />
+      <workItem from="1411745092166" duration="978000" />
+      <workItem from="1411751251320" duration="692000" />
+      <workItem from="1412001154913" duration="567000" />
+      <workItem from="1412006145317" duration="4213000" />
+      <workItem from="1412087197391" duration="897000" />
+      <workItem from="1412166375822" duration="10414000" />
+      <workItem from="1413044461783" duration="6547000" />
+      <workItem from="1413180332458" duration="22062000" />
+      <workItem from="1413353247698" duration="8154000" />
+      <workItem from="1413566239824" duration="5026000" />
+      <workItem from="1413784551536" duration="16733000" />
+      <workItem from="1413871160166" duration="7134000" />
+      <workItem from="1413998494167" duration="14288000" />
+      <workItem from="1414228128739" duration="2574000" />
+      <workItem from="1414394136895" duration="38960000" />
+      <workItem from="1414565580552" duration="16396000" />
+      <workItem from="1414738497974" duration="12308000" />
+      <workItem from="1414998640901" duration="49145000" />
+      <workItem from="1415286524592" duration="3680000" />
+      <workItem from="1415357583867" duration="12984000" />
+      <workItem from="1415400834100" duration="2868000" />
+      <workItem from="1415608834478" duration="12057000" />
+      <workItem from="1415688597067" duration="8220000" />
+      <workItem from="1415775205980" duration="3909000" />
+      <workItem from="1415810922003" duration="3867000" />
+      <workItem from="1415862065949" duration="14812000" />
+      <workItem from="1415948501072" duration="11231000" />
+      <workItem from="1416071032219" duration="5094000" />
+      <workItem from="1416207627462" duration="15424000" />
+      <workItem from="1416250332336" duration="4002000" />
+      <workItem from="1416294174353" duration="10505000" />
+      <workItem from="1416379999898" duration="12945000" />
+      <workItem from="1416466767872" duration="19575000" />
+      <workItem from="1416511825431" duration="4127000" />
+      <workItem from="1416585067109" duration="8504000" />
+      <workItem from="1416593669739" duration="33000" />
+      <workItem from="1416728759374" duration="9327000" />
+      <workItem from="1416812124491" duration="737000" />
+      <workItem from="1416821980530" duration="34000" />
+      <workItem from="1418924977548" duration="879000" />
+      <workItem from="1419845619620" duration="11910000" />
+      <workItem from="1419866043526" duration="534000" />
+      <workItem from="1420486459764" duration="155000" />
+      <workItem from="1420487024608" duration="409000" />
+      <workItem from="1420487461612" duration="213000" />
+      <workItem from="1420614533497" duration="1003000" />
+      <workItem from="1420636328408" duration="32000" />
+      <workItem from="1421091125050" duration="890000" />
+      <workItem from="1421144671896" duration="129000" />
+      <workItem from="1423499141957" duration="1751000" />
+      <workItem from="1423647720771" duration="13871000" />
+      <workItem from="1423669601981" duration="2461000" />
+      <workItem from="1423673654453" duration="14378000" />
+      <workItem from="1423781088572" duration="148000" />
+      <workItem from="1423781270997" duration="1487000" />
+      <workItem from="1424069741167" duration="53000" />
+      <workItem from="1424436982933" duration="679000" />
+      <workItem from="1424452878633" duration="181000" />
+      <workItem from="1424542842877" duration="5260000" />
+      <workItem from="1424548851357" duration="166000" />
+      <workItem from="1424679881130" duration="41359000" />
+      <workItem from="1425284096651" duration="179000" />
+      <workItem from="1425284299345" duration="24000" />
+      <workItem from="1425284723297" duration="15987000" />
+      <workItem from="1425388157765" duration="1977000" />
+      <workItem from="1425495243773" duration="490000" />
+      <workItem from="1426188160318" duration="321000" />
+      <workItem from="1427099444361" duration="364000" />
+      <workItem from="1427361546617" duration="20813000" />
+      <workItem from="1427501100664" duration="467000" />
+      <workItem from="1427700910624" duration="190000" />
+      <workItem from="1428918717290" duration="525000" />
+      <workItem from="1430770745575" duration="606000" />
+      <workItem from="1431000641167" duration="214000" />
+      <workItem from="1431331259201" duration="211000" />
+      <workItem from="1431691367875" duration="920000" />
+      <workItem from="1431701215891" duration="527000" />
+      <workItem from="1431784972540" duration="704000" />
+      <workItem from="1431954929443" duration="861000" />
+      <workItem from="1432556172378" duration="475000" />
+      <workItem from="1432717044738" duration="220000" />
+      <workItem from="1432800065785" duration="332000" />
+      <workItem from="1433230314543" duration="1822000" />
+      <workItem from="1433244058315" duration="209000" />
+      <workItem from="1433253201988" duration="1541000" />
+      <workItem from="1434961470099" duration="245000" />
+      <workItem from="1435257827120" duration="240000" />
+      <workItem from="1435584270345" duration="512000" />
+      <workItem from="1435584994462" duration="7010000" />
+      <workItem from="1435827746723" duration="9000" />
+      <workItem from="1435829138250" duration="12000" />
+      <workItem from="1438007497700" duration="36000" />
+      <workItem from="1438007905550" duration="15000" />
+      <workItem from="1438259974364" duration="323000" />
+      <workItem from="1438754328167" duration="43000" />
+      <workItem from="1439297617959" duration="1290000" />
+      <workItem from="1439556212065" duration="38000" />
+      <workItem from="1449485626251" duration="173000" />
+      <workItem from="1453405664628" duration="323000" />
+      <workItem from="1453827825841" duration="145000" />
+      <workItem from="1454959525258" duration="50000" />
+      <workItem from="1454960438398" duration="16000" />
+      <workItem from="1454960487235" duration="28000" />
+      <workItem from="1454960696325" duration="6000" />
+      <workItem from="1456246554508" duration="258000" />
+      <workItem from="1457282862520" duration="222000" />
+      <workItem from="1470759670578" duration="54000" />
+    </task>
+    <task id="LOCAL-00026" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1411731999861</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1411731999861</updated>
+    </task>
+    <task id="LOCAL-00027" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1411733855323</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1411733855323</updated>
+    </task>
+    <task id="LOCAL-00028" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1411738390467</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1411738390467</updated>
+    </task>
+    <task id="LOCAL-00029" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1411739094536</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1411739094536</updated>
+    </task>
+    <task id="LOCAL-00030" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1411739335161</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1411739335161</updated>
+    </task>
+    <task id="LOCAL-00031" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1411739472288</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1411739472288</updated>
+    </task>
+    <task id="LOCAL-00032" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1411739949124</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1411739949124</updated>
+    </task>
+    <task id="LOCAL-00033" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1411740122386</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1411740122386</updated>
+    </task>
+    <task id="LOCAL-00034" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1411740853843</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1411740853843</updated>
+    </task>
+    <task id="LOCAL-00035" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1411745460444</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1411745460444</updated>
+    </task>
+    <task id="LOCAL-00036" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1411751403651</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1411751403651</updated>
+    </task>
+    <task id="LOCAL-00037" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1411751739160</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1411751739160</updated>
+    </task>
+    <task id="LOCAL-00038" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1412009685349</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1412009685349</updated>
+    </task>
+    <task id="LOCAL-00039" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1412010977141</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1412010977141</updated>
+    </task>
+    <task id="LOCAL-00040" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1416821196893</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1416821196893</updated>
+    </task>
+    <task id="LOCAL-00041" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1416822009321</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1416822009321</updated>
+    </task>
+    <task id="LOCAL-00042" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1419853033936</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1419853033936</updated>
+    </task>
+    <task id="LOCAL-00043" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1419865781369</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1419865781369</updated>
+    </task>
+    <task id="LOCAL-00044" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1419865893929</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1419865893929</updated>
+    </task>
+    <task id="LOCAL-00045" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1419866574912</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1419866574912</updated>
+    </task>
+    <task id="LOCAL-00046" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1420487573026</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1420487573026</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Minimal changes">
+      <created>1420635857301</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1420635857301</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Minimal changes">
+      <created>1420635933123</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1420635933123</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Minimal changes">
+      <created>1420636354552</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1420636354552</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Web FlareDrop">
+      <created>1421092019103</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1421092019103</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Web FlareDrop">
+      <created>1421144794487</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1421144794487</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Web FlareDrop">
+      <created>1423669286881</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1423669286881</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Web FlareDrop">
+      <created>1423672059185</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1423672059185</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Web FlareDrop">
+      <created>1423672186039</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1423672186039</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Web FlareDrop">
+      <created>1423734219984</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1423734219984</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Web FlareDrop">
+      <created>1423748384150</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1423748384151</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Web FlareDrop">
+      <created>1423782697599</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1423782697637</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Web FlareDrop">
+      <created>1424549017936</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1424549017964</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Web FlareDrop">
+      <created>1424774391074</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1424774391088</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Web FlareDrop">
+      <created>1424876312884</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1424876312885</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Web FlareDrop">
+      <created>1424970114494</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1424970114496</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Web FlareDrop">
+      <created>1425327404838</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1425327404894</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Web FlareDrop">
+      <created>1425459765872</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1425459765909</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Web FlareDrop">
+      <created>1427099797455</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1427099797482</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Web FlareDrop">
+      <created>1427371256566</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1427371256566</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Web FlareDrop">
+      <created>1427454775961</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1427454775961</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Web FlareDrop">
+      <created>1427457695279</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1427457695279</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Web FlareDrop">
+      <created>1427476519383</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1427476519400</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Web FlareDrop">
+      <created>1427501562026</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1427501562027</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Web FlareDrop">
+      <created>1430771344761</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1430771344762</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Web FlareDrop">
+      <created>1433230793840</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1433230793842</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Web FlareDrop">
+      <created>1433254737435</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1433254737445</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Web FlareDrop">
+      <created>1435650006079</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1435650006082</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Web FlareDrop">
+      <created>1439300410677</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1439300410677</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="782411000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1014" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18536071" sideWeight="0.5005203" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18536071" sideWeight="0.5005203" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852563" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20340788" sideWeight="0.48809522" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18526785" sideWeight="0.49804434" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20340788" sideWeight="0.5119048" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18536071" sideWeight="0.5005203" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="left" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.3998935" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964718" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24866596" sideWeight="0.49893618" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32142857" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="left" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.3998935" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18536071" sideWeight="0.5005203" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18526785" sideWeight="0.49804434" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17857143" sideWeight="0.3847981" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964718" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18536071" sideWeight="0.5005203" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2820513" sideWeight="0.49893618" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852563" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17857143" sideWeight="0.6152019" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3253205" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18536071" sideWeight="0.5005203" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
+    <confirmMoveToFailedCommit value="1" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <MESSAGE value="commit&#10;initial&#10;" />
+    <MESSAGE value="commit&#10;commit&#10;" />
+    <MESSAGE value="commit&#10;commit&#10;commit&#10;commit&#10;" />
+    <MESSAGE value="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;" />
+    <MESSAGE value="Minimal changes" />
+    <MESSAGE value="Web FlareDrop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Web FlareDrop" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="FILTER_TARGETS" value="true" />
+    <buildFile url="file://$PROJECT_DIR$/deploy/Deploy.xml">
+      <targetFilters>
+        <filter targetName="Deploy" isVisible="true" />
+        <filter targetName="Clean" isVisible="true" />
+        <filter targetName="Reset" isVisible="true" />
+        <filter targetName="deploy" isVisible="false" />
+        <filter targetName="copyNonProcessFiles" isVisible="false" />
+        <filter targetName="copyProcessFiles" isVisible="false" />
+        <filter targetName="includeLibrary" isVisible="false" />
+        <filter targetName="combineManagerJsCode" isVisible="false" />
+        <filter targetName="combineWebJsCode" isVisible="false" />
+        <filter targetName="minifyPHP" isVisible="false" />
+        <filter targetName="minifyHTML" isVisible="false" />
+        <filter targetName="minifyJS" isVisible="false" />
+        <filter targetName="minifyManagerJS" isVisible="false" />
+        <filter targetName="minifyCSS" isVisible="false" />
+        <filter targetName="copyToTargetRelease" isVisible="false" />
+        <filter targetName="ftpUpload" isVisible="false" />
+        <filter targetName="copyToLocalHost" isVisible="false" />
+        <filter targetName="deleteTargetReleaseTempFolder" isVisible="false" />
+        <filter targetName="clean" isVisible="false" />
+        <filter targetName="ftpClean" isVisible="false" />
+      </targetFilters>
+      <expanded value="true" />
+    </buildFile>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/_manager/model/literals/ca_ES/ManagerProducts.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/model/vo/VoFile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/controller/system/SystemUsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/view/js/model/vo/VoSystemFilter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/resources/images/shared/flareDropTopLogo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/model/literals/es_ES/ManagerCustomers.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/model/literals/ca_ES/ManagerCustomers.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/model/web/WebConstants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/controller/system/SystemWebLoader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/model/literals/es_ES/Mailing.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="16" column="135" selection-start-line="16" selection-start-column="135" selection-end-line="16" selection-end-column="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/model/literals/ca_ES/Mailing.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="95" selection-start-line="17" selection-start-column="95" selection-end-line="17" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/_manager/model/literals/ca_ES/ManagerApp.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="143" column="55" selection-start-line="143" selection-start-column="55" selection-end-line="143" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/_manager/model/literals/es_ES/ManagerApp.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="147" column="55" selection-start-line="147" selection-start-column="55" selection-end-line="147" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/_manager/model/literals/en_US/ManagerApp.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="133" column="15" selection-start-line="133" selection-start-column="15" selection-end-line="133" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/model/web/WebService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/controller/managers/ManagerFtpFileSystem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="112" column="27" selection-start-line="112" selection-start-column="27" selection-end-line="112" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/view/css/Initialize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="75" column="13" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/view/js/view/components/ComponentDatePicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="402" column="37" selection-start-line="402" selection-start-column="37" selection-end-line="402" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/webservices/RequestFormSend.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/controller/crons/NotifyCustomers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/model/web/WebSection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="211" column="146" selection-start-line="211" selection-start-column="146" selection-end-line="211" selection-end-column="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/model/web/WebConfigurationBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="47" column="36" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/model/literals/ca_ES/Contact.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/model/literals/es_ES/Contact.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/resources/images/shared/socialNetworks.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/css/Shared.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="154" column="4" selection-start-line="154" selection-start-column="4" selection-end-line="154" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/resources/images/contact/facebook.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/contact/ContactAfter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="31" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/css/Contact.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/controller/managers/ManagerErrors.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="107" column="5" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils/UtilsResult.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/view/webservices/FilesSet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/controller/managers/ManagerMySql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="283" column="6" selection-start-line="283" selection-start-column="6" selection-end-line="283" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/controller/system/SystemDisk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="428" column="35" selection-start-line="428" selection-start-column="35" selection-end-line="428" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy/Deploy.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy/Configuration.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/loaders/SectionLoader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="75" column="50" selection-start-line="75" selection-start-column="50" selection-end-line="75" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/loaders/ServiceLoader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/home/HomeBefore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/shared/Header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="22" column="62" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/underConstruction/UnderConstruction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/products/ProductsAfter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="76" column="87" selection-start-line="76" selection-start-column="87" selection-end-line="76" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/model/literals/es_ES/Products.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="57" column="39" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/model/literals/ca_ES/Products.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/contact/ContactInner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/request/RequestInner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/_root/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/model/web/WebConstantsBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="101" column="11" selection-start-line="101" selection-start-column="11" selection-end-line="101" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/view/loaders/SectionLoaderBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/model/web/WebConfiguration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/request/RequestAfter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="58" column="193" selection-start-line="58" selection-start-column="193" selection-end-line="59" selection-end-column="107" />
+          <folding>
+            <marker date="1438260259000" expanded="true" signature="2701:2714" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jQuery UI-1.10.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FlareDrop Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

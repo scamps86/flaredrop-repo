@@ -1,0 +1,44 @@
+RewriteEngine on
+
+# Stop referrer spam
+RewriteCond %{HTTP_REFERER} semalt.com [NC,OR]
+RewriteCond %{HTTP_REFERER} semaltmedia.com [NC,OR]
+RewriteCond %{HTTP_REFERER} 100dollars-seo.com [NC,OR]
+RewriteCond %{HTTP_REFERER} buttons-for-website.com [NC,OR]
+RewriteCond %{HTTP_REFERER} buttons-for-your-website.com [NC,OR]
+RewriteCond %{HTTP_REFERER} social-buttons.com [NC,OR]
+RewriteCond %{HTTP_REFERER} get-free-traffic-now.com [NC,OR]
+RewriteCond %{HTTP_REFERER} buy-cheap-online.info [NC,OR]
+RewriteCond %{HTTP_REFERER} guardlink.org [NC,OR]
+RewriteCond %{HTTP_REFERER} torture.ml [NC,OR]
+RewriteCond %{HTTP_REFERER} free-social-buttons.com [NC,OR]
+RewriteCond %{HTTP_REFERER} event-tracking.com [NC,OR]
+RewriteCond %{HTTP_REFERER} best-seo-offer.com [NC,OR]
+RewriteCond %{HTTP_REFERER} 4webmasters.org [NC,OR]
+RewriteCond %{HTTP_REFERER} simple-share-buttons.com [NC]
+RewriteCond %{HTTP_REFERER} videos-for-your-business.com [NC]
+RewriteCond %{HTTP_REFERER} success-seo.com [NC]
+RewriteRule .* – [F,L]
+
+# Redirect errors to the main section
+ErrorDocument 301 /
+ErrorDocument 302 /
+ErrorDocument 404 /
+ErrorDocument 403 /
+
+# Not allow access to the project folders:
+RewriteRule ^controller/ - [F,L,NC]
+RewriteRule ^model/ - [F,L,NC]
+RewriteRule ^view/sections/ - [F,L,NC]
+RewriteRule ^view/webservices/ - [F,L,NC]
+RewriteRule ^view/components/ - [F,L,NC]
+
+# WEB SECTIONS REDIRECT: "/SectionName/lan&params&dummy" to: "view/SectionLoader.php?s=sectionName&l=xx&p=parameters&d=dummyText"
+RewriteRule ^(.*)/(..)&(.*)&(.*)$ view/loaders/SectionLoader\.php?s=$1&l=$2&p=$3&d=$4 [L]
+RewriteRule ^(.*)/(..)&(.*)$ view/loaders/SectionLoader\.php?s=$1&l=$2&p=$3 [L]
+RewriteRule ^(.*)/(..)$ view/loaders/SectionLoader\.php?s=$1&l=$2 [L]
+RewriteRule ^(.*)/$ view/loaders/SectionLoader\.php?s=$1 [L]
+
+# WEB SERVICES REDIRECT: "_webservices/ServiceName&params" to: "view/loaders/ServiceLoader.php?w=serviceName&p=parameters"
+RewriteRule ^_webservice/(.*)&(.*)$ view/loaders/ServiceLoader\.php?w=$1&p=$2 [L]
+RewriteRule ^_webservice/(.*)$ view/loaders/ServiceLoader\.php?w=$1 [L]

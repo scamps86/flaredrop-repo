@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /_
+Disallow: /view/js/
+Disallow: /view/css/
+Allow: /FileGet
+Disallow: /_preview/

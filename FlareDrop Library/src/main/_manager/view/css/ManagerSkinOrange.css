@@ -1,0 +1,193 @@
+/* INPUTS */
+input[type=submit] {
+    background-color: #ee8a39;
+    color: #fff;
+    border: 1px solid #bb5e20;
+}
+
+/* COMPONENT switch */
+div.componentSwitchOpened {
+    border: 1px solid #bb5e20;
+    background-color: #ee8a39;
+}
+
+div.componentSwitchOpened div.componentSwitchInnerBtn {
+    border: 1px solid #bb5e20;
+    background-color: #fff;
+}
+
+/* TOP BAR */
+#topBar {
+    background-color: #ee8a39;
+    border-bottom: 1px solid #bb5e20;
+}
+
+#topBarTabs li {
+    border: 1px solid #bb5f28;
+}
+
+/* POPUPS */
+div.managerPopUpWindow div.managerPopUpCloseBtn {
+    background: #ee8a39;
+    border: 1px solid #bb5e20;
+}
+
+/* COMPONENT ENTITIES */
+div.componentFolders .dataGridFilterText {
+    border: 1px solid #bb5e20;
+}
+
+/* COMPONENT CATEGORIES */
+div.componentFolders div.folderOptionsContainer {
+    border-right: 1px solid #dba984;
+}
+
+/* COMPONENT TREE */
+ul.componentTree div.componentTreeNodeLabel div.componentTreeNodeIcon {
+    background-image: url(../resources/images/_manager/skinOrange/folder.svg);
+    background-position: 0 0;
+}
+
+ul.componentTree li.componentTreeNodeLi.componentTreeNodeExpanded div.componentTreeNodeLabel.componentTreeNodeExpanded div.componentTreeNodeIcon {
+    background-position: -20px 0;
+}
+
+ul.componentTree li.componentTreePlaceholder {
+    border: 1px solid #bb5e20;
+    background-color: #ee8a39;
+}
+
+ul.componentTree li.componentTreeNodeEmpty {
+    background-color: #bb5e20;
+}
+
+/* COMPONENT DATAGRID */
+div.componentDataGrid li.componentDataGridRowHeader {
+    background-color: #f3d0b7;
+    border-left: 1px solid #dba984;
+    border-bottom: 1px solid #dba984;
+}
+
+/* COMPONENT OPTION TAB */
+ul.componentOptionBar {
+    border: 1px solid #bb5e20;
+    background: #f9e5d6;
+}
+
+ul.componentOptionBar li {
+    border-left: 1px solid #bb5e20;
+}
+
+ul.componentOptionBar li.componentOptionBarSelected {
+    border-left: 1px solid #bb5e20;
+    background: #ee8a39;
+}
+
+ul.componentOptionBar li:FIRST-CHILD {
+    border: none;
+}
+
+ul.componentOptionBar li.componentOptionBarSelected p {
+    color: #fff;
+}
+
+/* COMPONENT PERIOD CHOOSER */
+p.componentPeriodChooserLabel {
+    color: #bb5e20;
+}
+
+ul.componentPeriodChooserDropDown {
+    background-color: #f9e5d6;
+    border-left: 1px solid #dba984;
+    border-right: 1px solid #dba984;
+    border-bottom: 1px solid #dba984;
+}
+
+ul.componentPeriodChooserDropDown li {
+    color: #bb5e20;
+}
+
+/* ATTACH PROGRESS BAR */
+form.attachPopUp div.componentFormProgressBar {
+    background-color: #f3d0b7;
+    border: 1px solid #bb5e20;
+}
+
+form.attachPopUp div.componentFormProgressBar div {
+    background: #ee8a39;
+}
+
+/* MODULE GLOBAL */
+div.bar {
+    background-color: #f9e5d6;
+    border-bottom: 1px solid #dba984;
+}
+
+/* ICONS */
+.skinIcon {
+    background-image: url(../resources/images/_manager/skinOrange/icons.svg);
+}
+
+form.attachPopUp span.componentFormPreviewRemove {
+    background-image: url(../resources/images/_manager/skinOrange/icons.svg);
+}
+
+.menuIconUser {
+    background: url(../resources/images/_manager/skinOrange/menuUser.svg) no-repeat 35px 15px;
+}
+
+.menuIconObject {
+    background: url(../resources/images/_manager/skinOrange/menuObject.svg) no-repeat 35px 15px;
+}
+
+.menuIconNew {
+    background: url(../resources/images/_manager/skinOrange/menuNew.svg) no-repeat 35px 15px;
+}
+
+.menuIconProperty {
+    background: url(../resources/images/_manager/skinOrange/menuProperty.svg) no-repeat 35px 15px;
+}
+
+.menuIconStaff {
+    background: url(../resources/images/_manager/skinOrange/menuStaff.svg) no-repeat 35px 15px;
+}
+
+.menuIconClothing {
+    background: url(../resources/images/_manager/skinOrange/menuClothing.svg) no-repeat 35px 15px;
+}
+
+.menuIconPlant {
+    background: url(../resources/images/_manager/skinOrange/menuPlant.svg) no-repeat 35px 15px;
+}
+
+.menuIconFood {
+    background: url(../resources/images/_manager/skinOrange/menuFood.svg) no-repeat 35px 15px;
+}
+
+.menuIconCar {
+    background: url(../resources/images/_manager/skinOrange/menuCar.svg) no-repeat 35px 15px;
+}
+
+.menuIconCd {
+    background: url(../resources/images/_manager/skinOrange/menuCd.svg) no-repeat 35px 15px;
+}
+
+.menuIconMusic {
+    background: url(../resources/images/_manager/skinOrange/menuMusic.svg) no-repeat 35px 15px;
+}
+
+.menuIconShow {
+    background: url(../resources/images/_manager/skinOrange/menuShow.svg) no-repeat 35px 15px;
+}
+
+.menuIconVideo {
+    background: url(../resources/images/_manager/skinOrange/menuVideo.svg) no-repeat 35px 15px;
+}
+
+.menuIconPresentation {
+    background: url(../resources/images/_manager/skinOrange/menuPresentation.svg) no-repeat 35px 15px;
+}
+
+.menuIconPackage {
+    background: url(../resources/images/_manager/skinOrange/menuPackage.svg) no-repeat 35px 15px;
+}

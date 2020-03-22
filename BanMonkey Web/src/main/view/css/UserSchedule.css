@@ -1,0 +1,82 @@
+/* Product selector */
+#auctionProductsList li {
+    width: 100%;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 3px;
+    float: left;
+}
+
+#auctionProductsList li:HOVER {
+    background-color: #eee;
+}
+
+#auctionProductsList li div.productPicture {
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-right: 10px;
+}
+
+#auctionProductsList li div.productPicture img {
+    width: 100%;
+}
+
+#auctionProductsList li p {
+    float: left;
+}
+
+/* Form add new schedule */
+#frmAddNewSchedule {
+    width: 100%;
+
+}
+
+#frmAddNewSchedule input[type=text] {
+    width: 100%;
+    margin: 0.6rem 0 1.2rem 0;
+}
+
+#frmAddNewSchedule input[type=submit] {
+    float: right;
+}
+
+/* Schedules list */
+#userSchedulesList {
+    width: 700px;
+    margin-top: 2rem;
+}
+
+#userSchedulesList li {
+    width: 100%;
+    float: left;
+    margin-top: 1rem;
+    background-color: #eee;
+    border: 1px solid #dfdfdf;
+    padding: 1rem;
+}
+
+#userSchedulesList li .productPicture {
+    float: left;
+}
+
+#userSchedulesList li .productName {
+    width: 200px;
+    display: inline-block;
+    margin-left: 1.5rem;
+}
+
+#userSchedulesList li .maxBans {
+    margin-left: 1.5rem;
+}
+
+#userSchedulesList li .maxPrice {
+    margin-left: 1.5rem;
+}
+
+#userSchedulesList li .removeBtn {
+    float: right;
+    background-color: #ca0a0a;
+    border: 1px solid #b21010;
+    color: #fff;
+}

@@ -1,0 +1,614 @@
+/* FONTS */
+@font-face {
+    font-family: 'roboto_thin';
+    src: local('roboto_thin'), url(../resources/fonts/roboto_thin.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'roboto_light';
+    src: local('roboto_light'), url(../resources/fonts/roboto_light.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'roboto_normal';
+    src: local('roboto_normal'), url(../resources/fonts/roboto_normal.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'roboto_bold';
+    src: local('roboto_bold'), url(../resources/fonts/roboto_bold.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'helvetivaInserat';
+    src: local('roboto_bold'), url(../resources/fonts/HelveticaInseratLTStd-Roman.woff) format('woff');
+}
+
+* {
+    font-family: 'roboto_normal';
+    color: #3c3c3c;
+}
+
+.fontThin {
+    font-family: 'roboto_thin';
+}
+
+.fontLight {
+    font-family: 'roboto_light';
+}
+
+.fontNormal {
+    font-family: 'roboto_normal';
+}
+
+.fontBold {
+    font-family: 'roboto_bold';
+}
+
+/* GLOBAL */
+body {
+    background-color: #000;
+}
+
+.section {
+    background-color: #fff;
+    padding-top: 2rem;
+}
+
+input[type=submit], button {
+    border: none;
+    background-color: #0093dd;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    text-transform: uppercase;
+}
+
+form input[type=text], form input[type=password], form textarea {
+    border-radius: 0;
+    background-color: #fff;
+    border: 1px solid #b6b6b6;
+    padding: 0.2rem;
+}
+
+.componentSwitchOpened {
+    background-color: #0093dd !important;
+    border: 1px solid #0076B1 !important;
+}
+
+h2 {
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 2rem;
+    line-height: 2rem;
+    font-family: 'roboto_light';
+}
+
+h3 {
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    font-family: 'roboto_normal';
+}
+
+/* HEADER */
+#header {
+    padding: 0.8rem 0.8rem 0 0.8rem;
+    border-bottom: 1px solid #dedede;
+    background-color: #fff;
+}
+
+#headerTop {
+    width: 100%;
+}
+
+#topLogo img {
+    width: 25rem;
+    float: left;
+}
+
+#header .componentLanguageChanger {
+    display: inline-block;
+    position: relative;
+    top: -14px;
+}
+
+#header .componentLanguageChangerOption, #header .componentLanguageChangerOptionGlue {
+    display: inline-block;
+    margin-left: 0.5rem;
+}
+
+#topUserMenu {
+    float: right;
+}
+
+#topUserMenu * {
+    font-size: 0.9rem;
+}
+
+#topUserMenu ul {
+    display: inline-block;
+}
+
+#topUserMenu li, #topUserMenu span {
+    display: inline-block;
+    padding: 0 15px 0 10px;
+    background: url(../resources/images/shared/li.png) 100% 50% no-repeat;
+}
+
+#headerUserLogout {
+    background: none !important;
+    padding: 0 0 0 10px !important;
+    cursor: pointer;
+}
+
+#headerBottom {
+    width: 100%;
+    float: left;
+}
+
+#headerOptions {
+    float: right;
+    width: 100%;
+    text-align: right;
+}
+
+#topCart {
+    background-image: url(../resources/images/shared/cart.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #0093dd;
+    display: inline-block;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    margin-left: 2rem;
+    cursor: pointer;
+}
+
+#topCartDrop {
+    position: absolute;
+    right: 1rem;
+    top: 9rem;
+    width: 20rem;
+    padding: 1rem;
+    border: 1px solid #cacaca;
+    background-color: #fff;
+    transform: scaleY(0);
+    -webkit-box-shadow: -0.5rem 0.5rem 0.5rem -0.3rem rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: -0.5rem 0.5rem 0.5rem -0.3rem rgba(0, 0, 0, 0.3);
+    box-shadow: -0.5rem 0.5rem 0.5rem -0.3rem rgba(0, 0, 0, 0.3);
+}
+
+#topCartDrop.opened {
+    transform: scaleY(1);
+}
+
+#topCartDrop p.fontBold {
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+}
+
+#topCartDrop .cartTopTotalPrice {
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+    color: #0093dd;
+    float: right;
+}
+
+#topCartDrop a {
+    color: #0093dd;
+    float: right;
+    margin-top: 1rem;
+}
+
+/* CATEGORIES MENU */
+#headerBottom .componentFolderMenu li {
+    display: inline-block;
+    margin-right: 1.5rem;
+}
+
+#headerBottom .componentFolderMenu > li.componentFolderMenuOptionSelected > a {
+    color: #0093dd;
+    position: relative;
+}
+
+#headerBottom .componentFolderSubMenu > li.componentFolderMenuOptionSelected a {
+    color: #1f1f1f;
+}
+
+#headerBottom .componentFolderMenu li a {
+    text-transform: uppercase;
+    font-size: 1.2rem;
+    display: block;
+    padding-bottom: 0.8rem;
+}
+
+#headerBottom .componentFolderSubMenu {
+    width: 42rem;
+    background-color: #0093dd;
+    padding: 1rem;
+    position: absolute;
+    z-index: 20;
+    transform: scaleY(0);
+    transition: All 0.2s ease;
+    -webkit-transition: All 0.2s ease;
+    -moz-transition: All 0.2s ease;
+    -o-transition: All 0.2s ease;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+#headerBottom .componentFolderSubMenu li {
+    width: 10rem;
+    overflow: hidden;
+    margin: 0.5rem 0;
+}
+
+#headerBottom .componentFolderMenu li:hover .componentFolderSubMenu {
+    transform: scaleY(1);
+}
+
+#headerBottom .componentFolderSubMenu a {
+    color: #fff;
+    text-transform: none !important;
+    font-size: 1rem !important;
+    padding: 0 0 0 1rem !important;
+    background: url(../resources/images/shared/li_footer.png) no-repeat scroll 0 50%;
+}
+
+/* FOOTER */
+#footer {
+    padding-top: 2rem;
+    background-color: #1f1f1f;
+}
+
+.footerContainer {
+    display: flex;
+    flex-flow: row;
+}
+
+.footerContainer .footerBox {
+    flex-grow: 1;
+    flex-basis: 0;
+    margin: 1rem;
+    min-width: 12rem;
+    min-height: 12rem;
+}
+
+.footerContainer .footerBox h3 {
+    margin-bottom: 1.4rem;
+}
+
+.footerContainer .footerBox li {
+    margin-bottom: 0.6rem;
+}
+
+.footerContainer .footerBox p, .footerContainer .footerBox span {
+    color: #fff;
+    font-size: 0.9rem;
+    line-height: 1.3rem;
+}
+
+.footerContainer .footerBox .footerIcon {
+    background-repeat: no-repeat;
+    display: block;
+    width: 100%;
+    padding-left: 25px;
+    margin-top: 0.5rem;
+}
+
+.footerContainer .footerBox .footerIconAddress {
+    background-image: url(../resources/images/shared/footerAddress.png);
+    margin-top: 1rem;
+}
+
+.footerContainer .footerBox .footerIconMail {
+    background-image: url(../resources/images/shared/footerMail.png);
+}
+
+.footerContainer .footerBox .footerIconPhone {
+    background-image: url(../resources/images/shared/footerPhone.png);
+}
+
+.footerContainer .componentSectionMenu a {
+    color: #fff;
+    font-size: 0.9rem;
+    line-height: 0.9rem;
+    padding-left: 1rem;
+    background: url(../resources/images/shared/li_footer.png) no-repeat scroll 0 50%;
+}
+
+.footerContainer .componentSectionMenu a:hover {
+    color: #0093dd;
+    background: url(../resources/images/shared/li_footer_hover.png) no-repeat scroll 0 50%;
+}
+
+#footerResponsiveTest {
+    background-color: #0093dd;
+    text-align: center;
+    padding: 0.8rem;
+}
+
+#footerResponsiveTest img {
+    margin-bottom: 1rem;
+}
+
+#footerResponsiveTest h3 {
+    margin-bottom: 1rem;
+}
+
+#footerSubscribe input[type=text] {
+    width: 100%;
+}
+
+#footerSubscribe button {
+    text-transform: none;
+    font-size: 0.9rem;
+    padding: 0.3rem 0.6rem;
+    margin-top: 0.8rem;
+}
+
+#footerSocial {
+    margin-bottom: 3rem;
+}
+
+#footerSocial a {
+    margin-right: 0.5rem;
+}
+
+#footerMap {
+    flex-grow: 1;
+}
+
+#footerBottom {
+    background-color: #000;
+    padding: 1rem 0;
+}
+
+#footerBottom p {
+    float: left;
+    font-size: 0.9rem;
+    color: #fff;
+}
+
+#footerBottom p span {
+    color: #0093dd;
+}
+
+#footerBottom img {
+    float: right;
+    margin-left: 1rem;
+}
+
+/* PRODUCT CARD */
+.productCard {
+    width: 14rem;
+    text-align: center;
+    padding: 1rem;
+    position: relative;
+}
+
+.productCard:hover {
+    box-shadow: inset 0 0 0 1px #dedede;
+}
+
+.productCard .productImage {
+    width: 100%;
+}
+
+.productCard .productTitle {
+    margin: 0.3rem 0;
+}
+
+.productCard .productPrice {
+    color: #0093dd;
+    font-size: 1.5rem;
+}
+
+.productCard .productHover {
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    overflow: hidden;
+}
+
+.productCard .productLinkable {
+    display: block;
+}
+
+.productCard:hover .productHover {
+    opacity: 1;
+}
+
+.productCard:hover .productHover .productHoverInner {
+    transform: translateY(0);
+}
+
+.productCard .productHover .productHoverInner {
+    transform: translateY(10rem);
+    width: 100%;
+    height: 100%;
+    padding: 2rem;
+}
+
+.productCard .addToCartBtn {
+    width: 100%;
+    font-size: 0.9rem;
+    background-image: url(../resources/images/shared/cart.png);
+    background-repeat: no-repeat;
+    background-position-x: 0.5rem;
+    background-position-y: center;
+}
+
+.productCard .viewProductBtn {
+    background-color: #1f1f1f;
+    font-size: 0.9rem;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    text-transform: uppercase;
+    border-radius: 2px;
+    width: 100%;
+    display: block;
+    margin-bottom: 1rem;
+    margin-top: 5rem;
+    cursor: pointer;
+}
+
+/* BREADCRUMB */
+.componentFolderBreadCrumb {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.componentFolderBreadCrumbOption {
+    display: inline-block;
+    padding: 0 15px 0 10px;
+    background: url(../resources/images/shared/li.png) 100% 50% no-repeat;
+}
+
+.componentFolderBreadCrumbOption:first-child {
+    padding: 0 15px 0 0;
+}
+
+.componentFolderBreadCrumbOption:last-child {
+    background: none;
+}
+
+/* PAGINATOR */
+.componentPagesNavigator li {
+    display: inline-block;
+    margin-left: 0.3rem;
+}
+
+.componentPagesNavigator li a {
+    display: block;
+    padding: 0.5rem;
+    line-height: 0.5rem;
+    border-radius: 50rem;
+}
+
+.componentPagesNavigator .componentPagesNavigatorArrow a {
+    color: #cc3333;
+    font-weight: bold;
+}
+
+.componentPagesNavigator .componentPagesNavigatorPageSelected a, .componentPagesNavigator a:hover {
+    background-color: #0093dd;
+    color: #fff;
+}
+
+/* SLIDERS */
+.owl-theme .owl-controls .owl-page span {
+    background-color: #0093dd !important;
+}
+
+.owl-theme .owl-controls .owl-page.active span {
+    background-color: #000 !important;
+}
+
+/* RELATED BRANDS */
+.relatedBrands {
+    background-color: #e7e7e7;
+    border-top: 1px solid #dedede;
+    border-bottom: 1px solid #dedede;
+    margin-bottom: 1rem;
+    padding: 1rem 1rem 0.7rem 1rem;
+}
+
+.relatedBrands .relatedBrandsSlider {
+    position: relative;
+    padding: 0 5rem;
+}
+
+.relatedBrands .owl-controls {
+    margin: 0;
+    position: absolute;
+    top: -0.6rem;
+    left: 0;
+    width: 100%;
+}
+
+.relatedBrands .owl-buttons > div:hover {
+    background-color: #0093dd;
+}
+
+.relatedBrands .owl-buttons > div {
+    width: 2.5rem;
+    height: 2.5rem;
+    background-color: #b1aeae;
+    border-radius: 5rem;
+    color: #fff;
+    font-size: 2rem;
+    line-height: 2.1rem;
+    font-family: roboto_thin;
+}
+
+.relatedBrands .owl-next {
+    float: right;
+}
+
+.relatedBrands .owl-prev {
+    float: left;
+}
+
+.relatedBrands .slide {
+    width: 9rem;
+}
+
+.relatedBrands .slide img {
+    width: 100%;
+}
+
+/* PRODUCTS MINI LIST */
+.productsMiniList .miniListTitle {
+    border-bottom: 1px solid #0093dd;
+    float: left;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.productsMiniList .miniListTitle h2 {
+    background-color: #0093dd;
+    padding: 0.5rem;
+    float: left;
+}
+
+.productsMiniList .productMiniListCard {
+    width: 100%;
+    display: block;
+    float: left;
+    border-bottom: 1px solid #cacaca;
+    cursor: pointer;
+    padding: 0.5rem 0;
+}
+
+.productsMiniList .productMiniListCard:hover {
+    opacity: 0.5;
+}
+
+.productsMiniList .productMiniListCard .productImage {
+    float: left;
+    width: 5rem;
+    height: 5rem;
+    padding: 0.5rem;
+    border: 1px solid #cacaca;
+    margin-right: 1rem;
+}
+
+.productsMiniList .productMiniListCard .productPrice {
+    color: #0093dd;
+    margin-top: 0.5rem;
+    font-size: 1.5rem;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 768px) {
+    .footerContainer {
+        flex-flow: row wrap;
+    }
+}

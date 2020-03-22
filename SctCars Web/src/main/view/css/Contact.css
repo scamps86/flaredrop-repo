@@ -1,0 +1,22 @@
+.componentForm {
+    width: 300px;
+    float: left;
+}
+
+.componentForm .componentFormInputContainer {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.componentForm .componentFormInputContainer p {
+    margin-bottom: 10px;
+}
+
+.componentForm .componentFormInputContainer * {
+    width: 100%;
+}
+
+#contactBanner {
+    float: right;
+    margin-top: 30px;
+}

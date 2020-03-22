@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'roboto_thin';
+    src: local('roboto_thin'), url(../resources/fonts/roboto_thin.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'roboto_light';
+    src: local('roboto_light'), url(../resources/fonts/roboto_light.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'roboto_normal';
+    src: local('roboto_normal'), url(../resources/fonts/roboto_normal.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'roboto_bold';
+    src: local('roboto_bold'), url(../resources/fonts/roboto_bold.woff) format('woff');
+}
+
+* {
+    font-family: 'roboto_normal';
+    color: #444;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.fontThin {
+    font-family: 'roboto_thin';
+}
+
+.fontLight {
+    font-family: 'roboto_light';
+}
+
+.fontBold {
+    font-family: 'roboto_bold';
+}
+
+input[type=text], input[type=password], textarea {
+    border: 1px solid #cdcdcd;
+}
+
+ul.componentOptionBar li p {
+    line-height: 24px;
+    font-size: 12px;
+}
+
+div.componentDataGrid li.componentDataGridRow p {
+    font-size: 12px;
+    line-height: 20px;
+}
+
+div.componentDataGrid li.componentDataGridRowHeader p {
+    font-size: 14px;
+}
+
+div.componentDataGridDragHelper p {
+    font-size: 12px;
+}
+
+#app {
+    min-width: 1000px;
+    min-height: 600px;
+    background: #e8e8e8;
+    overflow: hidden;
+}
+
+div.managerPopUpWait {
+    background: rgba(255, 255, 255, 0.3);
+}

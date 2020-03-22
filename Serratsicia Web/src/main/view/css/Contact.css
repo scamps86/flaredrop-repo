@@ -1,0 +1,52 @@
+#contactLeft {
+    width: 50%;
+}
+
+#contactRight {
+    width: 50%;
+}
+
+#contactSn {
+    margin: 3rem 0 4rem 0;
+}
+
+#contactSn a {
+    background-image: url(../resources/images/shared/socialNetworks.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin-right: 1rem;
+    margin-top: 1rem;
+}
+
+#contactSn a:HOVER {
+    opacity: 0.5;
+}
+
+#contactSn a.facebook {
+    background-position: 0 0;
+}
+
+#contactSn a.twitter {
+    background-position: -30px 0;
+}
+
+#contactSn a.google {
+    background-position: -60px 0;
+}
+
+div.componentFormInputContainer {
+    margin-bottom: 1rem;
+}
+
+div.componentFormInputContainer input, div.componentFormInputContainer textarea {
+    width: 100%;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 768px) {
+    #contactLeft, #contactRight {
+        width: 100%;
+    }
+}

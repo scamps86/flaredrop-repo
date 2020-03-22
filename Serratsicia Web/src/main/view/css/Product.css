@@ -1,0 +1,49 @@
+h1, h2 {
+    font-size: 2rem;
+    line-height: 2rem;
+    margin: 1rem 1rem 0 0;
+    display: inline-block;
+}
+
+h2 {
+    margin-bottom: 3rem;
+}
+
+h3 {
+    margin-bottom: 2rem;
+}
+
+#goBack {
+    float: right;
+}
+
+#productDetails {
+    width: 75%;
+}
+
+#productDescription {
+    width: 50%;
+    float: left;
+}
+
+#slider {
+    width: 45%;
+    margin-left: 5%;
+    float: left;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 480px) {
+    #productDetails {
+        width: 100%;
+    }
+
+    #productDescription {
+        width: 100%;
+    }
+
+    #slider {
+        margin: 2rem 0 0 0;
+        width: 100%;
+    }
+}

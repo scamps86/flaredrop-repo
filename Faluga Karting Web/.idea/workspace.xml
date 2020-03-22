@@ -1,0 +1,1521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="823e3d28-eaf3-48c2-8f1b-bd0f20711e34" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/model/web/WebConfiguration.php" afterPath="$PROJECT_DIR$/src/main/model/web/WebConfiguration.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TwinsOriginal Web/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../TwinsOriginal Web/.idea/workspace.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target_release/" />
+    <ignored path="$PROJECT_DIR$/target_release_temp/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FlareDrop Web" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="LIBRARY" color="Orange" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$TPV_URL_TPVV</find>
+    </findStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/view/sections/checkout/CheckoutAfter.php" />
+        <option value="$PROJECT_DIR$/src/main/view/webservices/ValidateIpn.php" />
+        <option value="$PROJECT_DIR$/src/main/model/web/WebConstants.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/_manager/view/js/model/ModelApplication.js" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/_manager/view/sections/managerShared/ManagerJavascriptVarsDefine.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/view/js/controller/managers/ManagerLiterals.js" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/managers/ManagerLiterals.php" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/ca_ES/Checkout.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/en_US/Checkout.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/es_ES/Checkout.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/es_ES/News.ini" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/model/web/WebSection.php" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/shared/Header.php" />
+        <option value="$PROJECT_DIR$/src/main/view/css/Shared.css" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/products/ProductsInner.php" />
+        <option value="$PROJECT_DIR$/src/main/view/js/view/sections/Products.js" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/view/js/controller/managers/ManagerShoppingCart.js" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/ca_ES/Products.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/en_US/Products.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/es_ES/Products.ini" />
+        <option value="$PROJECT_DIR$/src/main/view/css/Products.css" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/deploy/Tasks.xml" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/ca_ES/Shared.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/es_ES/Home.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/ca_ES/Contact.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/ca_ES/Home.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/en_US/Home.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/en_US/Test.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/en_US/News.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/en_US/Contact.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/en_US/Shared.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/es_ES/Contact.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/es_ES/Test.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/ca_ES/We.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/en_US/We.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/es_ES/We.ini" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/ca_ES/Test.ini" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/products/ProductsAfter.php" />
+        <option value="$PROJECT_DIR$/src/main/view/webservices/CheckoutFormSend.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/view/loaders/ServiceLoaderBase.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/view/webservices/TpvSignatureGet.php" />
+        <option value="$PROJECT_DIR$/src/main/view/js/view/sections/Checkout.js" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/view/js/controller/utils/UtilsTpv.js" />
+        <option value="$PROJECT_DIR$/src/main/model/literals/es_ES/Shared.ini" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils/UtilsTpv.php" />
+        <option value="$PROJECT_DIR$/src/main/view/webservices/ValidateTpv.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils/UtilsHttp.php" />
+        <option value="$PROJECT_DIR$/../FlareDrop Library/src/main/model/web/WebConfigurationBase.php" />
+        <option value="$PROJECT_DIR$/src/main/view/sections/checkout/CheckoutInner.php" />
+        <option value="$PROJECT_DIR$/src/main/model/web/WebConfiguration.php" />
+        <option value="$PROJECT_DIR$/deploy/Configuration.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="1054" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Control flow issues</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Initialization issues</id>
+          </State>
+          <State>
+            <id>JUnit issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Naming ConventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventions</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Pattern Validation</id>
+          </State>
+          <State>
+            <id>Performance issues</id>
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Faluga Karting Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Faluga Karting Web" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="Faluga Karting Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Faluga Karting Web" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="Faluga Karting Web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Faluga Karting Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Faluga Karting Web" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="Faluga Karting Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Faluga Karting Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Faluga Karting Web" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="Faluga Karting Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Faluga Karting Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Faluga Karting Web" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="Faluga Karting Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Faluga Karting Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Faluga Karting Web" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="Faluga Karting Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Ignored.Files" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="LayoutCode.rearrangeEntries" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJavaScript 1.5" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../FlareDrop Library/src/main/view/webservices" />
+      <recent name="$PROJECT_DIR$/src/main/view/webservices" />
+      <recent name="$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils" />
+      <recent name="C:\REPOSITORY\Faluga Karting Web\src\main\model\literals" />
+      <recent name="C:\REPOSITORY\Faluga Karting Web\src\main\view\resources\images\shared" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/view/resources/images/we" />
+      <recent name="$PROJECT_DIR$/src/main/view/resources/images/home" />
+      <recent name="$PROJECT_DIR$/src/main/view/resources/images/checkout" />
+      <recent name="$PROJECT_DIR$/src/main/view/resources/pdf" />
+      <recent name="C:\REPOSITORY\FlareDrop Web Template\src\main\view\sections\products" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="AntRunConfiguration" factoryName="Ant Target">
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="823e3d28-eaf3-48c2-8f1b-bd0f20711e34" name="Default" comment="" />
+      <created>1405327867542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1405327867542</updated>
+      <workItem from="1405327870042" duration="1516000" />
+      <workItem from="1405443970336" duration="2225000" />
+      <workItem from="1405490551893" duration="2665000" />
+      <workItem from="1405521887061" duration="23000" />
+      <workItem from="1405577008345" duration="1432000" />
+      <workItem from="1405598322372" duration="89000" />
+      <workItem from="1405598428633" duration="3167000" />
+      <workItem from="1405606525511" duration="139000" />
+      <workItem from="1405606683241" duration="405000" />
+      <workItem from="1405607341522" duration="28000" />
+      <workItem from="1405662485825" duration="1812000" />
+      <workItem from="1405922531090" duration="2577000" />
+      <workItem from="1406009482902" duration="6169000" />
+      <workItem from="1406048803890" duration="7151000" />
+      <workItem from="1406095876432" duration="2378000" />
+      <workItem from="1406137937244" duration="161000" />
+      <workItem from="1406182309963" duration="1251000" />
+      <workItem from="1406224674322" duration="502000" />
+      <workItem from="1406225213582" duration="3042000" />
+      <workItem from="1406283496293" duration="7453000" />
+      <workItem from="1406389430327" duration="8625000" />
+      <workItem from="1406527697741" duration="4886000" />
+      <workItem from="1406569536031" duration="4325000" />
+      <workItem from="1406613017534" duration="2323000" />
+      <workItem from="1406706497095" duration="6398000" />
+      <workItem from="1406740310177" duration="3675000" />
+      <workItem from="1406787158443" duration="2682000" />
+      <workItem from="1406879762698" duration="10796000" />
+      <workItem from="1407132795689" duration="6014000" />
+      <workItem from="1407171794551" duration="7148000" />
+      <workItem from="1407218705011" duration="5687000" />
+      <workItem from="1407305107732" duration="12269000" />
+      <workItem from="1407391824377" duration="2638000" />
+      <workItem from="1407477028166" duration="591000" />
+      <workItem from="1407737524494" duration="3123000" />
+      <workItem from="1407760246588" duration="10000000" />
+      <workItem from="1407864692352" duration="1442000" />
+      <workItem from="1407910006286" duration="10772000" />
+      <workItem from="1407949419297" duration="2612000" />
+      <workItem from="1407995945788" duration="7643000" />
+      <workItem from="1408946632473" duration="2315000" />
+      <workItem from="1408979701744" duration="61000" />
+      <workItem from="1408979897025" duration="449000" />
+      <workItem from="1409158074519" duration="917000" />
+      <workItem from="1409206219347" duration="591000" />
+      <workItem from="1409551176138" duration="6555000" />
+      <workItem from="1409660161847" duration="5058000" />
+      <workItem from="1409724522177" duration="13898000" />
+      <workItem from="1410155762086" duration="7061000" />
+      <workItem from="1410242808288" duration="6083000" />
+      <workItem from="1410287498680" duration="1433000" />
+      <workItem from="1410290646377" duration="10671000" />
+      <workItem from="1410427752622" duration="4499000" />
+      <workItem from="1410500841354" duration="155000" />
+      <workItem from="1410501030048" duration="53000" />
+      <workItem from="1410506218917" duration="6612000" />
+      <workItem from="1410544677109" duration="573000" />
+      <workItem from="1411717129248" duration="13256000" />
+      <workItem from="1411733809466" duration="4056000" />
+      <workItem from="1411741499361" duration="283000" />
+      <workItem from="1411745092166" duration="978000" />
+      <workItem from="1411751251320" duration="692000" />
+      <workItem from="1412001154913" duration="567000" />
+      <workItem from="1412006145317" duration="4213000" />
+      <workItem from="1412087197391" duration="897000" />
+      <workItem from="1412166375822" duration="10414000" />
+      <workItem from="1413044461783" duration="6547000" />
+      <workItem from="1413180332458" duration="22062000" />
+      <workItem from="1413353247698" duration="8154000" />
+      <workItem from="1413566239824" duration="5026000" />
+      <workItem from="1413784551536" duration="16733000" />
+      <workItem from="1413871160166" duration="7134000" />
+      <workItem from="1413998494167" duration="14288000" />
+      <workItem from="1414228128739" duration="2574000" />
+      <workItem from="1414394136895" duration="38960000" />
+      <workItem from="1414565580552" duration="16396000" />
+      <workItem from="1414738497974" duration="12308000" />
+      <workItem from="1414998640901" duration="49145000" />
+      <workItem from="1415286524592" duration="3680000" />
+      <workItem from="1415357583867" duration="12984000" />
+      <workItem from="1415400834100" duration="2868000" />
+      <workItem from="1415608834478" duration="12057000" />
+      <workItem from="1415688597067" duration="8220000" />
+      <workItem from="1415775205980" duration="3909000" />
+      <workItem from="1415810922003" duration="3867000" />
+      <workItem from="1415862065949" duration="14812000" />
+      <workItem from="1415948501072" duration="11231000" />
+      <workItem from="1416071032219" duration="5094000" />
+      <workItem from="1416207627462" duration="15424000" />
+      <workItem from="1416250332336" duration="4002000" />
+      <workItem from="1416294174353" duration="10505000" />
+      <workItem from="1416379999898" duration="12945000" />
+      <workItem from="1416466767872" duration="19575000" />
+      <workItem from="1416511825431" duration="4127000" />
+      <workItem from="1416585067109" duration="8504000" />
+      <workItem from="1416593669739" duration="33000" />
+      <workItem from="1416728759374" duration="9045000" />
+      <workItem from="1416821214936" duration="108000" />
+      <workItem from="1416821341062" duration="10072000" />
+      <workItem from="1416861114015" duration="1170000" />
+      <workItem from="1416913983797" duration="13553000" />
+      <workItem from="1417352466035" duration="47000" />
+      <workItem from="1417416383035" duration="76000" />
+      <workItem from="1417426190194" duration="19000" />
+      <workItem from="1417462428781" duration="25000" />
+      <workItem from="1417464334452" duration="14000" />
+      <workItem from="1417465798808" duration="95000" />
+      <workItem from="1420637074123" duration="94000" />
+      <workItem from="1421089515419" duration="119000" />
+      <workItem from="1421150557068" duration="36000" />
+      <workItem from="1422362446256" duration="13000" />
+      <workItem from="1423647739232" duration="80000" />
+      <workItem from="1424069819078" duration="5040000" />
+      <workItem from="1425373701484" duration="108000" />
+      <workItem from="1425373893428" duration="10000000" />
+      <workItem from="1425561517889" duration="9047000" />
+      <workItem from="1425906852178" duration="9449000" />
+      <workItem from="1425983548045" duration="14575000" />
+      <workItem from="1426153165702" duration="14247000" />
+      <workItem from="1426494164877" duration="54634000" />
+      <workItem from="1427020852356" duration="126000" />
+      <workItem from="1427099420735" duration="7673000" />
+      <workItem from="1427478796172" duration="768000" />
+      <workItem from="1427499259221" duration="1024000" />
+      <workItem from="1427701530589" duration="2351000" />
+      <workItem from="1427703910247" duration="185000" />
+      <workItem from="1427805600022" duration="11112000" />
+      <workItem from="1428913840918" duration="250000" />
+      <workItem from="1428917687204" duration="208000" />
+      <workItem from="1429096018226" duration="77000" />
+      <workItem from="1430770475355" duration="410000" />
+      <workItem from="1433171686250" duration="2061000" />
+      <workItem from="1433244273505" duration="321000" />
+      <workItem from="1435652411267" duration="290000" />
+      <workItem from="1435827710421" duration="9000" />
+      <workItem from="1435829171427" duration="10000" />
+      <workItem from="1436263632357" duration="11000" />
+      <workItem from="1438007428213" duration="54000" />
+      <workItem from="1438007866933" duration="13000" />
+      <workItem from="1438260280974" duration="305000" />
+      <workItem from="1439556312346" duration="77000" />
+      <workItem from="1443765449427" duration="743000" />
+      <workItem from="1443769221705" duration="196000" />
+      <workItem from="1445880577131" duration="1969000" />
+      <workItem from="1445970342873" duration="34000" />
+      <workItem from="1449478840333" duration="441000" />
+      <workItem from="1449479988741" duration="106000" />
+      <workItem from="1449480096757" duration="11401000" />
+      <workItem from="1450204352682" duration="1940000" />
+      <workItem from="1450372676360" duration="483000" />
+      <workItem from="1450376608238" duration="4300000" />
+      <workItem from="1450382229862" duration="48000" />
+      <workItem from="1450385606322" duration="243000" />
+      <workItem from="1450459944168" duration="716000" />
+      <workItem from="1450720245187" duration="67000" />
+      <workItem from="1450947475635" duration="61000" />
+      <workItem from="1452186549532" duration="4016000" />
+      <workItem from="1453403213054" duration="33000" />
+      <workItem from="1453836581314" duration="692000" />
+      <workItem from="1453922723006" duration="1277000" />
+      <workItem from="1453999813695" duration="1731000" />
+      <workItem from="1454610199235" duration="3821000" />
+      <workItem from="1454959500973" duration="74000" />
+      <workItem from="1454960437077" duration="17000" />
+      <workItem from="1454960486402" duration="29000" />
+      <workItem from="1454960695530" duration="7000" />
+      <workItem from="1456246552931" duration="296000" />
+      <workItem from="1456768303898" duration="134000" />
+      <workItem from="1456850797352" duration="590000" />
+      <workItem from="1456852503456" duration="37000" />
+      <workItem from="1456852553193" duration="31000" />
+      <workItem from="1458580934432" duration="358000" />
+      <workItem from="1460476872970" duration="472000" />
+      <workItem from="1461086714743" duration="2419000" />
+      <workItem from="1461253812694" duration="28000" />
+      <workItem from="1463501458532" duration="121000" />
+      <workItem from="1463501846936" duration="181000" />
+      <workItem from="1466449913123" duration="598000" />
+      <workItem from="1468258355220" duration="641000" />
+      <workItem from="1471618918577" duration="17000" />
+      <workItem from="1472141861398" duration="515000" />
+      <workItem from="1472206537239" duration="2147000" />
+      <workItem from="1474471434304" duration="2528000" />
+      <workItem from="1475248750517" duration="103000" />
+      <workItem from="1475249441811" duration="2001000" />
+      <workItem from="1475253262058" duration="617000" />
+      <workItem from="1476724653779" duration="17000" />
+      <workItem from="1476724687595" duration="3555000" />
+      <workItem from="1477418410068" duration="1761000" />
+      <workItem from="1477499505709" duration="2262000" />
+      <workItem from="1477549462058" duration="3635000" />
+      <workItem from="1477584000435" duration="1653000" />
+      <workItem from="1477671943976" duration="12000" />
+      <workItem from="1478251359963" duration="567000" />
+      <workItem from="1478256374553" duration="19000" />
+      <workItem from="1478269656958" duration="4149000" />
+      <workItem from="1488390196127" duration="969000" />
+      <workItem from="1488392836938" duration="6000" />
+      <workItem from="1488540945786" duration="261000" />
+      <workItem from="1488547841585" duration="67000" />
+      <workItem from="1500378999883" duration="1273000" />
+    </task>
+    <task id="LOCAL-00044" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1417352511456</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1417352511456</updated>
+    </task>
+    <task id="LOCAL-00045" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1417416455731</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1417416455731</updated>
+    </task>
+    <task id="LOCAL-00046" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1417426206096</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1417426206096</updated>
+    </task>
+    <task id="LOCAL-00047" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1417462448963</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1417462448963</updated>
+    </task>
+    <task id="LOCAL-00048" summary="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;">
+      <created>1417465890344</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1417465890344</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Web template">
+      <created>1420637164999</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1420637164999</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Web template">
+      <created>1421089629701</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1421089629701</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Web template">
+      <created>1421150588341</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1421150588341</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Web template">
+      <created>1423647812942</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1423647812942</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Web template">
+      <created>1424120457517</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1424120457586</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Faluga Karting Web">
+      <created>1425544403629</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1425544403629</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Faluga Karting Web">
+      <created>1425937530764</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1425937530873</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Faluga Karting Web">
+      <created>1425998621059</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1425998621094</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Faluga Karting Web">
+      <created>1426104762697</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1426104762698</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Faluga Karting Web">
+      <created>1426163285117</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1426163285118</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Faluga Karting Web">
+      <created>1426188510760</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1426188510760</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Faluga Karting Web">
+      <created>1426248268604</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1426248268604</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Faluga Karting Web">
+      <created>1426677752412</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1426677752412</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Faluga Karting Web">
+      <created>1426872607534</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1426872607535</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Faluga Karting Web">
+      <created>1427106821702</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1427106821702</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Faluga Karting Web">
+      <created>1427500272643</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1427500272643</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Faluga Karting Web">
+      <created>1427703877030</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1427703877030</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Faluga Karting Web">
+      <created>1427826983102</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1427826983102</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Faluga Karting Web">
+      <created>1427885533133</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1427885533133</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Faluga Karting Web">
+      <created>1433178332032</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1433178332033</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Faluga Karting Web">
+      <created>1433244584802</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1433244584802</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Faluga Karting Web">
+      <created>1443767140643</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1443767140661</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Faluga Karting Web">
+      <created>1445884507829</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1445884507847</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Faluga Karting Web">
+      <created>1449490865732</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1449490865747</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Faluga Karting Web">
+      <created>1449504060111</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1449504060111</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Faluga Karting Web">
+      <created>1450372862372</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1450372862380</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Faluga Karting Web">
+      <created>1450373194004</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1450373194005</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Faluga Karting Web">
+      <created>1450382115490</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1450382115490</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Faluga Karting Web">
+      <created>1450382270512</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1450382270512</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Faluga Karting Web">
+      <created>1452205382391</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1452205382410</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Faluga Karting Web">
+      <created>1454002426272</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1454002426289</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Faluga Karting Web">
+      <created>1454614986050</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1454614986064</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Faluga Karting Web">
+      <created>1456852189992</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1456852190018</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Faluga Karting Web">
+      <created>1456852572462</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1456852572463</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Faluga Karting Web">
+      <created>1461166918974</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1461166918999</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Faluga Karting Web">
+      <created>1463501883609</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1463501883635</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Faluga Karting Web">
+      <created>1472142369693</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1472142369693</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Faluga Karting Web">
+      <created>1477420202293</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1477420202294</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Faluga Karting Web">
+      <created>1477505948808</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1477505948808</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Faluga Karting Web">
+      <created>1477554832015</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1477554832015</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Faluga Karting Web">
+      <created>1477555248064</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1477555248064</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Faluga Karting Web">
+      <created>1488392821542</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1488392821542</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Faluga Karting Web">
+      <created>1488547891805</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1488547891805</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Faluga Karting Web">
+      <created>1500380253095</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1500380253095</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="860824000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1920" height="1054" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18536071" sideWeight="0.5005203" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2944849" sideWeight="0.49893618" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18536071" sideWeight="0.5005203" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39339018" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2085308" sideWeight="0.5663717" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18530351" sideWeight="0.4935065" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2085308" sideWeight="0.43362832" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20181043" sideWeight="0.4426407" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="left" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.3998935" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964718" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792208" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2312253" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <MESSAGE value="commit&#10;initial&#10;" />
+    <MESSAGE value="commit&#10;commit&#10;" />
+    <MESSAGE value="commit&#10;commit&#10;commit&#10;commit&#10;" />
+    <MESSAGE value="commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;commit&#10;" />
+    <MESSAGE value="Web template" />
+    <MESSAGE value="Faluga Karting Web" />
+    <option name="LAST_COMMIT_MESSAGE" value="Faluga Karting Web" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="true" />
+    <buildFile url="file://$PROJECT_DIR$/deploy/Deploy.xml">
+      <targetFilters>
+        <filter targetName="Deploy" isVisible="true" />
+        <filter targetName="Clean" isVisible="true" />
+        <filter targetName="deploy" isVisible="false" />
+        <filter targetName="copyNonProcessFiles" isVisible="false" />
+        <filter targetName="copyProcessFiles" isVisible="false" />
+        <filter targetName="includeLibrary" isVisible="false" />
+        <filter targetName="minifyPHP" isVisible="false" />
+        <filter targetName="minifyJS" isVisible="false" />
+        <filter targetName="minifyCSS" isVisible="false" />
+        <filter targetName="minifyHTML" isVisible="false" />
+        <filter targetName="copyToTargetRelease" isVisible="false" />
+        <filter targetName="ftpUpload" isVisible="false" />
+        <filter targetName="deleteTargetReleaseTempFolder" isVisible="false" />
+        <filter targetName="combineJsCode" isVisible="false" />
+        <filter targetName="clean" isVisible="false" />
+        <filter targetName="ftpClean" isVisible="false" />
+      </targetFilters>
+      <treeView value="false" />
+      <verbose value="false" />
+      <expanded value="true" />
+    </buildFile>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/deploy/Configuration.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/model/web/WebConfigurationBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="75" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/checkout/CheckoutInner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="77" lean-forward="true" selection-start-line="29" selection-start-column="77" selection-end-line="29" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils/UtilsTpv.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="11" lean-forward="false" selection-start-line="62" selection-start-column="11" selection-end-line="62" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/model/web/WebConfiguration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/products/ProductsAfter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils/UtilsHttp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy/Configuration.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/products/ProductsAfter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="66" column="54" lean-forward="false" selection-start-line="66" selection-start-column="54" selection-end-line="66" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils/UtilsHttp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="25" lean-forward="false" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/products/ProductsAfter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="66" column="54" lean-forward="true" selection-start-line="66" selection-start-column="54" selection-end-line="66" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils/UtilsHttp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="25" lean-forward="true" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/webservices/ValidateIpn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="55" column="3" lean-forward="false" selection-start-line="55" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/model/web/WebConstants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/webservices/ValidateTpv.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="66" column="79" lean-forward="false" selection-start-line="66" selection-start-column="79" selection-end-line="66" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/resources/images/home/contentsContainerBg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/resources/images/we/falugaWe4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/resources/images/we/falugaWe6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/resources/images/we/falugaWe1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/resources/images/we/falugaWe3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/resources/images/we/falugaWe2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/resources/images/we/falugaWe5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/products/ProductsBefore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/products/ProductsAfter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="66" column="54" lean-forward="false" selection-start-line="66" selection-start-column="54" selection-end-line="66" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils/UtilsHttp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/controller/utils/UtilsTpv.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="11" lean-forward="false" selection-start-line="62" selection-start-column="11" selection-end-line="62" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/view/sections/checkout/CheckoutInner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="67" lean-forward="true" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlareDrop Library/src/main/model/web/WebConfigurationBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-447">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/model/web/WebConfiguration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="61" lean-forward="true" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy/Configuration.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>angularjs-DefinitelyTyped</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Faluga Karting Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>LIBRARY</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

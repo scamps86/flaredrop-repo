@@ -1,0 +1,27 @@
+#contentContainer {
+    min-height: 400px;
+    text-align: center;
+}
+#contentContainer h1.title {
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+#contentContainer p.description {
+    text-align: justify;
+}
+
+#contentContainer img {
+    max-width: 70%;
+    margin: 3rem 0;
+}
+
+#contentContainer p.description span {
+    font-family: 'roboto_bold';
+}
+
+#contentContainer h2 {
+    font-size: 1.6rem;
+    line-height: 1.7rem;
+    margin-top: 5rem;
+}

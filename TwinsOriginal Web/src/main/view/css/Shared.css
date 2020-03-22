@@ -1,0 +1,230 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat');
+
+* {
+    font-family: 'Open Sans', sans-serif;
+    color: #2d2d2d;
+}
+
+.fontThin {
+
+}
+
+.fontLight {
+
+}
+
+.fontNormal {
+
+}
+
+.fontBold {
+    font-weight: 900;
+}
+
+/* HEADER */
+.componentLanguageChanger {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    z-index: 1001;
+}
+
+.componentLanguageChanger li {
+    display: inline-block;
+}
+
+.componentLanguageChanger .componentLanguageChangerOptionGlue {
+    margin: 0 .5rem;
+}
+
+.componentLanguageChanger li p {
+    color: #fff;
+}
+
+.componentLanguageChanger .componentLanguageChangerOptionSelected p {
+    font-weight: 900;
+}
+
+#header {
+    position: relative;
+    z-index: 1000;
+}
+
+#topHeader {
+    background-color: #7a584e;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+#topHeader .logo {
+    height: 5rem;
+    cursor: pointer;
+}
+
+#topHeader .logo:hover {
+    transform: scale(0.8);
+}
+
+#bottomHeader {
+    border-top: 3px solid #fff;
+    border-bottom: 3px solid #fff;
+    background-color: #343434;
+}
+
+#bottomHeader .componentSectionMenu {
+    text-align: center;
+}
+
+#bottomHeader .componentSectionMenuOption {
+    display: inline-block;
+}
+
+#bottomHeader .componentSectionMenuOption:HOVER, #bottomHeader .componentSectionMenuOptionSelected {
+    background-color: #555;
+}
+
+#bottomHeader .componentSectionMenu a {
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: 900;
+    padding: 1.4rem 2rem;
+    display: block;
+}
+
+#mblHeader {
+    background-color: #7a584e;
+    height: 50px;
+    padding: 1rem;
+    position: fixed;
+    z-index: 1000;
+}
+
+#mblHeader .menuBtn {
+    background-image: url(../resources/images/shared/menuBtn.svg);
+    background-size: contain;
+    display: inline-block;
+    width: 28px;
+    height: 28px;
+    cursor: pointer;
+    float: left;
+}
+
+#mblHeader img {
+    float: left;
+    height: 100%;
+    margin-left: 3rem;
+}
+
+#mblMainMenu {
+    position: fixed;
+    top: 4.5rem;
+    background-color: rgba(40, 40, 40, 0.95);
+    z-index: 999;
+    transform: translateY(-200px);
+}
+
+#mblMainMenu.opened {
+    transform: translateY(0);
+}
+
+#mblMainMenu .componentSectionMenuOptionSelected {
+    background-color: #555;
+}
+
+#mblMainMenu .componentSectionMenu a {
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: 900;
+    padding: 1.4rem 2rem;
+    display: block;
+}
+
+/* SECTION */
+section.section {
+
+}
+
+/* FOOTER */
+#footer {
+    padding: 2rem 0;
+}
+
+#contactLinks {
+    text-align: center;
+}
+
+#contactLinks > a, #contactLinks > span {
+    display: inline-block;
+    margin: 0 2rem;
+    font-family: 'Caveat', cursive;
+    color: #7a584e;
+    font-size: 2rem;
+    line-height: 2rem;
+}
+
+#contactLinks .sn a {
+    margin-right: 1rem;
+}
+
+#contactLinks .sn img {
+    width: 1.8rem;
+}
+
+#webMaster {
+    width: 100%;
+    text-align: center;
+    font-size: 0.8rem;
+    margin-top: 4rem;
+    display: block;
+}
+
+#footerDirection {
+    text-align: center;
+}
+
+#footerDirection a {
+    font-family: 'Caveat', cursive;
+    color: #7a584e;
+    font-size: 1.8rem;
+    display: inline-block;
+    margin: 1rem 0 2rem 0;
+}
+
+@media (max-width: 480px) {
+    #mblHeader {
+        display: inherit;
+    }
+
+    .componentLanguageChanger {
+        position: fixed;
+    }
+
+    #header {
+        display: none;
+    }
+
+    section.section {
+        margin-top: 8rem;
+    }
+
+    #contactLinks > a, #contactLinks > span {
+        display: block;
+        margin-bottom: 1rem;
+    }
+}
+
+@media (min-width: 480px) {
+    #mblHeader {
+        display: none;
+    }
+
+    #header {
+        display: inherit;
+    }
+
+    #mblMainMenu {
+        display: none;
+    }
+}

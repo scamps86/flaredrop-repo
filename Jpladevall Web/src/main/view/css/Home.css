@@ -1,0 +1,132 @@
+/* OVERRIDE */
+.boxShadow {
+    -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+}
+
+/* CAT */
+#catContainer {
+    background-image: url(../../view/resources/images/home/cat1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: center;
+}
+
+#catContainer h1 {
+    font-size: 3.5rem;
+    color: #000;
+    display: block;
+    line-height: 4.5rem;
+    margin-top: 2rem;
+}
+
+#catContainer h2 {
+    font-size: 1.7rem;
+    color: #574848;
+    display: block;
+    margin-top: 2rem;
+    width: 70%;
+    line-height: 2rem;
+}
+
+#catContainer a {
+    background-color: #0258b0;
+    color: #fff;
+    padding: 1.6rem 2.8rem;
+    font-size: 1.7rem;
+    border-radius: 0.5rem;
+    display: inline-block;
+    text-transform: uppercase;
+    margin: 3rem 0;
+}
+
+/* LIST */
+#homeList {
+    margin-top: 3rem;
+    margin-bottom: 5rem;
+}
+
+#homeList li {
+    text-align: center;
+    width: 25%;
+    margin: 0 4%;
+    float: left;
+    margin-bottom: 4rem;
+}
+
+#homeList li img {
+    width: 90%;
+    padding: 5%;
+    margin-top: 8px;
+    cursor: pointer;
+}
+
+#homeList * {
+    color: #8c8b8b;
+}
+
+#homeList h3 {
+    font-size: 2rem;
+    line-height: 3rem;
+    text-transform: uppercase;
+    margin-top: 1rem;
+}
+
+#homeList h4 {
+    margin-top: 1rem;
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+}
+
+@media (max-width: 480px) {
+    #homeList li {
+        width: 100%;
+        margin-bottom: 4rem;
+    }
+}
+
+
+/* CAT2 */
+#cat2Content {
+    margin-bottom: 3rem;
+}
+
+#cat2Content img {
+    float: left;
+    width: 20rem;
+}
+
+#cat2Content p {
+    float: left;
+    margin-left: 5rem;
+    color: #8c8b8b;
+    font-style: italic;
+    font-size: 2rem;
+    width: 35rem;
+    line-height: 2.5rem;
+    margin-top: 2rem;
+    max-width: 75%;
+}
+
+/* GOOGLE MAPS */
+#gm {
+    width: 48%;
+    height: 27rem;
+    float: left;
+}
+
+#form {
+    width: 48%;
+    margin-left: 4%;
+    float: left;
+}
+
+#form .componentFormInputContainer p {
+    margin-bottom: 0.2rem;
+}
+
+#form input, #form textarea {
+    width: 100%;
+    margin-bottom: 1.2rem;
+}

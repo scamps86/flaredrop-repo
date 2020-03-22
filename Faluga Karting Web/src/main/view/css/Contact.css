@@ -1,0 +1,49 @@
+#page {
+    padding-top: 4rem;
+}
+
+#left {
+    width: 40%;
+    padding-right: 3rem;
+    float: left;
+}
+
+#gm {
+    width: 60%;
+    height: 30rem;
+    float: left;
+}
+
+#left .text {
+    margin-bottom: 2rem;
+}
+
+#left .postal {
+    margin-bottom: 2rem;
+}
+
+#left .phone {
+    color: #e72c2c;
+}
+
+#left .mail {
+    color: #e72c2c;
+}
+
+#contactForm {
+    width: 100%;
+    margin-top: 3rem;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 480px) {
+    #left {
+        width: 100%;
+        padding-right: 0;
+    }
+
+    #gm {
+        width: 100%;
+        margin-top: 2rem;
+    }
+}

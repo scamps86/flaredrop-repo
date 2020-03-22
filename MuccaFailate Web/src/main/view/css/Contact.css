@@ -1,0 +1,81 @@
+#contactContent {
+    float: left;
+    width: 460px;
+    margin-right: 30px;
+}
+
+.componentForm {
+    width: 300px;
+    float: left;
+    margin-top: 35px;
+}
+
+.componentForm p {
+    margin-top: 20px;
+    margin-bottom: 8px;
+    color: #c90f0f;
+    font-weight: bold;
+}
+
+.componentForm input[type=text], .componentForm textarea {
+    width: 100%;
+}
+
+.componentForm input[type=submit] {
+    float: right;
+    border-radius: 0;
+    color: #fff;
+    background-color: #c90f0f;
+    font-weight: bold;
+    border: none;
+    margin-top: 5px;
+}
+
+.contactTitle {
+    font-size: 30px;
+    line-height: 45px;
+    margin-bottom: 10px;
+}
+
+.contactContent {
+    margin-bottom: 30px;
+}
+
+.contactPhone {
+    margin-top: 1rem;
+}
+.contactMail {
+    font-size: 16px;
+    margin-top: 40px;
+    width: 100%;
+    display: block;
+}
+
+.contactFacebook {
+    margin-top: 20px;
+    float: left;
+}
+
+.contactFacebook img {
+    width: 3rem;
+    float: left;
+}
+
+.contactFacebook span {
+    display: inline-block;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    color: #3864a3;
+    font-size: 16px;
+}
+
+
+.contactSbdManagement {
+    float: left;
+    margin-top: 40px;
+    margin-right: 20px;
+}
+
+.contactSbdManagement img {
+    width: 100px;
+}

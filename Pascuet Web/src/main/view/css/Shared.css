@@ -1,0 +1,355 @@
+/* FONTS */
+@font-face {
+    font-family: 'roboto_thin';
+    src: local('roboto_thin'), url(../resources/fonts/roboto_thin.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'roboto_light';
+    src: local('roboto_light'), url(../resources/fonts/roboto_light.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'roboto_normal';
+    src: local('roboto_normal'), url(../resources/fonts/roboto_normal.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'roboto_bold';
+    src: local('roboto_bold'), url(../resources/fonts/roboto_bold.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'cinzel_regular';
+    src: local('roboto_thin'), url(../resources/fonts/cinzel_regular.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'dancingscript_regular';
+    src: local('roboto_thin'), url(../resources/fonts/dancingscript_regular.woff) format('woff');
+}
+
+* {
+    font-family: 'roboto_normal';
+    color: #444;
+}
+
+.fontThin {
+    font-family: 'roboto_thin';
+}
+
+.fontLight {
+    font-family: 'roboto_light';
+}
+
+.fontNormal {
+    font-family: 'roboto_normal';
+}
+
+.fontBold {
+    font-family: 'roboto_bold';
+}
+
+.fontTypeA{
+    font-family: 'cinzel_regular';
+}
+.fontTypeB{
+    font-family: 'dancingscript_regular';
+}
+
+.fontColorGold {
+    color: #968e70;
+}
+
+.fontColorGrey {
+    color: #888787;
+}
+
+/* GLOBALS */
+body{
+    background-color: #ececec;
+    color: #000;
+    min-width: 300px;
+}
+section.content{
+    background-color: #f6f6f6;
+    min-height: 400px;
+    padding: 3rem 0;
+}
+
+.button {
+    color: #fff;
+    background-color: #000;
+    border-radius: 0.4rem;
+    font-size: 1.1rem;
+    padding: 0.6rem 1.5rem;
+    display: inline-block;
+}
+
+.button:HOVER {
+    background-color: #666;
+}
+
+/* HEADER */
+#headerTop {
+    background: url(../resources/images/shared/topBg.png) repeat-x #fff;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+#headerTop .centered {
+    position: relative;
+}
+
+#topLogo {
+    float: left;
+    max-width: 20%;
+    min-width: 120px;
+}
+
+#topLogo img {
+    width: 100%;
+}
+
+#languageChanger {
+    top: 10px;
+    right: 20px;
+    position: absolute;
+}
+
+#languageChanger p {
+    font-size: 0.8rem;
+}
+
+#languageChanger li {
+    display: inline-block;
+}
+
+#languageChanger li.componentLanguageChangerOptionGlue {
+    margin: 0 1rem;
+}
+
+#languageChanger li.componentLanguageChangerOptionSelected p {
+    font-family: 'roboto_bold';
+}
+
+#topContactInfo {
+    position: absolute;
+    text-align: right;
+    right: 20px;
+    bottom: 1.5rem;
+}
+
+#topContactInfo * {
+    display: block;
+}
+
+#facebook {
+    color: #3c589d;
+    margin-top: 0.6rem;
+}
+
+#facebook i {
+    display: inline-block;
+    width: 1.5rem;
+    height: 1.5rem;
+    background-image: url(../resources/images/shared/facebook.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: 0.4rem;
+    margin-right: 0.3rem;
+}
+
+#headerBottom {
+    background-color: rgba(246, 246, 246, 0.9);
+}
+
+#topMenu {
+    padding: 0.9rem 0 0.9rem 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+#topMenu li {
+    display: inline-block;
+    margin-right: 3rem;
+}
+
+#topMenu li.componentSectionMenuOptionSelected a {
+    color: #000;
+    font-family: 'roboto_bold';
+}
+
+#topMenu li a {
+    font-size: 1.15rem;
+}
+
+/* FOOTER */
+#footer {
+    margin-bottom: 2rem;
+}
+
+#footer .componentSectionMenu {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+#footer .componentSectionMenu li {
+    display: inline-block;
+    margin: 0 1rem;
+}
+
+#footer .componentSectionMenu a {
+    color: #888787;
+}
+
+#footerContactInfo {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+#footerContactInfo nav {
+    text-align: center;
+    display: inline-block;
+}
+
+#footerContactInfo nav * {
+    margin: 0 1rem;
+}
+
+#footerContactInfoTop * {
+    font-size: 1.5rem;
+    line-height: 3rem;
+    width: 100%;
+}
+
+#footerContactInfo .fontColorGrey {
+    font-size: 0.8rem;
+    margin-top: 2rem;
+    display: block;
+}
+
+#footerContactInfo .footerIcon {
+    width: 3rem;
+    height: 3rem;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+    position: relative;
+    top: -3rem;
+    margin: 0 2rem;
+}
+
+#footerAr {
+    background-image: url(../resources/images/shared/footerAr.png);
+}
+
+#footerFacebook {
+    background-image: url(../resources/images/shared/footerFacebook.png);
+}
+
+#footerDevelopedBy {
+    margin-top: 1rem;
+}
+
+/* PRODUCTS LIST */
+#productsContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+#productsContainer a {
+    flex: 0 1 auto;
+    width: 200px;
+    margin: 2rem 0.5rem 0 0.5rem;
+    border: 1px solid #e0e0e0;
+    background-color: #fff;
+    display: inline-block;
+}
+
+#productsContainer a:HOVER {
+    background-color: #e9e9e9;
+}
+
+#productsContainer a.pair:HOVER {
+    background-color: #333;
+}
+
+#productsContainer .title {
+    color: #1b1b1b;
+    font-size: 1.8rem;
+    line-height: 2rem;
+    margin-top: 20px;
+}
+
+#productsContainer .subtitle {
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    margin: 1rem 0;
+}
+
+#productsContainer a.pair {
+    background-color: #1b1b1b;
+    border: none;
+}
+
+#productsContainer a.pair .title {
+    color: #fff;
+}
+
+#productsContainer a img {
+    margin-bottom: 20px;
+}
+
+
+/* CATEGORIES MENU */
+#categoriesMenu {
+    margin-bottom: 3rem;
+}
+
+#categoriesMenu .componentFolderMenu {
+    text-align: center;
+}
+
+#categoriesMenu .componentFolderMenu .componentFolderMenuOption {
+    display: inline-block;
+    margin: 0 1.1rem;
+}
+
+#categoriesMenu .componentFolderMenu .componentFolderMenuOption a {
+    text-transform: uppercase;
+    font-size: 1.1rem;
+    line-height: 1.8rem;
+}
+
+#categoriesMenu .componentFolderMenu .componentFolderMenuOptionSelected a {
+    font-family: 'roboto_bold';
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 480px) {
+    #header {
+        position: fixed;
+        z-index: 10;
+    }
+
+    #topMenu {
+        text-align: center;
+    }
+
+    #topMenu li {
+        margin-right: 1rem;
+        margin-left: 1rem;
+    }
+
+    section.content {
+        padding-top: 180px;
+    }
+}
+
+@media (max-width: 768px) {
+    #footerContactInfo .footerIcon {
+        display: none;
+    }
+}

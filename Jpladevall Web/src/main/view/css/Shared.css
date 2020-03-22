@@ -1,0 +1,143 @@
+/* FONTS */
+@font-face {
+    font-family: 'roboto_thin';
+    src: local('roboto_thin'), url(../resources/fonts/roboto_thin.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'roboto_light';
+    src: local('roboto_light'), url(../resources/fonts/roboto_light.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'roboto_normal';
+    src: local('roboto_normal'), url(../resources/fonts/roboto_normal.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'roboto_bold';
+    src: local('roboto_bold'), url(../resources/fonts/roboto_bold.woff) format('woff');
+}
+
+* {
+    font-family: 'roboto_normal';
+    color: #444;
+}
+
+.fontThin {
+    font-family: 'roboto_thin';
+}
+
+.fontLight {
+    font-family: 'roboto_light';
+}
+
+.fontNormal {
+    font-family: 'roboto_normal';
+}
+
+.fontBold {
+    font-family: 'roboto_bold';
+}
+
+/* TITLES */
+.title {
+    text-align: center;
+    position: relative;
+    height: 5rem;
+    overflow: hidden;
+    margin-bottom: 2rem;
+}
+
+.title span {
+    display: inline-block;
+    border-bottom: 1px solid #eee;
+    width: 100%;
+    top: 1.75rem;
+    left: 0;
+    position: absolute;
+}
+
+.title h2 {
+    background-color: #0258b0;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1.8rem;
+    text-align: center;
+    padding: 1rem;
+    font-family: 'roboto_light';
+    display: inline-block;
+    z-index: 1;
+    position: relative;
+    border-left: 2rem solid #fff;
+    border-right: 2rem solid #fff;
+}
+
+/* HEADER */
+#header {
+    background-color: #151515;
+}
+
+#topLogo {
+    float: left;
+    display: block;
+    padding: 1rem 0;
+}
+
+#topLogo img {
+    height: 3.4rem;
+}
+
+#topMenu {
+    float: right;
+    padding: 1rem 0;
+}
+
+#header .componentSectionMenu a {
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+#header .componentSectionMenuOption {
+    display: inline-block;
+    margin: 1rem;
+}
+
+/* FOOTER */
+#footer {
+    background-color: #eee;
+    margin-top: 3rem;
+}
+
+#footerList {
+    text-align: center;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+}
+
+#footerList > p, #footerList > a {
+    color: #8c8b8b;
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+    display: block;
+    float: left;
+    width: 20%;
+}
+
+#footerList img {
+    max-width: 90%;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 940px) {
+    #footerList > p, #footerList > a {
+        width: 50%;
+        margin-bottom: 2rem;
+    }
+}
+@media (max-width: 480px) {
+    #footerList > p, #footerList > a {
+        width: 100%;
+        margin-bottom: 2rem;
+    }
+}

@@ -1,0 +1,47 @@
+#page {
+    padding-top: 4rem;
+}
+
+#page > .centered {
+    padding: 0;
+}
+
+#page h1.title {
+    margin-left: 1rem;
+}
+
+#page ul.componentPagesNavigator {
+    margin-top: 2rem;
+    float: left;
+}
+
+div.newContainer {
+    width: 50%;
+    display: inline-block;
+    padding: 1rem;
+    text-align: center;
+}
+
+div.newContainer h2.newTitle {
+    font-size: 1.2rem;
+    font-family: 'fjalla';
+    color: #e72c2c;
+    line-height: 2rem;
+    text-align: left;
+}
+
+div.newContainer img.newImage {
+    margin: 1rem 0;
+    max-width: 100%;
+}
+
+div.newContainer h3.newDescription {
+    text-align: justify;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 480px) {
+    div.newContainer {
+        width: 100%;
+    }
+}

@@ -1,0 +1,83 @@
+* {
+    font-family: 'arial';
+    color: #000;
+}
+
+html {
+    min-width: 1000px;
+}
+
+body {
+    background-color: black;
+    background-image: url("../resources/images/shared/bg.png");
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.centered {
+    width: 800px;
+}
+
+.content {
+    height: 450px;
+}
+
+.title {
+    color: #ac3129;
+}
+
+/* HEADER */
+#header ul.componentLanguageChanger {
+    text-align: right;
+    margin: 140px 0 10px 0;
+}
+
+#header ul.componentLanguageChanger li {
+    display: inline-block;
+    margin-left: 0.6rem;
+}
+
+#header ul.componentLanguageChanger li p {
+    font-size: 0.8rem;
+}
+
+#header ul.componentLanguageChanger li.componentLanguageChangerOptionSelected p {
+    color: #fff;
+}
+
+#header ul.componentSectionMenu {
+    background: #f78e06;
+    border-radius: 5px;
+    border: 1px solid #cf7a0c;
+    text-align: center;
+}
+
+#header ul.componentSectionMenu li.componentSectionMenuOption {
+    display: inline-block;
+    margin: 0.5rem 1.5rem 0.5rem 1.5rem;
+}
+
+#header ul.componentSectionMenu li.componentSectionMenuOption * {
+    font-weight: bold;
+}
+
+#header ul.componentSectionMenu li.componentSectionMenuOption.componentSectionMenuOptionSelected * {
+    color: #fff;
+}
+
+/* FOOTER */
+#footer {
+    text-align: center;
+    margin-top: 100px;
+    height: 260px;
+}
+
+#footer a, #footer p {
+    color: #fff;
+    font-size: 0.8rem;
+}
+
+#footerSocialNetworks {
+    text-align: center;
+    margin-bottom: 10px;
+}

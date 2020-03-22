@@ -1,0 +1,179 @@
+#subtitles {
+    position: absolute;
+}
+
+#subtitles h4 {
+    font-size: 2.5rem;
+    line-height: 3rem;
+}
+
+#subtitles h5 {
+    font-size: 1.2rem;
+    line-height: 1.2rem;
+    margin-top: 1rem;
+}
+
+#lrBoxDogs {
+    position: absolute;
+    right: 2rem;
+}
+
+#lrBox {
+    width: 100%;
+    margin-top: 158px;
+    background-color: #262626;
+    border-radius: 1rem;
+    display: flex;
+    flex-flow: row;
+}
+
+#rBox {
+    position: relative;
+}
+
+#userJoinForm {
+    display: none;
+    margin-top: -1.2rem;
+}
+
+.boxContainer {
+    margin: 2rem;
+    flex-grow: 1;
+    width: 50%;
+}
+
+.boxContainer h2 {
+    padding-bottom: 0.5rem;
+    margin-bottom: 2rem;
+    border-bottom: 2px solid #0093dd;
+}
+
+.boxContainer p {
+    color: #ddd;
+}
+
+.boxContainer form {
+    width: 100%;
+    float: left;
+}
+
+.boxContainer form .formSection {
+    font-size: 1.5rem;
+    color: #fff;
+    display: block;
+    margin: 2rem 0 1rem 0;
+    width: 100%;
+    float: left;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid #444;
+}
+
+.boxContainer form p {
+    margin: 1.2rem 0 0.3rem 0;
+}
+
+.boxContainer input[type=submit], .boxContainer button {
+    margin-top: 3rem;
+    float: right;
+}
+
+.boxContainer form input[type=text], .boxContainer form input[type=password] {
+    width: 80%;
+}
+
+#homeBottom {
+    font-size: 0.9rem;
+    text-align: center;
+    margin: 3rem 0 2rem 0;
+}
+
+#userJoinForm .componentFormInputContainer {
+    float: left;
+    width: 100%;
+}
+
+#userJoinForm .componentFormInputContainer p {
+    width: 40%;
+    padding-right: 1rem;
+    float: left;
+}
+
+#userJoinForm input[type=text], #userJoinForm input[type=password] {
+    width: 60%;
+    float: left;
+    margin-top: 0.9rem;
+}
+
+#userJoinForm .componentFormSwitchComponentContainer {
+    float: left;
+    margin-top: 1.3rem;
+}
+
+#userJoinFormSubmit {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+#blocks {
+    margin-top: 2rem;
+}
+
+#blocks .centered {
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+#blocks .block {
+    margin: 1rem;
+}
+
+#blocks .block img {
+    width: 30%;
+    float: left;
+}
+
+#blocks .block p {
+    float: left;
+    width: 60%;
+    margin-left: 10%;
+}
+
+#blocks .title {
+    display: block;
+    width: 100%;
+    color: #0093dd;
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+#brands {
+    margin: 2rem 0;
+}
+
+#brands img {
+    width: 8rem;
+    height: 3rem;
+    margin: 0.2rem;
+    border: 1px solid #e1e1e1;
+}
+
+#brands h3 {
+    color: #0093dd;
+    margin: 2rem 0 1rem 0;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 768px) {
+    #lrBox {
+        flex-flow: row wrap;
+    }
+
+    .boxContainer {
+        width: 100%;
+    }
+
+    #subtitles {
+        display: none;
+    }
+}

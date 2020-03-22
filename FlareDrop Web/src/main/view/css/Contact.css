@@ -1,0 +1,63 @@
+#contentContainer {
+    text-align: center;
+}
+
+#contentContainer h1.title {
+    margin-bottom: 2rem;
+}
+
+#contentContainer h2 span {
+    font-family: 'roboto_bold';
+}
+
+#commercialEmail {
+    width: 100%;
+    float: left;
+    color: #f9a02a;
+    margin-top: 2rem;
+    font-size: 1.8rem;
+}
+
+form.componentForm {
+    width: 100%;
+    max-width: 400px;
+    display: inline-block;
+    margin-top: 5rem;
+}
+
+#frmConditions div.componentFormSwitchComponentContainer {
+    margin-top: -2.1rem;
+}
+
+#frmConditions p {
+    margin-left: 3.2rem;
+}
+
+/* FACEBOOK */
+#visitFacebook {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+#visitFacebook a {
+    display: inline-block;
+    color: #4e69a2;
+    font-size: 1.8rem !important;
+    line-height: 2rem !important;
+    padding: 1rem 0 1rem 40px;
+    background-image: url(../resources/images/contact/facebook.svg);
+    background-repeat: no-repeat;
+    background-position: left center;
+    min-height: 28px;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 768px) {
+    #contentContainer a {
+        font-size: 1rem;
+    }
+
+    #contentContainer h2 {
+        text-align: justify;
+    }
+}

@@ -1,0 +1,32 @@
+#solutionScreen {
+    background-color: #fff;
+    width: 10rem;
+    height: 2rem;
+    color: #000;
+    font-size: 2rem;
+}
+
+#gameKeyboard {
+    background: #555;
+    width: 12rem;
+}
+
+#gameKeyboard li {
+    display: inline-block;
+    width: 2rem;
+    margin: 1rem;
+    color: #fff;
+    border: 1px solid #000;
+}
+
+#gameKeyboard li.n {
+    background-color: #111;
+}
+
+#gameKeyboard li.q {
+    background-color: #aaa;
+}
+
+#gameKeyboard li.e {
+    background-color: red;
+}

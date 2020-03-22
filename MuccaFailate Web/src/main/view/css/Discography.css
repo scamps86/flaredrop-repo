@@ -1,0 +1,84 @@
+li.mainTitle h1 {
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+li.song {
+    margin-top: 10px;
+}
+
+.songTitle {
+    display: inline;
+}
+
+.mainTitle h1 {
+    line-height: 3rem;
+}
+
+.songDuration {
+    color: #aaa;
+    margin-left: 10px;
+}
+
+.songListen {
+    margin-left: 10px;
+}
+
+#songsContent {
+    display: flex;
+    flex-flow: row nowrap;
+    margin-bottom: 4rem;
+}
+
+#selectedAlbum {
+    margin-left: 3rem;
+    margin-top: 15px;
+    width: 40rem;
+}
+
+#selectedAlbum img {
+    width: 100%;
+}
+
+#songsList {
+    width: 100%;
+    margin-top: 2px;
+}
+
+#albumsList {
+    width: 100%;
+    margin-top: 0;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+#albumsList li {
+    width: 10rem;
+    margin: 0 1rem 1rem 0;
+    overflow: hidden;
+}
+
+#albumsList li:HOVER {
+    opacity: 0.6;
+}
+
+#albumsList li img {
+    width: 100%;
+}
+
+#albumBuy {
+    margin-top: 40px;
+}
+
+.downloadFullAlbum {
+    color: #c90f0f;
+    text-transform: uppercase;
+    margin-top: 1rem;
+    display: inline-block;
+}
+
+@media (max-width: 768px) {
+    #selectedAlbum {
+        display: none;
+    }
+}

@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Tasks" basedir=".">
+
+    <!-- Declare properties -->
+    <property name="libraryProjectPath" value="../../FlareDrop Library/"/>
+    <property name="releaseFolder" value="../../target_release/"/>
+    <property name="tmpFolder" value="../../target_release_temp/"/>
+    <property name="yuicompressorPath" value="${libraryProjectPath}deploy/tools/yuicompressor-2.4.7.jar"/>
+    <property name="htmlCompressorPath" value="${libraryProjectPath}deploy/tools/htmlcompressor-1.5.3.jar"/>
+    <property name="phpMinifierPath" value="/Applications/XAMPP/xamppfiles/bin/php"/>
+    <!-- "C:/xampp/php/php.exe" for Windows -->
+    <property name="jsCopyright"
+              value="/** Copyright (C) 2014${line.separator}* This file is part of the FlareDrop Development. ${line.separator}* You may not use this file except in compliance with the License. ${line.separator}* This script cannot be used for commercial${line.separator}* You may obtain a copy of the License at www.flaredrop.com${line.separator}* **/"/>
+    <property name="localHostFolder" value="/Applications/XAMPP/xamppfiles/htdocs/target_release/"/>
+    <!-- "C:\xampp\htdocs\target_release\" for Windows -->
+
+
+    <!-- Define the Google's Closure Compiler task -->
+    <taskdef name="jscomp" classname="com.google.javascript.jscomp.ant.CompileTask"
+             classpath="${libraryProjectPath}deploy/tools/closurecompiler.jar"/>
+
+
+    <!-- Requires the antcontrib extension -->
+    <taskdef resource="net/sf/antcontrib/antcontrib.properties"/>
+
+
+    <!-- Load the configuration properties file -->
+    <loadproperties srcFile="Configuration.properties"/>
+
+    <!-- Call the deploy tasks -->
+    <target name="deploy" if="${deployEnabled}">
+        <antcall target="copyNonProcessFiles"/>
+        <antcall target="copyProcessFiles"/>
+        <antcall target="includeLibrary"/>
+        <antcall target="combineManagerJsCode"/>
+        <antcall target="combineWebJsCode"/>
+        <antcall target="copyToTargetRelease"/>
+        <antcall target="minifyJS"/>
+        <antcall target="minifyCSS"/>
+        <antcall target="minifyPHP"/>
+        <antcall target="minifyHTML"/>
+        <antcall target="updatePhpProperties"/>
+        <antcall target="customAfterTask"/>
+        <antcall target="deleteTargetReleaseTempFolder"/>
+        <antcall target="ftpUpload"/>
+        <antcall target="copyToLocalHost"/>
+        <antcall target="doSectionTesting"/>
+    </target>
+
+    <!-- Copy the project files that not need to be processed to the target_release folder -->
+    <target name="copyNonProcessFiles">
+        <!-- Copy all files that won't need to be processed.-->
+        <copy todir="${releaseFolder}" overwrite="true">
+            <fileset dir="../src/main/">
+                <modified/>
+                <exclude name="**/*.js"/>
+                <exclude name="**/*.css"/>
+                <exclude name="**/*.php"/>
+            </fileset>
+        </copy>
+        <!-- JS library files also not need to be processed -->
+        <copy todir="${releaseFolder}view/js/libraries/" overwrite="true">
+            <fileset dir="../src/main/view/js/libraries/">
+                <modified/>
+            </fileset>
+        </copy>
+    </target>
+
+    <!-- Copy the project files that will be processed to the target_release_temp folder -->
+    <target name="copyProcessFiles">
+        <copy todir="${tmpFolder}" overwrite="true">
+            <fileset dir="../src/main/">
+                <exclude name="**/view/js/libraries/**"/>
+            </fileset>
+        </copy>
+    </target>
+
+    <!-- Copy the root files, library and the concatenated JS library to the target release folder -->
+    <target name="includeLibrary">
+        <echo>Generating and copying library files...</echo>
+
+        <!-- Copy the library web root files to the target release (index.php not included because it needs to be minified) -->
+        <copy todir="${releaseFolder}" overwrite="true">
+            <fileset dir="${libraryProjectPath}src/main/_root">
+                <modified/>
+                <exclude name="index.php"/>
+            </fileset>
+        </copy>
+
+        <!-- Copy the library index.php from the library root files to the temp folder so it needs to be minified -->
+        <copy todir="${tmpFolder}" overwrite="true">
+            <fileset dir="${libraryProjectPath}src/main/_root">
+                <modified/>
+                <include name="index.php"/>
+            </fileset>
+        </copy>
+
+        <!-- Copy the other library CSS and PHP files to the temp folder so they need to be minified -->
+        <copy todir="${tmpFolder}" overwrite="true">
+            <fileset dir="${libraryProjectPath}/src/main/">
+                <modified/>
+                <exclude name="view/js/**"/>
+                <exclude name="_manager/**"/>
+                <exclude name="_root/**"/>
+            </fileset>
+        </copy>
+
+        <!-- Copy the manager CSS and PHP files to the temp folder so they need to be minified. Literals and resources not. We copy all files because of concatenate the JS files -->
+        <copy todir="${tmpFolder}" overwrite="true">
+            <fileset dir="${libraryProjectPath}src/main/_manager/">
+                <exclude name="/**" unless="${managerGenerationEnabled}"/>
+                <exclude name="model/literals/**"/>
+                <exclude name="view/resources/**"/>
+                <exclude name="view/js/**"/>
+            </fileset>
+        </copy>
+
+        <!-- Copy the manager JS files separately to be combined separately from the web JS code -->
+        <copy todir="${tmpFolder}view/js/_manager/" overwrite="true">
+            <fileset dir="${libraryProjectPath}src/main/_manager/view/js/">
+                <exclude name="/**" unless="${managerGenerationEnabled}"/>
+            </fileset>
+        </copy>
+
+        <!-- Copy the manager literals files to the release folder -->
+        <copy todir="${releaseFolder}model/literals/" overwrite="true">
+            <fileset dir="${libraryProjectPath}src/main/_manager/model/literals/"
+                     includes="${managerCopyLiteralBundles}">
+                <modified/>
+                <exclude name="/**" unless="${managerGenerationEnabled}"/>
+            </fileset>
+        </copy>
+
+        <!-- Copy the manager resources files to the release folder -->
+        <copy todir="${releaseFolder}view/resources/" overwrite="true">
+            <fileset dir="${libraryProjectPath}src/main/_manager/view/resources/">
+                <modified/>
+                <exclude name="/**" unless="${managerGenerationEnabled}"/>
+            </fileset>
+        </copy>
+
+        <!-- Concatenate all js library code -->
+        <loadresource property="concatenatedJs">
+            <concat>
+                <fileset dir="${libraryProjectPath}src/main/view/js/" casesensitive="false">
+                    <exclude name="libraries/**"/>
+                </fileset>
+            </concat>
+        </loadresource>
+
+        <!-- Execute the js library concatenation and save it to the temp folder and manager temp folder -->
+        <echo file="${tmpFolder}view/js/FlareDropLib.js" message="${concatenatedJs}" append="false"/>
+        <echo file="${tmpFolder}view/js/_manager/FlareDropLib.js" message="${concatenatedJs}" append="false"/>
+
+        <!-- Copy the third party libraries to the release folder so it doesn't need to be processed -->
+        <copy todir="${releaseFolder}view/js/libraries/" overwrite="true">
+            <fileset dir="${libraryProjectPath}src/main/view/js/libraries/">
+                <modified/>
+            </fileset>
+        </copy>
+    </target>
+
+
+    <!-- Combine the manager js code to one file -->
+    <target name="combineManagerJsCode" if="${managerGenerationEnabled}">
+        <!-- Concatenate all manager js code on the temp folder to a memory variable so we can process it -->
+        <loadresource property="concatenatedManagerJs">
+            <concat>
+                <fileset dir="${tmpFolder}view/js/_manager" casesensitive="false"/>
+            </concat>
+        </loadresource>
+
+        <!-- Delete js concatenated file folders from target_release_temp -->
+        <delete dir="${tmpFolder}view/js/_manager/" includeemptydirs="true" failonerror="true"/>
+
+        <!-- Save the concatenation on the target_release_temp folder -->
+        <echo file="${tmpFolder}view/js/_manager.js"
+              message="initialize();function initialize(){${concatenatedManagerJs}};" append="false"/>
+    </target>
+
+
+    <!-- Combine the web js code to one file -->
+    <target name="combineWebJsCode">
+        <!-- Concatenate all the web js code on the temp folder to a variable so we can process it -->
+        <loadresource property="concatenatedWebJs">
+            <concat>
+                <fileset dir="${tmpFolder}view/js/" casesensitive="false">
+                    <exclude name="_manager.js"/>
+                </fileset>
+            </concat>
+        </loadresource>
+
+        <!-- Delete js concatenated file folders from target_release_temp except _manager.js so it will be moved to the release folder -->
+        <delete dir="${tmpFolder}view/js/" includeemptydirs="true" failonerror="true">
+            <exclude name="_manager.js"/>
+        </delete>
+
+        <!-- Also delete js concatenated file folders from target_release -->
+        <delete dir="${releaseFolder}view/js/" includeemptydirs="true" failonerror="true">
+            <exclude name="libraries/**"/>
+        </delete>
+
+        <!-- Save the concatenation on the target_release_temp folder -->
+        <echo file="${tmpFolder}view/js/${combinedJsFileName}"
+              message="initialize();function initialize(){${concatenatedWebJs}};" append="false"/>
+    </target>
+
+
+    <!-- Apply minification to all the modified PHP files -->
+    <target name="minifyPHP" if="${minifyEnabled}">
+        <echo>Minifying website PHP files...</echo>
+
+        <apply executable="${phpMinifierPath}">
+            <fileset dir="${tmpFolder}">
+                <modified/>
+                <include name="**/*.php"/>
+            </fileset>
+            <arg value="-w"/>
+            <srcfile/>
+            <redirector>
+                <outputmapper id="out" type="glob" from="*.php" to="${tmpFolder}*._php"/>
+            </redirector>
+        </apply>
+    </target>
+
+
+    <!-- Compress php files that may contain inline html. Those are marked with ._php extension -->
+    <target name="minifyHTML" if="${minifyEnabled}">
+        <echo>Minifying website HTML code...</echo>
+        <apply executable="java">
+            <fileset dir="${tmpFolder}">
+                <include name="**/*._php"/>
+            </fileset>
+            <mapper type="glob" from="*._php" to="${basedir}/${releaseFolder}*.php"/>
+            <arg line="-jar"/>
+            <arg path="${htmlCompressorPath}"/>
+            <arg line="--preserve-php"/>
+            <arg line="-o"/>
+            <targetfile/>
+            <srcfile/>
+        </apply>
+
+        <!-- Clean the _php marked files -->
+        <delete>
+            <fileset dir="${releaseFolder}">
+                <include name="**/*._php"/>
+            </fileset>
+        </delete>
+    </target>
+
+
+    <!-- Apply minification to all the modified Web JS files -->
+    <target name="minifyJS" if="${minifyEnabled}">
+        <echo>Minifying website JS files...</echo>
+
+        <jscomp compilationLevel="simple" debug="false" output="${releaseFolder}view/js/${combinedJsFileName}">
+            <sources dir="${tmpFolder}view/js/">
+                <file name="${combinedJsFileName}"/>
+            </sources>
+        </jscomp>
+
+        <!-- Add the copyright to the minified combined js file -->
+        <loadfile property="combinedMinifiedWebJs" srcFile="${releaseFolder}view/js/${combinedJsFileName}"/>
+        <echo file="${releaseFolder}view/js/${combinedJsFileName}" message="${jsCopyright} ${combinedMinifiedWebJs}"
+              append="false"/>
+
+        <!-- Call the minifier for the manager JS files -->
+        <antcall target="minifyManagerJS"/>
+    </target>
+
+
+    <!-- Apply minification to all the modified Manager JS files -->
+    <target name="minifyManagerJS" if="${managerGenerationEnabled}">
+        <echo>Minifying manager JS files...</echo>
+
+        <jscomp compilationLevel="simple" debug="false" output="${releaseFolder}view/js/_manager.js">
+            <sources dir="${tmpFolder}view/js/">
+                <file name="_manager.js"/>
+            </sources>
+        </jscomp>
+
+        <!-- Add the copyright to the minified combined js file -->
+        <loadfile property="combinedMinifiedManagerJs" srcFile="${releaseFolder}view/js/_manager.js"/>
+        <echo file="${releaseFolder}view/js/_manager.js" message="${jsCopyright} ${combinedMinifiedManagerJs}"
+              append="false"/>
+    </target>
+
+
+    <!-- Apply minification to all the modified css files and copy them to release folder overwriting existing ones -->
+    <target name="minifyCSS" if="${minifyEnabled}">
+        <echo>Minifying website CSS files...</echo>
+        <apply executable="java">
+            <fileset dir="${tmpFolder}view/css">
+                <modified/>
+            </fileset>
+            <mapper type="glob" from="*.css" to="${releaseFolder}view/css/*.css"/>
+            <arg line="-jar"/>
+            <arg path="${yuicompressorPath}"/>
+            <arg line="--charset UTF-8"/>
+            <srcfile/>
+            <arg line="-o"/>
+            <targetfile/>
+        </apply>
+    </target>
+
+
+    <!-- Copy all files from the temp folder to the target_release folder only if minification is not enabled -->
+    <target name="copyToTargetRelease" unless="${minifyEnabled}">
+        <copy todir="${releaseFolder}" overwrite="true">
+            <fileset dir="${tmpFolder}"/>
+        </copy>
+    </target>
+
+
+    <!-- Update properties in PHP configuration file -->
+    <target name="updatePhpProperties">
+        <replace file="${releaseFolder}model/web/WebConfigurationBase.php"
+                 token="public static $ANT_MINIFY_ENABLED = false;"
+                 value="public static $ANT_MINIFY_ENABLED = ${minifyEnabled};"/>
+        <replace file="${releaseFolder}model/web/WebConfigurationBase.php"
+                 token="public static $ANT_COMBINED_JS_FILE_NAME = '';"
+                 value="public static $ANT_COMBINED_JS_FILE_NAME = '${combinedJsFileName}';"/>
+        <replace file="${releaseFolder}model/web/WebConfigurationBase.php"
+                 token="public static $ANT_MANAGER_GENERATION_ENABLED = false;"
+                 value="public static $ANT_MANAGER_GENERATION_ENABLED = ${managerGenerationEnabled};"/>
+    </target>
+
+
+    <!-- Upload all files to the target ftp folder -->
+    <target name="ftpUpload" if="${ftpEnabled}">
+        <ftp verbose="true" passive="true" userid="${ftpUser}" password="${ftpPassword}" server="${ftpServer}"
+             remotedir="${ftpFolder}">
+            <fileset dir="${releaseFolder}">
+                <exclude name="/**.DS_Store"/>
+                <modified/>
+            </fileset>
+        </ftp>
+    </target>
+
+
+    <!-- Copy all files to the localhost folder -->
+    <target name="copyToLocalHost" if="${copyToLocalHost}">
+        <copy todir="${localHostFolder}" overwrite="true">
+            <fileset dir="${releaseFolder}">
+                <exclude name="/**.DS_Store"/>
+            </fileset>
+        </copy>
+    </target>
+
+
+    <!-- Delete target_release_temp folder -->
+    <target name="deleteTargetReleaseTempFolder">
+        <delete dir="${tmpFolder}" failonerror="true"/>
+    </target>
+
+
+    <!-- This target must be setup to be executed when the user runs a clean from eclipse -->
+    <target name="clean" if="${deployEnabled}">
+        <delete file="cache.properties"/>
+        <delete dir="${releaseFolder}" failonerror="true"/>
+        <delete dir="${tmpFolder}" failonerror="true"/>
+        <delete dir="${localHostFolder}" failonerror="true"/>
+        <antcall target="ftpClean"/>
+    </target>
+
+
+    <!-- Delete all files and directories from the defined root on the FTP -->
+    <target name="ftpClean" if="${ftpEnabled}">
+        <!-- Delete the remote ftp files -->
+        <ftp verbose="yes" passive="true" action="delete" userid="${ftpUser}" password="${ftpPassword}"
+             server="${ftpServer}" remotedir="${ftpFolder}">
+            <fileset>
+                <exclude name="model/db_files/**"/>
+                <exclude name="_preview/**"/>
+            </fileset>
+        </ftp>
+        <ftp verbose="yes" skipFailedTransfers="true" passive="true" action="rmdir" userid="${ftpUser}"
+             password="${ftpPassword}" server="${ftpServer}"
+             remotedir="${ftpFolder}">
+            <fileset>
+                <exclude name="model/db_files/**"/>
+                <exclude name="_preview/**"/>
+            </fileset>
+        </ftp>
+    </target>
+
+
+    <!-- Do the website sections test (FTP MUST Be ENABLED!) -->
+    <target name="doSectionTesting" if="${enableSectionTesting}">
+
+        <loadfile property="sectionsToTest" srcFile="../src/main/view/loaders/SectionLoader.php">
+            <filterchain>
+                <tokenfilter>
+                    <containsregex pattern="(.*)new WebSection\('([a-z|A-Z]*)'\);(.*)" replace="\2"/>
+                </tokenfilter>
+                <tokenfilter delimoutput=",">
+                    <ignoreblank/>
+                </tokenfilter>
+            </filterchain>
+        </loadfile>
+
+        <propertyregex property="testFolder" input="${ftpFolder}" regexp="^(/public_html/)*" replace=""/>
+
+        <for list="${sectionsToTest}" param="s">
+            <sequential>
+                <get src="http://${ftpServer}/${testFolder}@{s}/" dest=".sectionTest"/>
+                <fail message="Section: ${ftpServer}/${testFolder}@{s} ERROR!!!">
+                    <condition>
+                        <or>
+                            <not>
+                                <resourcecontains resource=".sectionTest" substring="&lt;!DOCTYPE html&gt;&lt;html"
+                                                  casesensitive="true"/>
+                            </not>
+                            <not>
+                                <resourcecontains resource=".sectionTest" substring="&lt;/html&gt;"
+                                                  casesensitive="true"/>
+                            </not>
+                            <not>
+                                <resourcecontains resource=".sectionTest" substring="&lt;head"
+                                                  casesensitive="true"/>
+                            </not>
+                            <not>
+                                <resourcecontains resource=".sectionTest" substring="&lt;/head&gt;"
+                                                  casesensitive="true"/>
+                            </not>
+                            <not>
+                                <resourcecontains resource=".sectionTest" substring="&lt;title&gt;"
+                                                  casesensitive="true"/>
+                            </not>
+                            <not>
+                                <resourcecontains resource=".sectionTest" substring="&lt;/title&gt;"
+                                                  casesensitive="true"/>
+                            </not>
+                            <not>
+                                <resourcecontains resource=".sectionTest" substring="&lt;body"
+                                                  casesensitive="true"/>
+                            </not>
+                            <not>
+                                <resourcecontains resource=".sectionTest" substring="&lt;/body&gt;"
+                                                  casesensitive="true"/>
+                            </not>
+                        </or>
+                    </condition>
+                </fail>
+            </sequential>
+        </for>
+        <delete file=".sectionTest"/>
+    </target>
+
+</project>

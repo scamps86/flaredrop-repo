@@ -1,0 +1,33 @@
+#picturesContainer h2 {
+    font-size: 2rem;
+    line-height: 2rem;
+    display: block;
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+#picturesContainer div {
+    margin-bottom: 3rem;
+}
+
+#picturesContainer div a {
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+    float: left;
+    display: inline-block;
+    width: 20%;
+}
+
+#picturesContainer div a:hover {
+    opacity: 0.8;
+}
+
+#picturesContainer div img {
+    width: 100%;
+}
+
+@media (max-width: 768px) {
+    #picturesContainer div a {
+        width: 40%;
+    }
+}

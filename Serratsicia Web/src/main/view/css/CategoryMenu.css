@@ -1,0 +1,42 @@
+#categoryMenu {
+    margin: 1.5rem 0 3rem 0;
+    padding-right: 1%;
+    width: 24%;
+}
+
+#categoryMenu .componentFolderMenu {
+    float: left;
+}
+
+#categoryMenu .componentFolderMenuOption {
+    float: left;
+    width: 100%;
+}
+
+#categoryMenu .componentFolderMenuOption a {
+    text-transform: uppercase;
+    width: 100%;
+    float: left;
+    margin-bottom: 0.5rem;
+}
+
+#categoryMenu .componentFolderMenuOption.componentFolderMenuOptionSelected > a {
+    font-family: 'roboto_bold';
+}
+
+#categoryMenu .componentFolderSubMenu {
+    float: left;
+    margin: 0 0 1rem 1.5rem;
+}
+
+#categoryMenu .componentFolderSubMenu .componentFolderMenuOption a {
+    color: #a27b35;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 480px) {
+    #categoryMenu {
+        width: 100%;
+        padding-right: 0;
+    }
+}

@@ -1,0 +1,383 @@
+body {
+    background-color: #2f2f2f;
+}
+
+#page {
+    background-color: #fff;
+    min-height: 20rem;
+    padding-bottom: 3rem;
+}
+
+/* FONTS */
+@font-face {
+    font-family: 'roboto_thin';
+    src: local('roboto_thin'), url(../resources/fonts/roboto_thin.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'roboto_light';
+    src: local('roboto_light'), url(../resources/fonts/roboto_light.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'roboto_normal';
+    src: local('roboto_normal'), url(../resources/fonts/roboto_normal.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'roboto_bold';
+    src: local('roboto_bold'), url(../resources/fonts/roboto_bold.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'fjalla';
+    src: local('fjalla'), url(../resources/fonts/fjalla.woff) format('woff');
+}
+
+* {
+    font-family: 'roboto_normal';
+    color: #4b4b4b;
+}
+
+.fontThin {
+    font-family: 'roboto_thin';
+}
+
+.fontLight {
+    font-family: 'roboto_light';
+}
+
+.fontNormal {
+    font-family: 'roboto_normal';
+}
+
+.fontBold {
+    font-family: 'roboto_bold';
+}
+
+.fontHighlight {
+    color: #e72c2c;
+}
+
+.title {
+    color: #e72c2c;
+    font-family: 'fjalla';
+    font-size: 2rem;
+    line-height: 2.2rem;
+    margin-bottom: 2rem;
+}
+
+.titleProduct {
+    color: #000;
+    font-family: 'fjalla';
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+}
+
+/* HEADER TOP */
+#header {
+    position: relative;
+    overflow: visible;
+    z-index: 100;
+}
+
+#headerTop {
+    background-color: #2f2f2f;
+    box-shadow: 0 0 10rem rgba(0, 0, 0, 0.5);
+}
+
+#headerTopLogo {
+    width: 40%;
+    max-width: 220px;
+    float: left;
+    margin: 1rem 0 2rem 0;
+}
+
+#headerTopLogo img {
+    width: 100%;
+}
+
+#headerTopRight {
+    width: 50%;
+    float: right;
+    text-align: right;
+    margin: 1rem 0;
+}
+
+#headerTopRight ul.componentLanguageChanger li {
+    display: inline-block;
+}
+
+#headerTopRight ul.componentLanguageChanger li * {
+    font-size: 0.8rem;
+    color: #888;
+}
+
+#headerTopRight ul.componentLanguageChanger li.componentLanguageChangerOptionGlue {
+    margin: 0 0.8rem;
+}
+
+#headerTopRight ul.componentLanguageChanger li.componentLanguageChangerOptionSelected * {
+    color: #fff;
+}
+
+#headerContactInfo {
+    margin: 2rem 0;
+    text-align: right;
+}
+
+#headerContactInfo .fontHighlight {
+    color: #fff;
+}
+
+/* HEADER BOTTOM */
+#headerBottom {
+    position: absolute;
+    bottom: -1.2rem;
+}
+#headerCatalogBtn {
+    background-color: #e72c2c;
+    float: left;
+    padding: 0.7rem 1rem 0.7rem 0.7rem;
+    cursor: pointer;
+    position: relative;
+}
+#headerCatalogBtn p {
+    color: #fff;
+    font-family: 'fjalla';
+    font-size: 1.2rem;
+    background-image: url(../resources/images/shared/menuBtn.svg);
+    background-repeat: no-repeat;
+    background-size: 1.2rem;
+    padding-left: 2rem;
+}
+#headerMainMenu {
+    background-color: #ececec;
+    float: right;
+}
+#headerMainMenu ul.componentSectionMenu {
+    margin-right: 2rem;
+    overflow: hidden;
+    float: left;
+}
+
+#headerMainMenu ul.componentSectionMenu li.componentSectionMenuOption {
+    display: inline-block;
+    margin: 0.7rem 1rem;
+}
+#headerMainMenu ul.componentSectionMenu li.componentSectionMenuOption a {
+    font-family: 'fjalla';
+    font-size: 1.2rem;
+    color: #2f2f2f;
+}
+
+#headerMainMenu ul.componentSectionMenu li.componentSectionMenuOptionSelected a {
+    color: #e72c2c;
+}
+
+.shcrtUnits {
+    float: right;
+    font-family: 'fjalla';
+    display: inline-block;
+    color: #e72c2c;
+    padding: 0.7rem 1rem 0.7rem 2.2rem;
+    background-image: url(../resources/images/shared/addToCartRed.png);
+    background-repeat: no-repeat;
+    background-position: center left;
+    background-size: 1.5rem;
+}
+
+#headerBottomMobileBtn {
+    height: 3rem;
+    bottom: -1.5rem;
+    position: absolute;
+    background-color: #ececec;
+    background-image: url(../resources/images/shared/menuMobileBtn.svg);
+    background-repeat: no-repeat;
+    background-size: 2rem;
+    background-repeat: no-repeat;
+    background-position: 1rem 0.5rem;
+}
+
+#headerMainMenuMobileContainer {
+    display: none;
+    background-color: #ececec;
+    padding-top: 12rem;
+    position: fixed;
+    z-index: 10;
+    box-shadow: 0 0 10rem rgba(0, 0, 0, 0.5);
+}
+
+#headerMainMenuMobileContainer ul li {
+    margin: 1rem;
+}
+
+#headerMainMenuMobileContainer ul li a {
+    font-size: 1.2rem;
+}
+
+/* TOP CATEGORIES MENU ASIDE */
+#headerCatalogContainer {
+    display: none;
+    background-color: #fff;
+}
+
+#headerCatalogContainer div.centered > div.row {
+    background-color: #555;
+    padding-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#headerCatalogContainer ul {
+    display: inline-block;
+    margin: 1.4rem;
+}
+
+#headerCatalogContainer ul h6 {
+    margin-bottom: 0.5rem;
+}
+
+#headerCatalogContainer ul h6 a {
+    color: #fff;
+    font-family: 'fjalla';
+    font-size: 1.2rem;
+}
+
+#headerCatalogContainer ul li {
+    padding-left: 1rem;
+    margin-bottom: 0.2rem;
+}
+
+#headerCatalogContainer ul li a {
+    color: #aaa;
+}
+
+/* FOOTER */
+#footer {
+    padding: 1rem 0;
+    text-align: center;
+}
+
+#footer ul.componentSectionMenu li.componentSectionMenuOption {
+    display: inline-block;
+    margin: 0.5rem 1rem;
+}
+
+#footer ul.componentSectionMenu li.componentSectionMenuOption a {
+    text-transform: uppercase;
+    color: #888;
+}
+
+#footerLogoContactContainer {
+    display: inline-block;
+    width: 100%;
+    max-width: 500px;
+    margin-top: 2rem;
+}
+
+#footerLogoContactContainer img {
+    float: left;
+    max-width: 150px;
+    width: 30%;
+}
+
+#footerLogoContactContainer div {
+    float: right;
+    width: 70%;
+    text-align: right;
+}
+
+#footerLogoContactContainer div * {
+    color: #fff;
+    line-height: 1.8rem;
+}
+
+#developedBy {
+    color: #646464;
+    display: inline-block;
+    font-size: 0.9rem;
+    margin-top: 2rem;
+}
+
+#userConditions {
+    text-decoration: underline;
+    color: #777 !important;
+}
+
+/* PAGES NAVIGATOR */
+ul.componentPagesNavigator {
+    width: 100%;
+    text-align: center;
+}
+
+ul.componentPagesNavigator li * {
+    font-family: 'roboto_bold';
+}
+
+ul.componentPagesNavigator li.componentPagesNavigatorPage {
+    display: inline-block;
+    margin: 0 1rem;
+}
+
+ul.componentPagesNavigator li.componentPagesNavigatorGlue {
+    display: inline-block;
+}
+
+ul.componentPagesNavigator li.componentPagesNavigatorArrow {
+    display: inline-block;
+}
+
+ul.componentPagesNavigator li.componentPagesNavigatorPage.componentPagesNavigatorPageSelected a {
+    color: #e72c2c;
+}
+
+/* FORMS */
+div.componentFormInputContainer {
+    width: 100%;
+}
+
+div.componentFormInputContainer p {
+    width: 100%;
+    margin: 1.5rem 0 0.6rem 0;
+    font-family: 'roboto_bold';
+}
+
+div.componentFormInputContainer .componentOptionBar p {
+    margin: 0;
+    color: #15508c;
+}
+
+div.componentFormInputContainer input[type=text] {
+    width: 100%;
+    border-radius: 0;
+    border: 1px solid #e72c2c;
+}
+
+div.componentFormInputContainer input[type=submit] {
+    float: right;
+    background-color: #e72c2c;
+    color: #fff;
+    font-family: 'fjalla';
+    border-radius: 0;
+    border: none;
+    margin-top: 1rem;
+}
+
+div.componentFormInputContainer textarea {
+    width: 100%;
+    border-radius: 0;
+    border: 1px solid #e72c2c;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 480px) {
+    #header {
+        position: fixed;
+    }
+
+    #page {
+        margin-top: 8rem;
+    }
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html><html lang="ca"><head><meta charset="utf-8">
+<meta name="author" content="FlareDrop Development">
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, user-scalable=no">
+
+<title>DespejaLaX Inici</title>
+
+<meta name="description" content="">
+<link href="/_preview/despejalax/view/resources/images/shared/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link href="/_preview/despejalax/view/css/Initialize.css?240169" rel="stylesheet">
+<link href="/_preview/despejalax/view/css/Shared.css?240169" rel="stylesheet">
+<link href="/_preview/despejalax/view/css/Home.css?240169" rel="stylesheet">
+<link href="/_preview/despejalax/view/js/libraries/owl/css/owl.carousel.css?240169" rel="stylesheet">
+<link href="/_preview/despejalax/view/js/libraries/owl/css/owl.transitions.css?240169" rel="stylesheet">
+<script src="/_preview/despejalax/view/js/libraries/jquery/jquery.min.js?240169"></script>
+<script src="/_preview/despejalax/view/js/libraries/jquery/jquery-ui.min.js?240169"></script>
+<script src="/_preview/despejalax/view/js/libraries/touchPunch/jquery.ui.touch-punch.min.js?240169"></script>
+<script src="/_preview/despejalax/view/js/_3341.js?240169"></script>
+<script src="/_preview/despejalax/view/js/libraries/owl/owl.carousel.min.js?240169"></script>
+<script>var SECTION_NAME="home";</script></head><body ><!--[if lte IE 9]><div id="topBrowserWarning"><p>El seu navegador és molt antic. Si us plau actualitzi'l.</p></div><![endif]-->
+<section id="header" class="row">
+    <div class="centered">
+
+        <!-- LANGUAGE CHANGER -->
+        <nav class="row">
+            <ul class="componentLanguageChanger" ><li class="componentLanguageChangerOption componentLanguageChangerOptionSelected" locale="ca"><a href="/_preview/despejalax/home/ca"><p>CA</p></a></li><li class="componentLanguageChangerOptionGlue"><p>-</p></li><li class="componentLanguageChangerOption" locale="es"><a href="/_preview/despejalax/home/es"><p>ES</p></a></li></ul>        </nav>
+
+        <!-- MAIN MENU -->
+        <nav class="row">
+            <ul class="componentSectionMenu" ><li class="componentSectionMenuOption componentSectionMenuOptionSelected"><a href="/_preview/despejalax/home/ca">Inici</a></li><li class="componentSectionMenuOption"><a href="/_preview/despejalax/products/ca">Productes</a></li><li class="componentSectionMenuOption"><a href="/_preview/despejalax/contact/ca">Contacte</a></li></ul>        </nav>
+    </div>
+</section><section class="row">
+    <div class="centered">
+
+        <img src="/_preview/despejalax/_webservice/Generate" alt="generate" />
+
+        ok

@@ -1,0 +1,99 @@
+/* FONTS */
+@font-face {
+    font-family: 'roboto_thin';
+    src: local('roboto_thin'), url(../resources/fonts/roboto_thin.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'roboto_light';
+    src: local('roboto_light'), url(../resources/fonts/roboto_light.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'roboto_normal';
+    src: local('roboto_normal'), url(../resources/fonts/roboto_normal.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'roboto_bold';
+    src: local('roboto_bold'), url(../resources/fonts/roboto_bold.woff) format('woff');
+}
+
+* {
+    font-family: 'roboto_normal';
+    color: #444;
+}
+
+.fontThin {
+    font-family: 'roboto_thin';
+}
+
+.fontLight {
+    font-family: 'roboto_light';
+}
+
+.fontNormal {
+    font-family: 'roboto_normal';
+}
+
+.fontBold {
+    font-family: 'roboto_bold';
+}
+
+body {
+    background-image: url(../resources/images/shared/bg.png);
+}
+
+input[type=submit] {
+    border-radius: 0;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+/* POPUPS CUSTOM */
+div.managerPopUpWindow {
+    border-radius: 0;
+}
+
+/* HEADER */
+#header {
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* JOIN FORM */
+#joinFormContainer .left {
+    width: 70%;
+    margin-right: 5%;
+    float: left;
+}
+
+#joinFormContainer .right {
+    width: 25%;
+    float: left;
+}
+
+#joinFormContainer form {
+    width: 100%;
+}
+
+#joinFormContainer form input[type=text] {
+    width: 100%;
+    margin-top: 0.8rem;
+}
+
+#joinFormContainer form p {
+    margin-top: 1.6rem;
+}
+
+#joinFormContainer form input[type=submit] {
+    margin-top: 2rem;
+    background-color: green;
+    border: 1px solid red;
+}
+
+/* FOOTER */
+#footer {
+    background-color: #rgba(255, 255, 255, 0.8);
+}

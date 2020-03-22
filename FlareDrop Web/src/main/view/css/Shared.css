@@ -1,0 +1,391 @@
+/* GLOBAL */
+body {
+    background-color: #eee;
+}
+
+/* FONTS */
+@font-face {
+    font-family: 'roboto_thin';
+    src: local('roboto_thin'), url(../resources/fonts/roboto_thin.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'roboto_light';
+    src: local('roboto_light'), url(../resources/fonts/roboto_light.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'roboto_normal';
+    src: local('roboto_normal'), url(../resources/fonts/roboto_normal.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'roboto_bold';
+    src: local('roboto_bold'), url(../resources/fonts/roboto_bold.woff) format('woff');
+}
+
+* {
+    font-family: 'roboto_normal';
+    color: #444;
+}
+
+.fontThin {
+    font-family: 'roboto_thin';
+}
+
+.fontLight {
+    font-family: 'roboto_light';
+}
+
+.fontNormal {
+    font-family: 'roboto_normal';
+}
+
+.fontBold {
+    font-family: 'roboto_bold';
+}
+
+/* TEXTS*/
+.title {
+    font-size: 3.2rem;
+    line-height: 3.3rem;
+    color: #f9a02a;
+    text-transform: uppercase;
+}
+
+/* HEADER */
+#header {
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0 -10px 60px rgba(0, 0, 0, 0.2);
+    position: relative;
+}
+#topLogoContainer {
+    background-color: #353535;
+    border-bottom: 1px solid #111;
+}
+
+#topLogoContainer div.centered {
+    position: relative;
+}
+
+#topLogoContainer a.topLogo {
+    margin: 10px 0 10px 0;
+    display: block;
+    line-height: 0;
+}
+
+.topLogoMobile {
+    display: inline-block;
+    margin-top: 7px;
+    float: right;
+}
+
+.topLogoMobile img {
+    height: 36px;
+}
+
+#topMenuContainer {
+    background-color: #fdfdfd;
+}
+
+/* LANGUAGE CHANGER */
+#topLogoContainer ul.componentLanguageChanger {
+    right: 20px;
+    top: 20px;
+    position: absolute;
+    line-height: 0;
+    z-index: 1;
+}
+
+ul.componentLanguageChanger li {
+    display: inline-block;
+}
+
+ul.componentLanguageChanger li p {
+    font-size: 0.9rem;
+    color: #848484;
+    line-height: 0;
+}
+
+ul.componentLanguageChanger li.componentLanguageChangerOptionGlue {
+    margin: 0 1rem;
+}
+
+ul.componentLanguageChanger li.componentLanguageChangerOptionSelected p {
+    font-family: 'roboto_bold';
+}
+
+#mobileTopMenuContainer ul.componentLanguageChanger {
+    position: absolute;
+    margin-top: 1rem;
+    right: 1rem;
+}
+
+/* SHARED NETWORKS */
+#topSharedNetworks {
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+}
+
+#topSharedNetworks a, #bottomSharedNetworks a {
+    width: 36px;
+    height: 36px;
+    margin-left: 5px;
+    display: inline-block;
+}
+
+#topSharedNetworks a {
+    background-image: url(../resources/images/shared/socialNetworks.svg);
+}
+
+#bottomSharedNetworks {
+    margin: 2rem 0 2rem 0;
+}
+
+#bottomSharedNetworks a {
+    background-image: url(../resources/images/shared/socialNetworksWB.svg);
+}
+
+#topSharedNetworks a:HOVER, #bottomSharedNetworks a:HOVER {
+    opacity: 0.7;
+}
+
+#topSharedNetworks a.fb, #bottomSharedNetworks a.fb {
+    background-position: 0 0;
+}
+
+#topSharedNetworks a.g, #bottomSharedNetworks a.g {
+    background-position: -36px 0;
+}
+
+#topSharedNetworks a.tw, #bottomSharedNetworks a.tw {
+    background-position: -72px 0;
+}
+
+#topSharedNetworks a.ln, #bottomSharedNetworks a.ln {
+    background-position: -108px 0;
+}
+
+/* MAIN MENU BIG DEVICES */
+#topMenuContainer > .centered {
+    overflow: hidden;
+}
+#desktopMenuContainer ul.componentSectionMenu {
+    width: 100%;
+    text-align: center;
+}
+
+#desktopMenuContainer ul.componentSectionMenu li {
+    display: inline-block;
+    margin: 0 20px 0 20px;
+}
+
+#desktopMenuContainer ul.componentSectionMenu a {
+    display: block;
+    padding: 10px 0 15px 0;
+    font-size: 1rem;
+    transition: All 0.2s ease;
+    border-top: 5px solid transparent;
+    -webkit-transition: All 0.2s ease;
+    -moz-transition: All 0.2s ease;
+    -o-transition: All 0.2s ease;
+}
+
+#desktopMenuContainer ul.componentSectionMenu a:HOVER {
+    border-top: 5px solid #f9c768 !important;
+}
+
+#desktopMenuContainer ul.componentSectionMenu li.componentSectionMenuOptionSelected a {
+    font-family: 'roboto_bold';
+    border-top: 5px solid #f9a331;
+}
+
+/* MAIN MENU SMALL DEVICES */
+#mobileTopMenuBtnContainer {
+    position: relative;
+    background-color: #fff;
+    z-index: 1;
+}
+#mobileTopMenuBtn {
+    width: 30px;
+    margin: 10px 0 10px 0;
+    float: left;
+    cursor: pointer;
+}
+
+#mobileTopMenuContainer {
+    margin-top: -400px;
+}
+
+#mobileTopMenuContainer.expanded {
+    margin-top: 0;
+}
+
+#mobileTopMenuContainer ul.componentSectionMenu {
+    width: 100%;
+    margin: 10px 0 10px 0;
+    float: left;
+}
+
+#mobileTopMenuContainer ul.componentSectionMenu li {
+    width: 100%;
+    float: left;
+}
+
+#mobileTopMenuContainer ul.componentSectionMenu li a {
+    display: block;
+    padding: 1rem 0 1rem 2rem;
+    border-left: 5px solid transparent;
+    font-size: 1.2rem;
+}
+
+#mobileTopMenuContainer ul.componentSectionMenu li.componentSectionMenuOptionSelected a {
+    border-left: 5px solid #f9c768 !important;
+    font-family: 'roboto_bold';
+}
+
+/* COMPONENT FORM */
+form.componentForm p {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 1rem;
+}
+
+form.componentForm input[type=text], form.componentForm textarea {
+    width: 100%;
+    background-color: #f6f6f6;
+}
+
+form.componentForm input[type=submit] {
+    float: right;
+    background-color: #f9a02a;
+    border: 1px solid #f47a24;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 5px 10px 5px 10px;
+}
+
+form.componentForm div.componentFormInputContainer {
+    width: 100%;
+    float: left;
+    margin-bottom: 30px;
+}
+
+/* COMPONENT SWITCH */
+div.componentSwitchOpened {
+    background-color: #f9a02a;
+    border: 1px solid #f47a24;
+}
+
+div.componentSwitchOpened div.componentSwitchInnerBtn {
+    background-color: #fff;
+    border: 1px solid #f47a24;
+}
+
+/* COMPONENT OPTION BAR */
+ul.componentOptionBar {
+    background-color: #fff;
+    border: 1px solid #f47a24;
+}
+
+ul.componentOptionBar li {
+    border-left: 1px solid #f47a24;
+}
+
+ul.componentOptionBar p {
+    margin: 0;
+}
+
+ul.componentOptionBar li.componentOptionBarSelected {
+    background-color: #f9a02a;
+    border-left: 1px solid #f47a24;
+}
+
+ul.componentOptionBar li.componentOptionBarSelected:FIRST-CHILD {
+    border-left: none;
+}
+
+ul.componentOptionBar li.componentOptionBarSelected p {
+    color: #fff;
+}
+
+/* CONTENT */
+#content {
+    padding: 50px 0 450px 0;
+    background-color: #fff;
+    background-image: url(../resources/images/shared/monteixo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: bottom;
+}
+
+#contentContainer {
+    padding-bottom: 20px;
+}
+
+/* FOOTER */
+#footer {
+    background-color: #353535;;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+#footerAllRights {
+    font-size: 0.8rem;
+    color: #848484;
+}
+
+/* FOOTER MENU */
+#footer ul.componentSectionMenu {
+    margin-bottom: 1rem;
+}
+
+#footer ul.componentSectionMenu li {
+    display: inline-block;
+    margin: 0 8px 0 8px;
+}
+
+#footer ul.componentSectionMenu li a {
+    font-size: 0.9rem;
+    color: #848484;
+}
+
+#footer ul.componentSectionMenu li.componentSectionMenuOptionSelected a {
+    font-family: 'roboto_bold';
+}
+
+#footerPrivacy {
+    font-size: 0.8rem;
+    color: #848484;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 1200px) {
+    #content {
+        padding: 50px 0 350px 0;
+    }
+}
+
+@media (max-width: 1024px) {
+    #content {
+        padding: 50px 0 300px 0;
+    }
+}
+
+@media (max-width: 767px) {
+    #header {
+        position: fixed;
+        z-index: 100;
+    }
+
+    #content {
+        padding: 100px 0 240px 0;
+    }
+}
+
+@media (max-width: 480px) {
+    #content {
+        padding: 70px 0 120px 0;
+    }
+}

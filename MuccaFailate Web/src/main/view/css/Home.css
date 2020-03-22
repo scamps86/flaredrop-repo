@@ -1,0 +1,175 @@
+#page {
+    position: relative;
+    background: url(../resources/images/home/mucca.png) no-repeat right top;
+    background-size: 70%;
+    padding-bottom: 40px;
+    min-height: 600px;
+}
+
+#bandMbl img {
+    width: 100%;
+}
+
+#leftShowsContainer {
+    margin-right: 15px;
+}
+
+#leftShowsContainer .showDay {
+    font-size: 80px;
+    line-height: 80px;
+    margin-right: 15px;
+    float: left;
+}
+
+#leftShowsContainer .showMonth {
+    font-size: 30px;
+    line-height: 46px;
+}
+
+#leftShowsContainer .showTime {
+    font-size: 30px;
+    line-height: 26px;
+}
+
+#leftShowsContainer .showPlace {
+    font-size: 22px;
+    line-height: 30px;
+}
+
+#leftShowsContainer .showCity {
+    font-size: 18px;
+    line-height: 25px;
+    text-transform: uppercase;
+}
+
+#leftShowsContainer .showDescription {
+    line-height: 22px;
+    margin: 5px 0;
+}
+
+#leftShowsContainer .showPrice {
+    text-transform: uppercase;
+    line-height: 22px;
+    font-size: 14px;
+}
+
+#leftShowsContainer .showPrice.crossed span.price {
+    text-decoration: line-through;
+}
+
+#leftShowsContainer .showPrice span.aPrice, #leftShowsContainer .showPrice span.aPrice span {
+    color: #c90f0f;
+}
+
+#leftShowsContainer > li {
+    margin-bottom: 50px;
+}
+
+#rightNewsContainer {
+    padding: 15px 15px 5px 15px;
+    background-color: rgba(201, 15, 15, 0.8);
+}
+
+#rightNewsContainer * {
+    color: #fff;
+}
+
+#rightNewsContainer .newsTitle {
+    text-transform: uppercase;
+    font-size: 22px;
+    line-height: 22px;
+    margin-bottom: 10px;
+}
+
+#rightNewsContainer .newsDescription {
+    line-height: 18px;
+}
+
+#goToShowsBtn a {
+    background-color: #c90f0f;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+    display: block;
+}
+
+#goToShowsBtn a:HOVER {
+    background-color: #2d2d2d;
+}
+
+#mobileNews li {
+    margin-bottom: 3rem;
+}
+
+#slider li {
+    padding-bottom: 3rem;
+}
+
+#socials {
+    text-align: center;
+    margin-bottom: 3rem;
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 950px) {
+    #page {
+        background-image: none;
+        display: flex;
+        flex-flow: row;
+    }
+
+    #leftShowsContainer {
+        flex: 0 0 220px;
+    }
+
+    #mobileNews {
+        display: inherit;
+    }
+
+    #slider {
+        display: none !important;
+    }
+}
+
+@media (min-width: 950px) {
+    #rightNewsContainer {
+        width: 400px;
+        position: absolute;
+        bottom: 40px;
+        right: 0;
+    }
+
+    #leftShowsContainer {
+        width: 220px;
+    }
+
+    #mobileNews {
+        display: none;
+    }
+
+    #slider {
+        display: inherit;
+    }
+}
+
+@media (max-width: 768px) {
+
+    #page {
+        flex-flow: column;
+    }
+
+    #leftShowsContainer {
+        margin-right: 0;
+        margin-top: 3rem;
+    }
+}
+
+@media (min-width: 768px) {
+    #bandMbl {
+        display: none;
+    }
+}

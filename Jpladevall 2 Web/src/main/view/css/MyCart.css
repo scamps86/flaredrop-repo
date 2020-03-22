@@ -1,0 +1,137 @@
+h1 {
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+}
+
+#cartHeaderContainer {
+    background-color: #dedede;
+    border: 1px solid #bebcb7;
+    margin-top: 2rem;
+}
+
+#cartContainer {
+    margin-bottom: 1rem;
+}
+
+.cartTable li {
+    display: block;
+    text-transform: uppercase;
+    text-align: center;
+    border-right: 1px solid #c2d3e0;
+    height: 2.2rem;
+    float: left;
+    padding: 0.5rem;
+}
+
+.cartTable li:nth-child(1), .componentShoppingCartItem > *:nth-child(1) {
+    width: 10%;
+}
+
+.cartTable li:nth-child(2), .componentShoppingCartItem > *:nth-child(2) {
+    width: 40%;
+}
+
+.cartTable li:nth-child(3), .componentShoppingCartItem > *:nth-child(3) {
+    width: 20%;
+}
+
+.cartTable li:nth-child(4), .componentShoppingCartItem > *:nth-child(5) {
+    width: 30%;
+}
+
+.componentShoppingCartItem {
+    width: 100%;
+    float: left;
+}
+
+.componentShoppingCartItemsList {
+    width: 100%;
+    float: left;
+}
+
+.componentShoppingCartOuter {
+    width: 100%;
+    float: left;
+    margin-top: 2rem;
+}
+
+.componentShoppingCartItem {
+    border-left: 1px solid #d9dde3;
+    border-right: 1px solid #d9dde3;
+    border-bottom: 1px solid #d9dde3;
+    position: relative;
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+.componentShoppingCartItem > img {
+    float: left;
+    width: 10%;
+    height: 10%;
+    border-right: 1px solid #c2d3e0;
+    padding: 1rem;
+}
+
+.componentShoppingCartItem > a {
+    float: left;
+    border-right: 1px solid #c2d3e0;
+    padding: 1rem;
+}
+
+.componentShoppingCartItem > p {
+    float: left;
+    padding: 1rem;
+    border-right: 1px solid #c2d3e0;
+}
+
+.componentShoppingCartItemUnits input {
+    width: 3rem;
+}
+
+.componentShoppingCartShippingPrice {
+    display: none;
+}
+
+.componentShoppingCartItemTaxes {
+    display: none;
+}
+
+.componentShoppingCartItemUnits {
+    border: none !important;
+}
+
+.componentShoppingCartItemInputRemove {
+    position: absolute;
+    right: 0;
+    margin: 1rem;
+}
+
+.componentShoppingCartTotalPrice {
+    text-align: right;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.componentShoppingCartTotalPrice span {
+    color: #0093dd;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+}
+
+.componentShoppingCartEmpty {
+    background-color: #cc3333 !important;
+    border: none !important;
+    color: #fff !important;
+}
+
+.componentShoppingCartItemPicture {
+    cursor: pointer;
+}
+
+#checkoutBtn {
+    float: right;
+    margin-bottom: 3rem;
+    margin-top: -3rem;
+}

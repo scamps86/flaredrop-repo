@@ -1,0 +1,77 @@
+#categoriesMenu .componentFolderMenu .componentFolderMenuOptionSelected a {
+    font-family: 'roboto_normal';
+}
+
+#containerLeft {
+    width: 55%;
+    margin-right: 5%;
+    margin-top: 2rem;
+    float: left;
+}
+
+#containerRight {
+    width: 40%;
+    float: left;
+    margin-top: 2rem;
+    text-align: right;
+}
+
+#slider a.slide {
+    display: block;
+}
+
+#slider a.slide img {
+    width: 100%;
+}
+
+#containerLeft h1 {
+    font-size: 2.2rem;
+    line-height: 2.2rem;
+    margin-bottom: 1rem;
+}
+
+#containerLeft h2 {
+    text-transform: uppercase;
+    margin-bottom: 3rem;
+}
+
+#productDescription {
+    text-align: justify;
+    margin-bottom: 4rem;
+}
+
+#productPrice {
+    color: #d40606;
+    margin-top: 0.8rem;
+}
+
+#slider {
+    width: 100%;
+}
+
+a.buyBtn {
+    float: right;
+    margin-top: 2rem;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 480px) {
+    #containerLeft {
+        width: 100%;
+        margin-right: 0;
+    }
+
+    #containerLeft a.buyBtn {
+        display: none;
+    }
+
+    #containerRight {
+        width: 100%;
+    }
+}
+
+@media (min-width: 480px) {
+    #containerRight a.buyBtn {
+        display: none;
+    }
+}
